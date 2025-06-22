@@ -1,0 +1,38 @@
+name: Auto Run Every Hour
+
+on:
+  schedule:
+    - cron: '0 * * * *'
+    # - cron: '0 0 * * *'   # 每天 0:00（UTC）
+    # - cron: '0 12 * * *'  # 每天 12:00（UTC）
+  workflow_dispatch:
+
+jobs:
+  run_scripts:
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Checkout code
+      uses: actions/checkout@v3
+      with:
+        persist-credentials: false
+        token: ${{ secrets.GH_PAT }}
+
+    - name: Set up Python
+      uses: actions/setup-python@v5
+      with:
+        python-version: '3.10'
+
+    - name: Install dependencies
+      run: pip install requests tqdm
+
+    - name: Run run_all.py
+      run: python run_all.py
+
+    - name: Push updates
+      run: |
+        git config user.name "github-actions[bot]"
+        git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+        git add .
+        git commit -m "🤖 自动更新时间为：$(date '+%Y-%m-%d %H:%M:%S')" || echo "nothing to commit"
+        git push https://x-access-token:${{ secrets.GH_PAT }}@github.com/${{ github.repository }} HEAD:${{ github.ref_name }}
