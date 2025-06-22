@@ -1,0 +1,383 @@
+<!DOCTYPE html>
+<html lang="zh">
+<head>
+  <meta charset="UTF-8">
+  <title>VR 公演视频链接</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no">
+  <style>
+    html, body {
+      margin: 0;
+      padding: 0;
+      background-color: #f5f5f5;
+      width: 100%;
+      height: 100%;
+      overflow-x: hidden;
+    }
+    body {
+      font-family: Arial, sans-serif;
+      color: #333;
+      visibility: hidden;
+      padding-top: 8px;
+    }
+    .top-bar {
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      max-width: 600px;
+      margin: 0 auto;
+      margin-top: 2px;      /* 距离屏幕上边更少 */
+      padding: 4px 0 0 0;   /* 顶部留一点空间 */
+      width: 100%;
+      box-sizing: border-box;
+    }
+    .main-title {
+      text-align: center;
+      flex: 1;
+      font-size: 1.4em;
+      font-weight: bold;
+      margin: 0;
+      color: grey;
+      letter-spacing: 1px;
+    }
+    #searchContainer {
+      margin-top: 10px;
+      margin-bottom: 8px;
+      text-align: center;
+    }
+    #searchInput {
+      padding: 6px 12px;
+      width: 75%;
+      max-width: 500px;
+      font-size: 15px;
+      border-radius: 6px;
+      border: 1px solid lightgray;
+    }
+    .content-container {
+      max-width: 600px;
+      margin: 0 auto;
+      background-color: white;
+      padding: 10px;
+      border-radius: 10px;
+      box-shadow: 0 2px 10px rgba(0,0,0,0.08);
+      min-height: 60px;
+    }
+    .item {
+      background: #fff; /* 白色底色 */
+      padding: 12px 10px 10px 10px;
+      margin-bottom: 14px;
+      border-radius: 10px;
+      box-shadow: 0 1px 4px rgba(120,80,200,0.06);
+      transition: box-shadow 0.2s;
+    }
+    .item:hover {
+      box-shadow: 0 4px 16px rgba(120,80,200,0.13);
+    }
+    .title {
+      font-weight: bold;
+      margin-bottom: 6px;
+      color: rgb(66, 66, 66);
+      font-size: 1.08em;
+    }
+    .seat {
+      margin-left: 15px;
+      margin-bottom: 4px;
+      font-size: 0.98em;
+    }
+    button {
+      margin: 3px 4px 3px 0;
+      padding: 4px 12px;
+      border: none;
+      border-radius: 6px;
+      background-color: #acc8fc;
+      color: white;
+      cursor: pointer;
+      font-size: 14px;
+      transition: background 0.2s;
+    }
+    button:hover {
+      background-color: #638fe0;
+    }
+    @media (max-width: 700px) {
+      #searchContainer > div { max-width: 98vw; }
+      #searchInput { width: 98vw; max-width: 98vw; }
+      .content-container, .top-bar { max-width: 98vw; }
+      .main-title { font-size: 1.1em; }
+      .top-bar { padding-top: 2px; }
+      .item { padding: 10px 5px 8px 5px; margin-bottom: 10px; }
+      .seat { font-size: 0.95em; margin-left: 8px; }
+      button {
+        font-size: 15px;
+        padding: 7px 16px;
+        margin: 4px 4px 4px 0;
+        min-width: 60px;
+        display: inline-block;
+      }
+      .top-bar { gap: 16px; }
+    }
+    @media (max-width: 480px) {
+      .main-title { font-size: 1em; }
+      .item { padding: 8px 2px 6px 2px; }
+      button { font-size: 14px; padding: 7px 10px; min-width: 48px; }
+      .seat { margin-left: 2px; }
+    }
+    /* 让 seat 内按钮自动换行 */
+    .seat {
+      display: flex;
+      flex-wrap: wrap;
+      align-items: center;
+      gap: 4px;
+    }
+  </style>
+</head>
+<body>
+  <div class="top-bar">
+    <button id="homeBtn" title="显示全部公演" style="background:none;border:none;font-size:20px;cursor:pointer;">🏠</button>
+    <span class="main-title">VR 公演视频链接</span>
+    <button id="copyrightBtn" title="版权" style="background:none;border:none;font-size:20px;cursor:pointer;">❔</button>
+  </div>
+  <!-- 新增：弹窗模态框 -->
+  <div id="aboutModal" style="display:none;position:fixed;z-index:9999;left:0;top:0;width:100vw;height:100vh;background:rgba(0,0,0,0.18);">
+    <div style="background:#fff;max-width:340px;margin:80px auto 0 auto;padding:22px 18px 18px 18px;border-radius:12px;box-shadow:0 4px 24px rgba(0,0,0,0.13);position:relative;">
+      <button id="closeAbout" style="position:absolute;right:12px;top:10px;background:none;border:none;font-size:20px;cursor:pointer;">✖</button>
+      <div style="font-size:1.13em;font-weight:bold;margin-bottom:10px;">关于本站</div>
+      <div style="color:#444;font-size:1em;line-height:1.7;">
+        使用方法：在搜索栏输入关键词可筛选公演，点击8K、4K、2K按钮可复制视频链接。<br>
+        数据本身的队伍Tag十分混乱，为了减少工作量，就没有加队伍筛选功能。<br>
+        <br>
+        说明：链接均整理自网络。目前的数据为静止数据，我会不定期手动更新，不一定以后会不会升级为自动更新。<br>
+        <br>
+        塞克西 2025年6月 祝好
+      </div>
+    </div>
+  </div>
+  <div id="searchContainer" style="margin-top: 10px; margin-bottom: 8px; text-align: center;">
+    <div style="display: inline-flex; align-items: center; justify-content: center; gap: 8px; width: 95%; max-width: 600px;">
+      <input
+        type="text"
+        id="searchInput"
+        placeholder="输入关键词筛选公演"
+        style="padding: 6px 12px; flex: 1; font-size: 15px; border-radius: 6px; border: 1px solid lightgray;"
+      />
+      <button id="searchBtn"
+        style="padding: 6px 16px; font-size: 15px; background-color: #acc8fc; color: white; border: none; border-radius: 6px; cursor: pointer; white-space: nowrap;">
+        搜索
+      </button>
+    </div>
+  </div>
+  <div class="content-container" id="content">加载中...</div>
+
+  <script>
+    let allData = [];
+    let currentSearch = '';
+
+    // fetch 增加超时和错误处理
+    async function loadJson() {
+      const controller = new AbortController();
+      const timeout = setTimeout(() => controller.abort(), 8000); // 8秒超时
+      try {
+        const response = await fetch('data.json', { signal: controller.signal });
+        clearTimeout(timeout);
+        if (!response.ok) throw new Error('网络错误');
+        const data = await response.json();
+        if (!Array.isArray(data)) throw new Error('数据格式错误');
+        return data;
+      } catch (err) {
+        clearTimeout(timeout);
+        throw err;
+      }
+    }
+
+    function copyToClipboard(text) {
+      if (!text) {
+        alert('❌ 链接为空');
+        return;
+      }
+      if (navigator.clipboard && navigator.clipboard.writeText) {
+        navigator.clipboard.writeText(text).then(() => {
+          alert('已复制链接：' + text);
+        }).catch(() => {
+          fallbackCopy(text);
+        });
+      } else {
+        fallbackCopy(text);
+      }
+    }
+
+    function fallbackCopy(text) {
+      try {
+        const textarea = document.createElement('textarea');
+        textarea.value = text;
+        textarea.style.position = 'fixed';
+        textarea.style.opacity = '0';
+        document.body.appendChild(textarea);
+        textarea.focus();
+        textarea.select();
+        const successful = document.execCommand('copy');
+        document.body.removeChild(textarea);
+        if (successful) {
+          alert('✅ 已复制链接：' + text);
+        } else {
+          alert('❌ 无法复制链接');
+        }
+      } catch (err) {
+        alert('❌ 无法复制链接');
+      }
+    }
+
+    function safeText(val, fallback = '') {
+      return (typeof val === 'string' && val.trim()) ? val : fallback;
+    }
+
+    function createPage(data) {
+      let filtered = Array.isArray(data) ? data : [];
+      if (currentSearch) {
+        const kw = currentSearch.trim().toLowerCase();
+        filtered = filtered.filter(item =>
+          safeText(item.cnName).toLowerCase().includes(kw)
+        );
+      }
+      filtered.sort((a, b) => {
+        if (!a.date && !b.date) return 0;
+        if (!a.date) return 1;
+        if (!b.date) return -1;
+        return b.date.localeCompare(a.date);
+      });
+
+      const container = document.getElementById('content');
+      container.innerHTML = '';
+
+      filtered.forEach(item => {
+        const div = document.createElement('div');
+        div.className = 'item';
+
+        // 日期和时长
+        const meta = document.createElement('div');
+        meta.style.color = '#888';
+        meta.style.fontSize = '0.93em';
+        meta.style.marginBottom = '2px';
+        meta.textContent = `${safeText(item.date)}${item.duration ? ' ｜ ' + safeText(item.duration) : ''}`;
+        div.appendChild(meta);
+
+        const title = document.createElement('div');
+        title.className = 'title';
+        title.textContent = ` ${safeText(item.cnName, '无标题')}`;
+        div.appendChild(title);
+
+        if (Array.isArray(item.liveBroadcastSeats) && item.liveBroadcastSeats.length > 0) {
+          item.liveBroadcastSeats.forEach((seat, idx, arr) => {
+            const seatDiv = document.createElement('div');
+            let seatLabel = '';
+            const seatName = safeText(seat.name, '');
+            if (arr.length === 1) {
+              seatLabel = '中机位';
+            } else if (seatName.includes('中')) {
+              seatLabel = '中机位';
+            } else if (seatName.includes('左')) {
+              seatLabel = '左机位';
+            } else if (seatName.includes('右')) {
+              seatLabel = '右机位';
+            } else {
+              seatLabel = seatName || '未知机位';
+            }
+            seatDiv.className = 'seat';
+            seatDiv.innerHTML = ` ${seatLabel}: `;
+
+            if (Array.isArray(seat.liveBroadcastSeatAddressList) && seat.liveBroadcastSeatAddressList.length > 0) {
+              seat.liveBroadcastSeatAddressList.forEach(addr => {
+                const url = safeText(addr && addr.address);
+                let label = '';
+                let urlLower = url.toLowerCase();
+
+                if (urlLower.includes('8k')) {
+                  label = '8K';
+                } else {
+                  let match = urlLower.match(/\/([^\/]+)\.mp4/);
+                  if (match && match[1]) {
+                    if (match[1].includes('4k')) label = '4K';
+                    else if (match[1].includes('2k')) label = '2K';
+                    else label = '链接';
+                  } else {
+                    label = '链接';
+                  }
+                }
+
+                const btn = document.createElement('button');
+                btn.textContent = label;
+                btn.disabled = !url;
+                btn.onclick = function () {
+                  if (btn.disabled) return;
+                  btn.disabled = true;
+                  copyToClipboard(url);
+                  setTimeout(() => { btn.disabled = false; }, 1200);
+                };
+                seatDiv.appendChild(btn);
+              });
+            } else {
+              const btn = document.createElement('button');
+              btn.textContent = '无链接';
+              btn.disabled = true;
+              seatDiv.appendChild(btn);
+            }
+            div.appendChild(seatDiv);
+          });
+        } else {
+          const seatDiv = document.createElement('div');
+          seatDiv.className = 'seat';
+          seatDiv.innerHTML = '无机位信息';
+          div.appendChild(seatDiv);
+        }
+
+        container.appendChild(div);
+      });
+
+      if (filtered.length === 0) {
+        container.innerHTML = '<div style="color:#888;text-align:center;padding:30px 0;">没有符合条件的公演</div>';
+      }
+    }
+
+    // 监听搜索输入
+    window.addEventListener('DOMContentLoaded', () => {
+      const searchInput = document.getElementById('searchInput');
+      const searchBtn = document.getElementById('searchBtn');
+      function doSearch() {
+        currentSearch = searchInput.value;
+        createPage(allData);
+        searchInput.blur(); // 收起键盘
+      }
+      searchInput.addEventListener('keydown', function(e) {
+        if (e.key === 'Enter') {
+          doSearch();
+        }
+      });
+      searchBtn.addEventListener('click', doSearch);
+
+      // 新增：Home 按钮显示全部公演
+      document.getElementById('homeBtn').onclick = function() {
+        searchInput.value = '';
+        currentSearch = '';
+        createPage(allData);
+      };
+      // ❔按钮弹出关于弹窗
+      document.getElementById('copyrightBtn').onclick = function() {
+        document.getElementById('aboutModal').style.display = 'block';
+      };
+      document.getElementById('closeAbout').onclick = function() {
+        document.getElementById('aboutModal').style.display = 'none';
+      };
+      // 点击模态框背景关闭
+      document.getElementById('aboutModal').onclick = function(e) {
+        if (e.target === this) this.style.display = 'none';
+      };
+      document.body.style.visibility = 'visible';
+    });
+
+    loadJson().then(data => {
+      allData = data;
+      createPage(allData);
+    }).catch(err => {
+      document.getElementById('content').textContent = '❌ 加载失败：' + (err && err.message ? err.message : '未知错误');
+      console.error(err);
+    });
+  </script>
+</body>
+</html>
