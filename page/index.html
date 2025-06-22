@@ -167,15 +167,16 @@
   <div class="content-container" id="content">加载中...</div>
 
   <script>
+  (function() {
     let allData = [];
     let currentSearch = '';
 
     // fetch 增加超时和错误处理
-    async function loadJson() {
+    async function fetchJson(url) {
       const controller = new AbortController();
-      const timeout = setTimeout(() => controller.abort(), 8000); // 8秒超时
+      const timeout = setTimeout(() => controller.abort(), 8000);
       try {
-        const response = await fetch('data.json', { signal: controller.signal });
+        const response = await fetch(url, { signal: controller.signal });
         clearTimeout(timeout);
         if (!response.ok) throw new Error('网络错误');
         const data = await response.json();
@@ -183,6 +184,19 @@
         return data;
       } catch (err) {
         clearTimeout(timeout);
+        throw err;
+      }
+    }
+
+    async function loadJson() {
+      try {
+        const [liveData, allOtherData] = await Promise.all([
+          fetchJson('live.json'),
+          fetchJson('data.json')
+        ]);
+        if (!Array.isArray(liveData) || !Array.isArray(allOtherData)) throw new Error('数据格式错误');
+        return [...liveData, ...allOtherData];
+      } catch (err) {
         throw err;
       }
     }
@@ -215,7 +229,7 @@
         const successful = document.execCommand('copy');
         document.body.removeChild(textarea);
         if (successful) {
-          alert('✅ 已复制链接：' + text);
+          alert('已复制链接：' + text);
         } else {
           alert('❌ 无法复制链接');
         }
@@ -233,10 +247,11 @@
       if (currentSearch) {
         const kw = currentSearch.trim().toLowerCase();
         filtered = filtered.filter(item =>
-          safeText(item.cnName).toLowerCase().includes(kw)
+          safeText(item && item.cnName).toLowerCase().includes(kw)
         );
       }
       filtered.sort((a, b) => {
+        if (!a || !b) return 0;
         if (!a.date && !b.date) return 0;
         if (!a.date) return 1;
         if (!b.date) return -1;
@@ -244,9 +259,11 @@
       });
 
       const container = document.getElementById('content');
+      if (!container) return;
       container.innerHTML = '';
 
       filtered.forEach(item => {
+        if (!item || typeof item !== 'object') return;
         const div = document.createElement('div');
         div.className = 'item';
 
@@ -255,7 +272,9 @@
         meta.style.color = '#888';
         meta.style.fontSize = '0.93em';
         meta.style.marginBottom = '2px';
-        meta.textContent = `${safeText(item.date)}${item.duration ? ' ｜ ' + safeText(item.duration) : ''}`;
+        const dateText = safeText(item.date) ? `${safeText(item.date)}` : '';
+        const durationText = item.duration ? ` ｜ ${safeText(item.duration)}` : '';
+        meta.textContent = `${dateText}${durationText}`;
         div.appendChild(meta);
 
         const title = document.createElement('div');
@@ -265,6 +284,7 @@
 
         if (Array.isArray(item.liveBroadcastSeats) && item.liveBroadcastSeats.length > 0) {
           item.liveBroadcastSeats.forEach((seat, idx, arr) => {
+            if (!seat || typeof seat !== 'object') return;
             const seatDiv = document.createElement('div');
             let seatLabel = '';
             const seatName = safeText(seat.name, '');
@@ -280,7 +300,7 @@
               seatLabel = seatName || '未知机位';
             }
             seatDiv.className = 'seat';
-            seatDiv.innerHTML = ` ${seatLabel}: `;
+            seatDiv.textContent = ` ${seatLabel}: `;
 
             if (Array.isArray(seat.liveBroadcastSeatAddressList) && seat.liveBroadcastSeatAddressList.length > 0) {
               seat.liveBroadcastSeatAddressList.forEach(addr => {
@@ -291,7 +311,7 @@
                 if (urlLower.includes('8k')) {
                   label = '8K';
                 } else {
-                  let match = urlLower.match(/\/([^\/]+)\.mp4/);
+                  let match = urlLower.match(/\/([^\/]+)\.(m3u8|mp4)/);
                   if (match && match[1]) {
                     if (match[1].includes('4k')) label = '4K';
                     else if (match[1].includes('2k')) label = '2K';
@@ -307,7 +327,11 @@
                 btn.onclick = function () {
                   if (btn.disabled) return;
                   btn.disabled = true;
-                  copyToClipboard(url);
+                  try {
+                    copyToClipboard(url);
+                  } catch (e) {
+                    alert('复制失败');
+                  }
                   setTimeout(() => { btn.disabled = false; }, 1200);
                 };
                 seatDiv.appendChild(btn);
@@ -323,7 +347,7 @@
         } else {
           const seatDiv = document.createElement('div');
           seatDiv.className = 'seat';
-          seatDiv.innerHTML = '无机位信息';
+          seatDiv.textContent = '无机位信息';
           div.appendChild(seatDiv);
         }
 
@@ -340,34 +364,49 @@
       const searchInput = document.getElementById('searchInput');
       const searchBtn = document.getElementById('searchBtn');
       function doSearch() {
-        currentSearch = searchInput.value;
+        currentSearch = searchInput ? searchInput.value : '';
         createPage(allData);
-        searchInput.blur(); // 收起键盘
+        if (searchInput) searchInput.blur();
       }
-      searchInput.addEventListener('keydown', function(e) {
-        if (e.key === 'Enter') {
-          doSearch();
-        }
-      });
-      searchBtn.addEventListener('click', doSearch);
+      if (searchInput) {
+        searchInput.addEventListener('keydown', function(e) {
+          if (e.key === 'Enter') {
+            doSearch();
+          }
+        });
+      }
+      if (searchBtn) {
+        searchBtn.addEventListener('click', doSearch);
+      }
 
-      // 新增：Home 按钮显示全部公演
-      document.getElementById('homeBtn').onclick = function() {
-        searchInput.value = '';
-        currentSearch = '';
-        createPage(allData);
-      };
+      // Home 按钮显示全部公演
+      const homeBtn = document.getElementById('homeBtn');
+      if (homeBtn) {
+        homeBtn.onclick = function() {
+          if (searchInput) searchInput.value = '';
+          currentSearch = '';
+          createPage(allData);
+        };
+      }
       // ❔按钮弹出关于弹窗
-      document.getElementById('copyrightBtn').onclick = function() {
-        document.getElementById('aboutModal').style.display = 'block';
-      };
-      document.getElementById('closeAbout').onclick = function() {
-        document.getElementById('aboutModal').style.display = 'none';
-      };
-      // 点击模态框背景关闭
-      document.getElementById('aboutModal').onclick = function(e) {
-        if (e.target === this) this.style.display = 'none';
-      };
+      const copyrightBtn = document.getElementById('copyrightBtn');
+      const aboutModal = document.getElementById('aboutModal');
+      const closeAbout = document.getElementById('closeAbout');
+      if (copyrightBtn && aboutModal) {
+        copyrightBtn.onclick = function() {
+          aboutModal.style.display = 'block';
+        };
+      }
+      if (closeAbout && aboutModal) {
+        closeAbout.onclick = function() {
+          aboutModal.style.display = 'none';
+        };
+      }
+      if (aboutModal) {
+        aboutModal.onclick = function(e) {
+          if (e.target === this) this.style.display = 'none';
+        };
+      }
       document.body.style.visibility = 'visible';
     });
 
@@ -375,9 +414,13 @@
       allData = data;
       createPage(allData);
     }).catch(err => {
-      document.getElementById('content').textContent = '❌ 加载失败：' + (err && err.message ? err.message : '未知错误');
+      const content = document.getElementById('content');
+      if (content) {
+        content.textContent = '❌ 加载失败：' + (err && err.message ? err.message : '未知错误');
+      }
       console.error(err);
     });
+  })();
   </script>
 </body>
 </html>

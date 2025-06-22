@@ -1,0 +1,60 @@
+[
+  {
+    "id": 1,
+    "cnName": "SNH48 剧场直播",
+    "date": "20301030",
+    "contentNumber": "",
+    "firstLetter": "S",
+    "duration": "当公演开始后可以观看",
+    "brief": "SNH48 直播",
+    "createTime": "2025-06-22 00:00:00",
+    "updateTime": "2025-06-22 00:00:00",
+    "liveBroadcastSeats": [
+      {
+        "name": "中机位",
+        "liveBroadcastSeatAddressList": [
+          { "address": "http://tencentpull.letinvr.com/snhlive/1803d_8k_m_805.m3u8" },
+          { "address": "http://tencentpull.letinvr.com/snhlive/1803d_4k_m_805.m3u8" },
+          { "address": "http://tencentpull.letinvr.com/snhlive/1803d_2k_m_805.m3u8" }
+        ]
+      },
+      {
+        "name": "左机位",
+        "liveBroadcastSeatAddressList": [
+          { "address": "http://tencentpull.letinvr.com/snhlive/1803d_8k_l_805.m3u8" },
+          { "address": "http://tencentpull.letinvr.com/snhlive/1803d_4k_l_805.m3u8" },
+          { "address": "http://tencentpull.letinvr.com/snhlive/1803d_2k_l_805.m3u8" }
+        ]
+      },
+      {
+        "name": "右机位",
+        "liveBroadcastSeatAddressList": [
+          { "address": "http://tencentpull.letinvr.com/snhlive/1803d_8k_r_805.m3u8" },
+          { "address": "http://tencentpull.letinvr.com/snhlive/1803d_4k_r_805.m3u8" },
+          { "address": "http://tencentpull.letinvr.com/snhlive/1803d_2k_r_805.m3u8" }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "cnName": "GNZ48 剧场直播",
+    "date": "20301030",
+    "contentNumber": "",
+    "firstLetter": "G",
+    "duration": "当公演开始后可以观看",
+    "brief": "GNZ48 直播",
+    "createTime": "2025-06-22 00:00:00",
+    "updateTime": "2025-06-22 00:00:00",
+    "liveBroadcastSeats": [
+      {
+        "name": "中机位",
+        "liveBroadcastSeatAddressList": [
+          { "address": "http://tencentpull.letinvr.com/gnzlive/1803d_8k_032.m3u8" },
+          { "address": "http://tencentpull.letinvr.com/gnzlive/1803d_4k_032.m3u8" },
+          { "address": "http://tencentpull.letinvr.com/gnzlive/1803d_2k_032.m3u8" }
+        ]
+      }
+    ]
+  }
+]
