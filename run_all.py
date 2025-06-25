@@ -3,10 +3,10 @@ import sys
 import os
 
 # 依次运行的脚本
-scripts = ["category.py", "content.py", "detail.py", "simplify.py", "time.py"]
+scripts = ["category.py", "content.py", "content_flat.py", "detail.py", "detail_flat.py", "simplify.py", "time.py"]
 
 def run_script(script_name):
-    print(f"\n🔄 正在运行 {script_name}...")
+    print(f"\n-------\n🔄 正在运行 {script_name}...")
     try:
         result = subprocess.run(
             [sys.executable, script_name],

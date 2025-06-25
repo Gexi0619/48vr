@@ -51,10 +51,6 @@ def fetch_detail(item):
     content_type = item.get("contentType", 2)
     output_path = output_dir / f"{content_number}.json"
 
-    # ✅ 跳过已存在文件
-    if output_path.exists():
-        return True, f"{content_number}（已存在）"
-
     headers = HEADERS_TEMPLATE.copy()
     headers["columnTag"] = column_tag
 
@@ -70,41 +66,66 @@ def fetch_detail(item):
             if response.status_code == 200:
                 data = response.json()
                 if data.get("code") == 1000:
-                    with open(output_path, "w", encoding="utf-8") as f:
-                        json.dump(data["data"], f, ensure_ascii=False, indent=2)
-                    return True, content_number
+                    new_data = data["data"]
+                    if output_path.exists():
+                        with open(output_path, "r", encoding="utf-8") as f:
+                            old_data = json.load(f)
+                        if old_data == new_data:
+                            return ("same", content_number)
+                        else:
+                            with open(output_path, "w", encoding="utf-8") as f:
+                                json.dump(new_data, f, ensure_ascii=False, indent=2)
+                            return ("updated", content_number)
+                    else:
+                        with open(output_path, "w", encoding="utf-8") as f:
+                            json.dump(new_data, f, ensure_ascii=False, indent=2)
+                        return ("new", content_number)
                 else:
-                    return False, f"{content_number} - 接口错误: {data.get('msg')}"
+                    return ("fail", f"{content_number} - 接口错误: {data.get('msg')}")
             else:
-                return False, f"{content_number} - HTTP错误: {response.status_code}"
+                return ("fail", f"{content_number} - HTTP错误: {response.status_code}")
     except Exception as e:
-        return False, f"{content_number} - 异常: {e}"
+        return ("fail", f"{content_number} - 异常: {e}")
 
 # === 高并发执行 ===
 results = []
-with ThreadPoolExecutor(max_workers=24) as executor:  # ✅ 增加线程数
+with ThreadPoolExecutor(max_workers=24) as executor:
     futures = {executor.submit(fetch_detail, item): item for item in contents}
     for future in tqdm(as_completed(futures), total=len(futures), desc="高速获取详情"):
         results.append(future.result())
 
-# === 总结 ===
-successes = [r for r in results if r[0]]
-failures = [r[1] for r in results if not r[0]]
+# 分类统计
+news = []
+updated = []
+same = []
+failures = []
 
-print(f"\n✅ 成功获取 {len(successes)} 条")
-if successes:
-    print("获取到的项目 contentName：")
-    for ok, info in successes:
-        # info 可能是 contentNumber 或 contentNumber（已存在），需查找原始内容
-        content_number = str(info).split("（")[0]
-        item = next((c for c in contents if str(c.get("contentNumber")) == content_number), None)
-        if item:
-            print(f"  - {item.get('contentName', '')} ({content_number})")
-        else:
-            print(f"  - 未知 ({content_number})")
+for status, info in results:
+    if status == "new":
+        news.append(info)
+    elif status == "updated":
+        updated.append(info)
+    elif status == "same":
+        same.append(info)
+    else:
+        failures.append(info)
 
-print(f"❌ 失败 {len(failures)} 条")
-if failures:
-    print("部分失败示例：")
-    for f in failures[:10]:
-        print("  -", f)
+def get_name(cn):
+    item = next((c for c in contents if str(c.get("contentNumber")) == str(cn)), None)
+    return f"{item.get('contentName', '')} ({cn})" if item else f"未知 ({cn})"
+
+print(f"\n✅ 新增 {len(news)} 条")
+for cn in news:
+    print("  -", get_name(cn))
+
+print(f"\n♻️ 变更更新 {len(updated)} 条")
+for cn in updated:
+    print("  -", get_name(cn))
+
+# print(f"\n🟢 完全一致未动 {len(same)} 条")
+# for cn in same:
+#     print("  -", get_name(cn))
+
+print(f"\n❌ 失败 {len(failures)} 条")
+for f in failures[:10]:
+    print("  -", f)

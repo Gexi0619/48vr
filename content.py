@@ -21,11 +21,11 @@ HEADERS = {
 }
 
 COMMON_PAYLOAD = {
-    "appId": "100024",
+    # "appId": "100024",
     "page": 1,
     "size": 10000,
     # "mac": "",
-    "filmId": "123518",
+    # "filmId": "123518",
     # "clientModel": "",
     "appVersion": "2.4.0",
     # "deviceId": "",
@@ -51,6 +51,9 @@ for child1 in root.get("child", []):
 
 # 只保留 columnId 最大的4个
 targets = sorted(targets, key=lambda x: x["columnId"], reverse=True)[:4]
+
+# 打印子类名称
+print("子类名称：", [t["name"] for t in targets])
 
 # 创建保存目录
 output_dir = Path("data/contents")
