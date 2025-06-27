@@ -1,16 +1,15 @@
 [
   {
     "id": 515,
-    "cnName": "GNZ48 剧场直播",
-    "date": "20301030",
+    "cnName": "GNZ48直播-GoNow店小二微信公众号7折",
     "contentNumber": "42268397",
-    "firstLetter": "G",
-    "duration": "当公演开始后可以观看",
+    "firstLetter": "g",
     "brief": "s",
     "createTime": "2024-05-02 16:28:27",
     "updateTime": "2025-06-27 18:50:50",
     "liveBroadcastSeats": [
       {
+        "id": 7262,
         "name": "8K机位",
         "liveBroadcastSeatAddressList": [
           {
@@ -28,16 +27,15 @@
   },
   {
     "id": 526,
-    "cnName": "SNH48 剧场直播",
-    "date": "20301030",
+    "cnName": "SNH48直播-GoNow店小二公众号7折",
     "contentNumber": "42681814",
-    "firstLetter": "S",
-    "duration": "当公演开始后可以观看",
+    "firstLetter": "snh",
     "brief": "SNH48",
     "createTime": "2025-04-04 12:22:51",
     "updateTime": "2025-06-26 23:31:33",
     "liveBroadcastSeats": [
       {
+        "id": 7257,
         "name": "中机位",
         "liveBroadcastSeatAddressList": [
           {
@@ -52,6 +50,7 @@
         ]
       },
       {
+        "id": 7258,
         "name": "左机位",
         "liveBroadcastSeatAddressList": [
           {
@@ -66,6 +65,7 @@
         ]
       },
       {
+        "id": 7260,
         "name": "右机位",
         "liveBroadcastSeatAddressList": [
           {
