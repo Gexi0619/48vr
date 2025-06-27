@@ -1618,7 +1618,7 @@
     "duration": "03:44:51",
     "brief": "应许之地",
     "createTime": "2025-06-22 08:22:51",
-    "updateTime": "2025-06-24 12:20:20",
+    "updateTime": "2025-06-26 19:25:05",
     "liveBroadcastSeats": [
       {
         "name": "中-MID",
@@ -25138,7 +25138,7 @@
     "duration": "03:15:33",
     "brief": "HII",
     "createTime": "2025-06-22 08:22:25",
-    "updateTime": "2025-06-23 15:54:28",
+    "updateTime": "2025-06-26 21:42:59",
     "liveBroadcastSeats": [
       {
         "name": "中-MID",
@@ -25155,7 +25155,7 @@
         ]
       },
       {
-        "name": "左机位",
+        "name": "左-LEFT",
         "liveBroadcastSeatAddressList": [
           {
             "address": "http://ucdn.letinvr.com/snhlive/2025-6yue/8k/250620HIIlScam.MP4"
@@ -25918,13 +25918,13 @@
     "duration": "03:26:00",
     "brief": "SNH",
     "createTime": "2025-06-22 08:23:05",
-    "updateTime": "2025-06-25 12:48:40",
+    "updateTime": "2025-06-26 11:25:48",
     "liveBroadcastSeats": [
       {
         "name": "中-MID",
         "liveBroadcastSeatAddressList": [
           {
-            "address": "http://ucdn.letinvr.com/snhlive/2025-6yue/8k/8K-M-2025_06_21-23.11.10.874.mp4"
+            "address": "http://ucdn.letinvr.com/snhlive/2025-6yue/8k/250621XmScam.MP4"
           },
           {
             "address": "http://ucdn.letinvr.com/snhlive/2025-6yue/2k-4k/250621XmScam4k.mp4"
@@ -26944,6 +26944,33 @@
           },
           {
             "address": "http://ucdn.letinvr.com/snhlive/4K/2023%E5%B9%B41%E6%9C%88/230107SIIrScam2k.MP4.mp4"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 26186,
+    "cnName": "250626 Team NIII 《没有我的世界（uN_v3rse）》",
+    "date": "20250626",
+    "contentNumber": "24307672",
+    "firstLetter": "gnz",
+    "duration": "02:50:20",
+    "brief": "gnz",
+    "createTime": "2025-06-27 15:49:41",
+    "updateTime": "2025-06-27 15:49:41",
+    "liveBroadcastSeats": [
+      {
+        "name": "GNZ48",
+        "liveBroadcastSeatAddressList": [
+          {
+            "address": "http://ucdn.letinvr.com/gnzlive/2025-6yue/8k/250626NSCAM.MP4"
+          },
+          {
+            "address": "http://ucdn.letinvr.com/gnzlive/2025-6yue/4k-2k/250626NSCAM4k.mp4"
+          },
+          {
+            "address": "http://ucdn.letinvr.com/gnzlive/2025-6yue/4k-2k/250626NSCAM2k.mp4"
           }
         ]
       }
@@ -34463,6 +34490,61 @@
     ]
   },
   {
+    "id": 26187,
+    "cnName": "250626 NII队 《应许之地》B版公演 三机位 抢先版",
+    "date": "20250626",
+    "contentNumber": "25539632",
+    "firstLetter": "snh",
+    "duration": "03:34:59",
+    "brief": "应许之地",
+    "createTime": "2025-06-27 19:14:05",
+    "updateTime": "2025-06-27 19:14:05",
+    "liveBroadcastSeats": [
+      {
+        "name": "中-MID",
+        "liveBroadcastSeatAddressList": [
+          {
+            "address": "http://ucdn.letinvr.com/snhlive/2025-6yue/8k/250626NIImScam.MP4"
+          },
+          {
+            "address": "http://ucdn.letinvr.com/snhlive/2025-6yue/2k-4k/250626NIImScam4k.mp4"
+          },
+          {
+            "address": "http://ucdn.letinvr.com/snhlive/2025-6yue/2k-4k/250626NIImScam2k.mp4"
+          }
+        ]
+      },
+      {
+        "name": "左-LEFT",
+        "liveBroadcastSeatAddressList": [
+          {
+            "address": "http://ucdn.letinvr.com/snhlive/2025-6yue/8k/250626NIIlScam.MP4"
+          },
+          {
+            "address": "http://ucdn.letinvr.com/snhlive/2025-6yue/2k-4k/250626NIIlScam4k.mp4"
+          },
+          {
+            "address": "http://ucdn.letinvr.com/snhlive/2025-6yue/2k-4k/250626NIIlScam2k.mp4"
+          }
+        ]
+      },
+      {
+        "name": "右-RIGHT",
+        "liveBroadcastSeatAddressList": [
+          {
+            "address": "http://ucdn.letinvr.com/snhlive/2025-6yue/8k/250626NIIrScam.MP4"
+          },
+          {
+            "address": "http://ucdn.letinvr.com/snhlive/2025-6yue/2k-4k/250626NIIrScam4k.mp4"
+          },
+          {
+            "address": "http://ucdn.letinvr.com/snhlive/2025-6yue/2k-4k/250626NIIrScam2k.mp4"
+          }
+        ]
+      }
+    ]
+  },
+  {
     "id": 25911,
     "cnName": "250329Team NIII《天枢之弈》",
     "date": "20250329",
@@ -37981,6 +38063,33 @@
           },
           {
             "address": "http://ucdn.letinvr.com/gnzlive/2024-1yue/4k-2k/240224Dscam2k.mp4"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 26185,
+    "cnName": "250625 CGT48 Team CII《未命名新途》广州巡演",
+    "date": "20250625",
+    "contentNumber": "26153611",
+    "firstLetter": "gnz",
+    "duration": "02:45:17",
+    "brief": "gnz",
+    "createTime": "2025-06-26 12:28:57",
+    "updateTime": "2025-06-26 12:28:57",
+    "liveBroadcastSeats": [
+      {
+        "name": "GNZ48",
+        "liveBroadcastSeatAddressList": [
+          {
+            "address": "http://ucdn.letinvr.com/gnzlive/2025-6yue/8k/250625CII.MP4"
+          },
+          {
+            "address": "http://ucdn.letinvr.com/gnzlive/2025-6yue/4k-2k/250625CII4k.mp4"
+          },
+          {
+            "address": "http://ucdn.letinvr.com/gnzlive/2025-6yue/4k-2k/250625CII2k.mp4"
           }
         ]
       }
@@ -49625,6 +49734,61 @@
     ]
   },
   {
+    "id": 26184,
+    "cnName": "250625 HII队《赫兹共振》公演 三机位",
+    "date": "20250625",
+    "contentNumber": "27808248",
+    "firstLetter": "H",
+    "duration": "03:17:34",
+    "brief": "HII",
+    "createTime": "2025-06-26 10:47:58",
+    "updateTime": "2025-06-27 15:46:27",
+    "liveBroadcastSeats": [
+      {
+        "name": "中-MID",
+        "liveBroadcastSeatAddressList": [
+          {
+            "address": "http://ucdn.letinvr.com/snhlive/2025-6yue/8k/250625HIImScam.MP4"
+          },
+          {
+            "address": "http://ucdn.letinvr.com/snhlive/2025-6yue/2k-4k/250625HIImScam4k.mp4"
+          },
+          {
+            "address": "http://ucdn.letinvr.com/snhlive/2025-6yue/2k-4k/250625HIImScam2k.mp4"
+          }
+        ]
+      },
+      {
+        "name": "左-LEFT",
+        "liveBroadcastSeatAddressList": [
+          {
+            "address": "http://ucdn.letinvr.com/snhlive/2025-6yue/8k/250625HIIlScam.MP4"
+          },
+          {
+            "address": "http://ucdn.letinvr.com/snhlive/2025-6yue/2k-4k/250625HIIlScam4k.mp4"
+          },
+          {
+            "address": "http://ucdn.letinvr.com/snhlive/2025-6yue/2k-4k/250625HIIlScam2k.mp4"
+          }
+        ]
+      },
+      {
+        "name": "右-RIGHT",
+        "liveBroadcastSeatAddressList": [
+          {
+            "address": "http://ucdn.letinvr.com/snhlive/2025-6yue/8k/250625HIIrScam.MP4"
+          },
+          {
+            "address": "http://ucdn.letinvr.com/snhlive/2025-6yue/2k-4k/250625HIIrScam4k.mp4"
+          },
+          {
+            "address": "http://ucdn.letinvr.com/snhlive/2025-6yue/2k-4k/250625HIIrScam2k.mp4"
+          }
+        ]
+      }
+    ]
+  },
+  {
     "id": 21669,
     "cnName": "220619 SNH48 TEAM SII 幻镜剧场公演",
     "date": "20220619",
@@ -51887,19 +52051,19 @@
     "duration": "04:02:51",
     "brief": "SNH",
     "createTime": "2025-06-22 08:24:07",
-    "updateTime": "2025-06-25 12:51:20",
+    "updateTime": "2025-06-26 11:29:24",
     "liveBroadcastSeats": [
       {
         "name": "中-MID",
         "liveBroadcastSeatAddressList": [
           {
-            "address": "http://ucdn.letinvr.com/snhlive/2025-6yue/8k/8K-M-2025_06_23-01.04.55.849.mp4"
+            "address": "http://ucdn.letinvr.com/snhlive/2025-6yue/8k/250622XmScam.MP4"
           },
           {
             "address": "http://ucdn.letinvr.com/snhlive/2025-6yue/2k-4k/250622XmScam4k.mp4"
           },
           {
-            "address": "http://ucdn.letinvr.com/snhlive/2025-6yue/2k-4k/2K-M-2025_06_23-01.04.54.285.mp4"
+            "address": "http://ucdn.letinvr.com/snhlive/2025-6yue/2k-4k/250622XmScam2k.mp4"
           }
         ]
       },
