@@ -34491,14 +34491,14 @@
   },
   {
     "id": 26187,
-    "cnName": "250626 NII队 《应许之地》B版公演 三机位 抢先版",
+    "cnName": "250626 NII队 《应许之地》B版公演 三机位",
     "date": "20250626",
     "contentNumber": "25539632",
     "firstLetter": "snh",
     "duration": "03:34:59",
     "brief": "应许之地",
-    "createTime": "2025-06-27 19:14:05",
-    "updateTime": "2025-06-27 19:14:05",
+    "createTime": "2025-06-27 19:07:40",
+    "updateTime": "2025-06-28 14:04:55",
     "liveBroadcastSeats": [
       {
         "name": "中-MID",
@@ -60444,6 +60444,33 @@
           },
           {
             "address": "http://ucdn.letinvr.com/gnzlive/2023-3yue/4k/0303NIIISacm2k.mp4"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 26188,
+    "cnName": "250627 Team Z 《斗宿之诀》",
+    "date": "20250627",
+    "contentNumber": "29355608",
+    "firstLetter": "gnz",
+    "duration": "02:30:20",
+    "brief": "gnz",
+    "createTime": "2025-06-28 14:07:43",
+    "updateTime": "2025-06-28 14:07:43",
+    "liveBroadcastSeats": [
+      {
+        "name": "GNZ48",
+        "liveBroadcastSeatAddressList": [
+          {
+            "address": "http://ucdn.letinvr.com/gnzlive/2025-6yue/8k/250627Zscam.MP4"
+          },
+          {
+            "address": "http://ucdn.letinvr.com/gnzlive/2025-6yue/4k-2k/250627Zscam4k.mp4"
+          },
+          {
+            "address": "http://ucdn.letinvr.com/gnzlive/2025-6yue/4k-2k/250627Zscam2k.mp4"
           }
         ]
       }
