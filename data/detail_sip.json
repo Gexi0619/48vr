@@ -39588,6 +39588,61 @@
     ]
   },
   {
+    "id": 26191,
+    "cnName": "250627 SII队 《幻镜》C版剧场公演 三机位 抢先版",
+    "date": "20250627",
+    "contentNumber": "26337066",
+    "firstLetter": "S",
+    "duration": "03:31:08",
+    "brief": "SII队《幻境》",
+    "createTime": "2025-06-28 22:49:32",
+    "updateTime": "2025-06-28 22:49:32",
+    "liveBroadcastSeats": [
+      {
+        "name": "中-MID",
+        "liveBroadcastSeatAddressList": [
+          {
+            "address": "http://ucdn.letinvr.com/snhlive/2025-6yue/8k/250627SIImScam.MP4"
+          },
+          {
+            "address": "http://ucdn.letinvr.com/snhlive/2025-6yue/2k-4k/250627SIImScam4k.mp4"
+          },
+          {
+            "address": "http://ucdn.letinvr.com/snhlive/2025-6yue/2k-4k/250627SIImScam2k.mp4"
+          }
+        ]
+      },
+      {
+        "name": "左机位",
+        "liveBroadcastSeatAddressList": [
+          {
+            "address": "http://ucdn.letinvr.com/snhlive/2025-6yue/8k/250627SIIlScam.MP4"
+          },
+          {
+            "address": "http://ucdn.letinvr.com/snhlive/2025-6yue/2k-4k/4K-L-2025_06_27-23.38.25.089.mp4"
+          },
+          {
+            "address": "http://ucdn.letinvr.com/snhlive/2025-6yue/2k-4k/2K-L-2025_06_27-23.38.24.384.mp4"
+          }
+        ]
+      },
+      {
+        "name": "右-RIGHT",
+        "liveBroadcastSeatAddressList": [
+          {
+            "address": "http://ucdn.letinvr.com/snhlive/2025-6yue/8k/250627SIIrScam.MP4"
+          },
+          {
+            "address": "http://ucdn.letinvr.com/snhlive/2025-6yue/2k-4k/250627SIIrScam4k.mp4"
+          },
+          {
+            "address": "http://ucdn.letinvr.com/snhlive/2025-6yue/2k-4k/250627SIIrScam2k.mp4"
+          }
+        ]
+      }
+    ]
+  },
+  {
     "id": 21801,
     "cnName": "220811最佳拍档第二季（第二轮CD组）",
     "date": "20220811",
