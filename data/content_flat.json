@@ -78767,7 +78767,7 @@
     "isLike": 0,
     "isLikeCount": 0,
     "isCollect": 0,
-    "collectCount": 0,
+    "collectCount": 1,
     "virtualHuman": null,
     "scene": null
   },
