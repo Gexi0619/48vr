@@ -47599,6 +47599,61 @@
     ]
   },
   {
+    "id": 26196,
+    "cnName": "250628 HII队《赫兹共振》许杨玉琢生日及季度MVP公演 三机位 抢先版",
+    "date": "20250628",
+    "contentNumber": "27525352",
+    "firstLetter": "H",
+    "duration": "04:23:30",
+    "brief": "HII",
+    "createTime": "2025-07-01 07:22:38",
+    "updateTime": "2025-07-01 07:22:38",
+    "liveBroadcastSeats": [
+      {
+        "name": "中-MID",
+        "liveBroadcastSeatAddressList": [
+          {
+            "address": "http://ucdn.letinvr.com/snhlive/2025-6yue/8k/250628HIImScam.MP4"
+          },
+          {
+            "address": "http://ucdn.letinvr.com/snhlive/2025-6yue/2k-4k/250628HIImScam4k.mp4"
+          },
+          {
+            "address": "http://ucdn.letinvr.com/snhlive/2025-6yue/2k-4k/250628HIImScam2k.mp4"
+          }
+        ]
+      },
+      {
+        "name": "左-LEFT",
+        "liveBroadcastSeatAddressList": [
+          {
+            "address": "http://ucdn.letinvr.com/snhlive/2025-6yue/8k/250628HIIlScam.MP4"
+          },
+          {
+            "address": "http://ucdn.letinvr.com/snhlive/2025-6yue/2k-4k/4K-L-2025_06_29-01.40.21.210.mp4"
+          },
+          {
+            "address": "http://ucdn.letinvr.com/snhlive/2025-6yue/2k-4k/2K-L-2025_06_29-01.40.20.123.mp4"
+          }
+        ]
+      },
+      {
+        "name": "右-RIGHT",
+        "liveBroadcastSeatAddressList": [
+          {
+            "address": "http://ucdn.letinvr.com/snhlive/2025-6yue/8k/250628HIIrScam.MP4"
+          },
+          {
+            "address": "http://ucdn.letinvr.com/snhlive/2025-6yue/2k-4k/4K-R-2025_06_29-01.40.21.207.mp4"
+          },
+          {
+            "address": "http://ucdn.letinvr.com/snhlive/2025-6yue/2k-4k/2K-R-2025_06_29-01.40.20.121.mp4"
+          }
+        ]
+      }
+    ]
+  },
+  {
     "id": 23740,
     "cnName": "230813 启程《TEAM G · 第17场》",
     "date": "20230813",
@@ -58100,6 +58155,61 @@
     ]
   },
   {
+    "id": 26194,
+    "cnName": "250629 BEJ48 TEAM B《B·RISE 梦之门》上海巡演 三机位 抢先版",
+    "date": "20250629",
+    "contentNumber": "29013772",
+    "firstLetter": "BEJ",
+    "duration": "02:58:59",
+    "brief": "BEJ48",
+    "createTime": "2025-07-01 07:18:07",
+    "updateTime": "2025-07-01 07:18:07",
+    "liveBroadcastSeats": [
+      {
+        "name": "中-MID",
+        "liveBroadcastSeatAddressList": [
+          {
+            "address": "http://ucdn.letinvr.com/snhlive/2025-6yue/8k/250629BEJ48mScam.MP4"
+          },
+          {
+            "address": "http://ucdn.letinvr.com/snhlive/2025-6yue/2k-4k/4K-M-2025_06_29-22.26.04.690.mp4"
+          },
+          {
+            "address": "http://ucdn.letinvr.com/snhlive/2025-6yue/2k-4k/2K-M-2025_06_29-22.26.01.608.mp4"
+          }
+        ]
+      },
+      {
+        "name": "左-LEFT",
+        "liveBroadcastSeatAddressList": [
+          {
+            "address": "http://ucdn.letinvr.com/snhlive/2025-6yue/8k/250629BEJ48lScam.MP4"
+          },
+          {
+            "address": "http://ucdn.letinvr.com/snhlive/2025-6yue/2k-4k/4K-L-2025_06_29-22.26.04.691.mp4"
+          },
+          {
+            "address": "http://ucdn.letinvr.com/snhlive/2025-6yue/2k-4k/2K-L-2025_06_29-22.26.01.609.mp4"
+          }
+        ]
+      },
+      {
+        "name": "右-RIGHT",
+        "liveBroadcastSeatAddressList": [
+          {
+            "address": "http://ucdn.letinvr.com/snhlive/2025-6yue/8k/250629BEJ48rScam.MP4"
+          },
+          {
+            "address": "http://ucdn.letinvr.com/snhlive/2025-6yue/2k-4k/4K-R-2025_06_29-22.26.04.689.mp4"
+          },
+          {
+            "address": "http://ucdn.letinvr.com/snhlive/2025-6yue/2k-4k/2K-R-2025_06_29-22.26.01.607.mp4"
+          }
+        ]
+      }
+    ]
+  },
+  {
     "id": 21928,
     "cnName": "220916 SII队《幻镜》",
     "date": "20220916",
@@ -60417,6 +60527,61 @@
           },
           {
             "address": "http://ucdn.letinvr.com/gnzlive/2024-12yue/4k-2k/241219GNZscam2k.mp4"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 26195,
+    "cnName": "250629 X队《Fire X》武博涵生日公演 三机位 抢先版",
+    "date": "20250629",
+    "contentNumber": "29322113",
+    "firstLetter": "X",
+    "duration": "03:39:42",
+    "brief": "SNH",
+    "createTime": "2025-07-01 07:20:11",
+    "updateTime": "2025-07-01 07:20:11",
+    "liveBroadcastSeats": [
+      {
+        "name": "中-MID",
+        "liveBroadcastSeatAddressList": [
+          {
+            "address": "http://ucdn.letinvr.com/snhlive/2025-6yue/8k/250629XmScam.MP4"
+          },
+          {
+            "address": "http://ucdn.letinvr.com/snhlive/2025-6yue/2k-4k/4K-M-2025_06_29-18.09.38.374.mp4"
+          },
+          {
+            "address": "http://ucdn.letinvr.com/snhlive/2025-6yue/2k-4k/2K-M-2025_06_29-18.09.37.957.mp4"
+          }
+        ]
+      },
+      {
+        "name": "左-LEFT",
+        "liveBroadcastSeatAddressList": [
+          {
+            "address": "http://ucdn.letinvr.com/snhlive/2025-6yue/8k/250629XlScam.MP4"
+          },
+          {
+            "address": "http://ucdn.letinvr.com/snhlive/2025-6yue/2k-4k/250629XlScam4k.mp4"
+          },
+          {
+            "address": "http://ucdn.letinvr.com/snhlive/2025-6yue/2k-4k/2K-L-2025_06_29-18.09.37.958.mp4"
+          }
+        ]
+      },
+      {
+        "name": "右-RIGHT",
+        "liveBroadcastSeatAddressList": [
+          {
+            "address": "http://ucdn.letinvr.com/snhlive/2025-6yue/2k-4k/2K-R-2025_06_29-18.09.37.954.mp4"
+          },
+          {
+            "address": "http://ucdn.letinvr.com/snhlive/2025-6yue/8k/250629XrScam.MP4"
+          },
+          {
+            "address": "http://ucdn.letinvr.com/snhlive/2025-6yue/2k-4k/4K-R-2025_06_29-18.09.38.372.mp4"
           }
         ]
       }
