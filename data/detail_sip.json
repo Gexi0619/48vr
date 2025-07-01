@@ -21417,6 +21417,61 @@
     ]
   },
   {
+    "id": 26198,
+    "cnName": "250628 X队《烙印》杨冰怡生日公演 三机位",
+    "date": "20250628",
+    "contentNumber": "23358446",
+    "firstLetter": "X",
+    "duration": "04:30:36",
+    "brief": "SNH",
+    "createTime": "2025-06-29 19:13:54",
+    "updateTime": "2025-07-01 20:24:41",
+    "liveBroadcastSeats": [
+      {
+        "name": "中-MID",
+        "liveBroadcastSeatAddressList": [
+          {
+            "address": "http://ucdn.letinvr.com/snhlive/2025-6yue/8k/250628XmScam30.mp4"
+          },
+          {
+            "address": "http://ucdn.letinvr.com/snhlive/2025-6yue/2k-4k/250628XmScam304k.mp4"
+          },
+          {
+            "address": "http://ucdn.letinvr.com/snhlive/2025-6yue/2k-4k/250628XmScam302k.mp4"
+          }
+        ]
+      },
+      {
+        "name": "左-LEFT",
+        "liveBroadcastSeatAddressList": [
+          {
+            "address": "http://ucdn.letinvr.com/snhlive/2025-6yue/8k/250628XlScam.MP4"
+          },
+          {
+            "address": "http://ucdn.letinvr.com/snhlive/2025-6yue/2k-4k/250628XlScam4k.mp4"
+          },
+          {
+            "address": "http://ucdn.letinvr.com/snhlive/2025-6yue/2k-4k/250628XlScam2k.mp4"
+          }
+        ]
+      },
+      {
+        "name": "右-RIGHT",
+        "liveBroadcastSeatAddressList": [
+          {
+            "address": "http://ucdn.letinvr.com/snhlive/2025-6yue/8k/250628XrScam.MP4"
+          },
+          {
+            "address": "http://ucdn.letinvr.com/snhlive/2025-6yue/2k-4k/250628XrScam4k.mp4"
+          },
+          {
+            "address": "http://ucdn.letinvr.com/snhlive/2025-6yue/2k-4k/250628XrScam2k.mp4"
+          }
+        ]
+      }
+    ]
+  },
+  {
     "id": 23769,
     "cnName": "230819 HII队《终极任务》B版公演 三机位",
     "date": "20230819",
@@ -60541,7 +60596,7 @@
     "duration": "03:39:42",
     "brief": "SNH",
     "createTime": "2025-06-29 19:16:17",
-    "updateTime": "2025-07-01 14:40:30",
+    "updateTime": "2025-07-01 20:27:13",
     "liveBroadcastSeats": [
       {
         "name": "中-MID",
@@ -60578,7 +60633,7 @@
             "address": "http://ucdn.letinvr.com/snhlive/2025-6yue/8k/250629XrScam.MP4"
           },
           {
-            "address": "http://ucdn.letinvr.com/snhlive/2025-6yue/2k-4k/4K-R-2025_06_29-18.09.38.372.mp4"
+            "address": "http://ucdn.letinvr.com/snhlive/2025-6yue/2k-4k/250629XrScam4k.mp4"
           },
           {
             "address": "http://ucdn.letinvr.com/snhlive/2025-6yue/2k-4k/250629XrScam2k.mp4"
@@ -61857,14 +61912,14 @@
   },
   {
     "id": 26193,
-    "cnName": "250625  Team CII《终极任务》广州巡演",
-    "date": "20250625",
+    "cnName": "250628  Team CII《终极任务》广州巡演",
+    "date": "20250628",
     "contentNumber": "29563713",
     "firstLetter": "gnz",
     "duration": "03:06:23",
     "brief": "gnz",
-    "createTime": "2025-06-29 16:51:05",
-    "updateTime": "2025-06-29 16:51:05",
+    "createTime": "2025-06-29 16:48:28",
+    "updateTime": "2025-07-01 20:28:56",
     "liveBroadcastSeats": [
       {
         "name": "GNZ48",
