@@ -40012,6 +40012,61 @@
     ]
   },
   {
+    "id": 26209,
+    "cnName": "250702 SNH48《头号新闻》新人公演 三机位 抢先版",
+    "date": "20250702",
+    "contentNumber": "26407100",
+    "firstLetter": "snh",
+    "duration": "02:51:34",
+    "brief": "《头号新闻》",
+    "createTime": "2025-07-03 12:19:31",
+    "updateTime": "2025-07-03 12:19:31",
+    "liveBroadcastSeats": [
+      {
+        "name": "中-MID",
+        "liveBroadcastSeatAddressList": [
+          {
+            "address": "http://ucdn.letinvr.com/snhlive/2025-7yue/8k/250702SNH48mScam.MP4"
+          },
+          {
+            "address": "http://ucdn.letinvr.com/snhlive/2025-7yue/2k-4k/250702SNH48mScam4k.mp4"
+          },
+          {
+            "address": "http://ucdn.letinvr.com/snhlive/2025-7yue/2k-4k/250702SNH48mScam2k.mp4"
+          }
+        ]
+      },
+      {
+        "name": "左-LEFT",
+        "liveBroadcastSeatAddressList": [
+          {
+            "address": "http://ucdn.letinvr.com/snhlive/2025-7yue/8k/250702SNH48lScam.MP4"
+          },
+          {
+            "address": "http://ucdn.letinvr.com/snhlive/2025-7yue/2k-4k/250702SNH48lScam4k.mp4"
+          },
+          {
+            "address": "http://ucdn.letinvr.com/snhlive/2025-7yue/2k-4k/250702SNH48lScam2k.mp4"
+          }
+        ]
+      },
+      {
+        "name": "右机位",
+        "liveBroadcastSeatAddressList": [
+          {
+            "address": "http://ucdn.letinvr.com/snhlive/2025-7yue/8k/250702SNH48rScam.MP4"
+          },
+          {
+            "address": "http://ucdn.letinvr.com/snhlive/2025-7yue/2k-4k/250702SNH48rScam4k.mp4"
+          },
+          {
+            "address": "http://ucdn.letinvr.com/snhlive/2025-7yue/2k-4k/250702SNH48rScam2k.mp4"
+          }
+        ]
+      }
+    ]
+  },
+  {
     "id": 25908,
     "cnName": "250327 偶像研究计划G组《剧场女神》",
     "date": "20250327",
