@@ -23576,6 +23576,61 @@
     ]
   },
   {
+    "id": 26211,
+    "cnName": "250703 X队《Fire X》公演 三机位 抢先版",
+    "date": "20250703",
+    "contentNumber": "23682035",
+    "firstLetter": "X",
+    "duration": "02:47:00",
+    "brief": "SNH",
+    "createTime": "2025-07-04 20:33:12",
+    "updateTime": "2025-07-04 20:33:12",
+    "liveBroadcastSeats": [
+      {
+        "name": "中-MID",
+        "liveBroadcastSeatAddressList": [
+          {
+            "address": "http://ucdn.letinvr.com/snhlive/2025-7yue/8k/250703XmScam.MP4"
+          },
+          {
+            "address": "http://ucdn.letinvr.com/snhlive/2025-7yue/2k-4k/250703XmScam4k.mp4"
+          },
+          {
+            "address": "http://ucdn.letinvr.com/snhlive/2025-7yue/2k-4k/250703XmScam2k.mp4"
+          }
+        ]
+      },
+      {
+        "name": "左-LEFT",
+        "liveBroadcastSeatAddressList": [
+          {
+            "address": "http://ucdn.letinvr.com/snhlive/2025-7yue/8k/250703XlScam.MP4"
+          },
+          {
+            "address": "http://ucdn.letinvr.com/snhlive/2025-7yue/2k-4k/250703XlScam4k.mp4"
+          },
+          {
+            "address": "http://ucdn.letinvr.com/snhlive/2025-7yue/2k-4k/250703XlScam2k.mp4"
+          }
+        ]
+      },
+      {
+        "name": "右-RIGHT",
+        "liveBroadcastSeatAddressList": [
+          {
+            "address": "http://ucdn.letinvr.com/snhlive/2025-7yue/8k/250703XrScam.MP4"
+          },
+          {
+            "address": "http://ucdn.letinvr.com/snhlive/2025-7yue/2k-4k/250703XrScam4k.mp4"
+          },
+          {
+            "address": "http://ucdn.letinvr.com/snhlive/2025-7yue/2k-4k/250703XrScam2k.mp4"
+          }
+        ]
+      }
+    ]
+  },
+  {
     "id": 25943,
     "cnName": "250413 X队《Fire X》公演 三机位",
     "date": "20250413",
@@ -40744,6 +40799,33 @@
           },
           {
             "address": "http://ucdn.letinvr.com/gnzlive/2023-4yue/4k/0408TEAMZSacm2k.mp4"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 26210,
+    "cnName": "250629 Team Z 《斗宿之诀》",
+    "date": "20250629",
+    "contentNumber": "26508252",
+    "firstLetter": "gnz",
+    "duration": "01:44:09",
+    "brief": "gnz",
+    "createTime": "2025-07-03 19:00:50",
+    "updateTime": "2025-07-04 18:19:21",
+    "liveBroadcastSeats": [
+      {
+        "name": "GNZ48",
+        "liveBroadcastSeatAddressList": [
+          {
+            "address": "http://ucdn.letinvr.com/gnzlive/2025-6yue/8k/250629Zscam30.mp4"
+          },
+          {
+            "address": "http://ucdn.letinvr.com/gnzlive/2025-6yue/4k-2k/250629Zscam304k.mp4"
+          },
+          {
+            "address": "http://ucdn.letinvr.com/gnzlive/2025-6yue/4k-2k/250629Zscam302k.mp4"
           }
         ]
       }
