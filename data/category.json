@@ -66,7 +66,7 @@
             "columnPosterPathThree": "",
             "child": [],
             "cornerInfo": null,
-            "pointCount": 1
+            "pointCount": 0
           },
           {
             "id": 9725,
@@ -91,7 +91,7 @@
             "columnPosterPathThree": "",
             "child": [],
             "cornerInfo": null,
-            "pointCount": 1
+            "pointCount": 0
           },
           {
             "id": 9726,
@@ -1895,11 +1895,11 @@
           }
         ],
         "cornerInfo": null,
-        "pointCount": 2
+        "pointCount": 0
       }
     ],
     "cornerInfo": null,
-    "pointCount": 3
+    "pointCount": 0
   },
   {
     "id": 9604,
@@ -2249,7 +2249,7 @@
         "columnPosterPathThree": "",
         "child": [],
         "cornerInfo": null,
-        "pointCount": 1
+        "pointCount": 0
       },
       {
         "id": 9549,
@@ -2454,7 +2454,7 @@
       }
     ],
     "cornerInfo": null,
-    "pointCount": 1
+    "pointCount": 0
   },
   {
     "id": 9098,
@@ -2526,11 +2526,11 @@
         "columnPosterPathThree": "",
         "child": [],
         "cornerInfo": null,
-        "pointCount": 1
+        "pointCount": 0
       }
     ],
     "cornerInfo": null,
-    "pointCount": 1
+    "pointCount": 0
   },
   {
     "id": 9438,
