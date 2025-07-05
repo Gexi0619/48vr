@@ -31776,6 +31776,61 @@
     ]
   },
   {
+    "id": 26212,
+    "cnName": "250704 HII队《赫兹共振》公演 三机位 抢先版",
+    "date": "20250704",
+    "contentNumber": "25046137",
+    "firstLetter": "H",
+    "duration": "03:26:24",
+    "brief": "HII",
+    "createTime": "2025-07-05 23:28:35",
+    "updateTime": "2025-07-05 23:28:35",
+    "liveBroadcastSeats": [
+      {
+        "name": "中-MID",
+        "liveBroadcastSeatAddressList": [
+          {
+            "address": "http://ucdn.letinvr.com/snhlive/2025-7yue/8k/250704HIImScam.MP4"
+          },
+          {
+            "address": "http://ucdn.letinvr.com/snhlive/2025-7yue/2k-4k/250704HIImScam4k.mp4"
+          },
+          {
+            "address": "http://ucdn.letinvr.com/snhlive/2025-7yue/2k-4k/250704HIImScam2k.mp4"
+          }
+        ]
+      },
+      {
+        "name": "左-LEFT",
+        "liveBroadcastSeatAddressList": [
+          {
+            "address": "http://ucdn.letinvr.com/snhlive/2025-7yue/8k/250704HIIlScam.MP4"
+          },
+          {
+            "address": "http://ucdn.letinvr.com/snhlive/2025-7yue/2k-4k/250704HIIlScam4k.mp4"
+          },
+          {
+            "address": "http://ucdn.letinvr.com/snhlive/2025-7yue/2k-4k/250704HIIlScam2k.mp4"
+          }
+        ]
+      },
+      {
+        "name": "右-RIGHT",
+        "liveBroadcastSeatAddressList": [
+          {
+            "address": "http://ucdn.letinvr.com/snhlive/2025-7yue/8k/250704HIIrScam.MP4"
+          },
+          {
+            "address": "http://ucdn.letinvr.com/snhlive/2025-7yue/2k-4k/250704HIIrScam4k.mp4"
+          },
+          {
+            "address": "http://ucdn.letinvr.com/snhlive/2025-7yue/2k-4k/250704HIIrScam2k.mp4"
+          }
+        ]
+      }
+    ]
+  },
+  {
     "id": 21773,
     "cnName": "220731 SII 《幻镜》中报 段艺璇奖励舞台 三机位",
     "date": "20220731",
