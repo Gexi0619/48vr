@@ -25,7 +25,7 @@ for item in flat_data:
         'date': '20301030',
         'contentNumber': item.get('contentNumber', ''),
         'firstLetter': first_letter,
-        'duration': '当公演开始后可以观看',  # 注释
+        'duration': f'直播链接发布时间: {item.get("updateTime", "")}' if item.get("updateTime") else '当公演开始后可以观看',
         'brief': item.get('brief', ''),
         'createTime': item.get('createTime', ''),
         'updateTime': item.get('updateTime', ''),

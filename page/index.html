@@ -172,6 +172,9 @@
   </div>
   <div class="content-container" id="content">加载中...</div>
   <div id="loadMoreContainer" style="text-align:center;margin:16px 0;"></div>
+  
+  <!-- 引入直播获取模块 -->
+  <script src="live-fetcher.js"></script>
   <script>
   (function() {
     let allData = [];
@@ -197,12 +200,10 @@
 
     async function loadJson() {
       try {
-        const [liveData, allOtherData] = await Promise.all([
-          fetchJson('live.json'),
-          fetchJson('data.json')
-        ]);
-        if (!Array.isArray(liveData) || !Array.isArray(allOtherData)) throw new Error('数据格式错误');
-        return [...liveData, ...allOtherData];
+        // 只加载普通的data.json，不再自动加载live.json
+        const allOtherData = await fetchJson('data.json');
+        if (!Array.isArray(allOtherData)) throw new Error('数据格式错误');
+        return allOtherData;
       } catch (err) {
         throw err;
       }
@@ -271,6 +272,95 @@
       container.innerHTML = '';
       if (loadMoreContainer) loadMoreContainer.innerHTML = '';
 
+      // 检查是否显示直播数据获取按钮
+      const hasLiveData = filtered.some(item => item.date === '20301030'); // 直播数据的特殊标识
+      if (!hasLiveData) {
+        // 如果没有直播数据，显示获取直播按钮
+        const liveSection = document.createElement('div');
+        liveSection.style.cssText = 'text-align:center;padding:15px;margin-bottom:10px;background:#f9f9f9;border-radius:8px;';
+        liveSection.innerHTML = `
+          <div style="color:#666;margin-bottom:10px;">🔴 剧场直播</div>
+          <div style="position:relative;display:flex;justify-content:center;align-items:center;">
+            <button id="fetchLiveBtn" style="background-color:#ff6b6b;color:white;border:none;padding:8px 16px;border-radius:6px;cursor:pointer;font-size:14px;">
+              获取直播链接
+            </button>
+            <div id="infoBtnContainer" style="position:absolute;right:0;"></div>
+          </div>
+        `;
+        container.appendChild(liveSection);
+        
+        // 绑定获取直播事件
+        const fetchBtn = liveSection.querySelector('#fetchLiveBtn');
+        if (fetchBtn && window.LiveUI) {
+          fetchBtn.onclick = async function() {
+            if (fetchBtn.disabled) return;
+            fetchBtn.disabled = true;
+            fetchBtn.textContent = '获取中...';
+            fetchBtn.style.backgroundColor = '#ccc';
+            
+            try {
+              const liveUI = new window.LiveUI();
+              const liveData = await liveUI.liveFetcher.fetchAndProcessLiveData();
+              
+              // 将直播数据添加到allData开头
+              allData = [...liveData, ...allData.filter(item => item.date !== '20301030')];
+              createPage(allData);
+              
+            } catch (error) {
+              alert(`获取直播数据失败: ${error.message}`);
+              fetchBtn.disabled = false;
+              fetchBtn.textContent = '获取直播链接';
+              fetchBtn.style.backgroundColor = '#ff6b6b';
+            }
+          };
+        }
+
+        // 在获取直播链接按钮右侧添加问号按钮
+        const infoBtn = document.createElement('button');
+        infoBtn.textContent = '❔';
+        infoBtn.style.backgroundColor = 'transparent';
+        infoBtn.style.color = '#666';
+        infoBtn.style.border = 'none';
+        infoBtn.style.cursor = 'pointer';
+        infoBtn.style.fontSize = '16px';
+        infoBtn.onclick = function() {
+          const infoModal = document.createElement('div');
+          infoModal.style.cssText = 'display:flex;align-items:center;justify-content:center;position:fixed;z-index:9999;left:0;top:0;width:100vw;height:100vh;background:rgba(0,0,0,0.5);';
+
+          const infoContent = document.createElement('div');
+          infoContent.style.cssText = 'background:#fff;max-width:400px;padding:20px;border-radius:12px;box-shadow:0 4px 24px rgba(0,0,0,0.2);text-align:left;';
+          infoContent.innerHTML = `
+            <div style="font-size:1.1em;font-weight:bold;margin-bottom:15px;">关于手动获取直播链接</div>
+            <div style="color:#444;font-size:1em;line-height:1.6;">
+              <p><strong>为什么需要手动获取直播链接？</strong></p>
+              <p>本网站是静态页面，每6小时自动更新一次数据。但是直播链接会在每场公演开始时重新生成，而公演的开场时间不固定，难以与网站的定时更新同步。因此需要在观看前手动获取最新的直播链接。</p>
+              <p><strong>手动获取会执行什么操作？</strong></p>
+              <p>系统会向 Gonow 的 API 发送一个 POST 请求来获取当前可用的直播链接，此过程不会收集或上传你的任何个人信息。</p>
+            </div>
+            <button id="closeInfoModal" style="margin-top:15px;padding:8px 16px;background-color:#acc8fc;color:white;border:none;border-radius:6px;cursor:pointer;">知道了</button>
+          `;
+
+          infoModal.appendChild(infoContent);
+          document.body.appendChild(infoModal);
+
+          const closeInfoModal = document.getElementById('closeInfoModal');
+          closeInfoModal.onclick = function() {
+            document.body.removeChild(infoModal);
+          };
+
+          // 点击模态框背景关闭
+          infoModal.onclick = function(e) {
+            if (e.target === infoModal) {
+              document.body.removeChild(infoModal);
+            }
+          };
+        };
+
+        // 将问号按钮添加到右侧容器中
+        const infoBtnContainer = liveSection.querySelector('#infoBtnContainer');
+        infoBtnContainer.appendChild(infoBtn);
+      }
+
       let displayList = filtered;
       if (!showAll && filtered.length > 30) {
         displayList = filtered.slice(0, 30);
@@ -294,14 +384,31 @@
         if (!item || typeof item !== 'object') return;
         const div = document.createElement('div');
         div.className = 'item';
+        
+        // 为直播数据添加特殊样式
+        const isLive = item.date === '20301030';
+        if (isLive) {
+          div.style.borderLeft = '4px solid #ff6b6b';
+          div.style.backgroundColor = '#fffbfb';
+        }
 
         // 日期和时长
         const meta = document.createElement('div');
         meta.style.color = '#888';
         meta.style.fontSize = '0.93em';
         meta.style.marginBottom = '2px';
-        const dateText = safeText(item.date) ? `${safeText(item.date)}` : '';
-        const durationText = item.duration ? ` ｜ ${safeText(item.duration)}` : '';
+        
+        let dateText = '';
+        let durationText = '';
+        
+        if (isLive) {
+          dateText = '直播';
+          durationText = item.duration ? ` ｜ ${safeText(item.duration)}` : '';
+        } else {
+          dateText = safeText(item.date) ? `${safeText(item.date)}` : '';
+          durationText = item.duration ? ` ｜ ${safeText(item.duration)}` : '';
+        }
+        
         meta.textContent = `${dateText}${durationText}`;
         div.appendChild(meta);
 
