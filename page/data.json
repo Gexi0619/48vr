@@ -14185,22 +14185,22 @@
     "date": "20250705",
     "contentNumber": "22223211",
     "firstLetter": "gnz",
-    "duration": "02:59:44",
+    "duration": "03:07:46",
     "brief": "gnz",
-    "createTime": "2025-07-07 17:17:54",
-    "updateTime": "2025-07-07 17:17:54",
+    "createTime": "2025-07-07 17:16:33",
+    "updateTime": "2025-07-07 21:38:24",
     "liveBroadcastSeats": [
       {
         "name": "GNZ48",
         "liveBroadcastSeatAddressList": [
           {
-            "address": "http://ucdn.letinvr.com/gnzlive/2025-7yue/8k/250705Zsacm.MP4"
+            "address": "http://ucdn.letinvr.com/gnzlive/2025-7yue/8k/250705Gsacm.MP4"
           },
           {
-            "address": "http://ucdn.letinvr.com/gnzlive/2025-7yue/4-2k/250705Zsacm4k.mp4"
+            "address": "http://ucdn.letinvr.com/gnzlive/2025-7yue/4-2k/250705Gsacm4k.mp4"
           },
           {
-            "address": "http://ucdn.letinvr.com/gnzlive/2025-7yue/4-2k/250705Zsacm2k.mp4"
+            "address": "http://ucdn.letinvr.com/gnzlive/2025-7yue/4-2k/250705Gsacm2k.mp4"
           }
         ]
       }
@@ -54617,22 +54617,22 @@
     "date": "20250705",
     "contentNumber": "28422135",
     "firstLetter": "gnz",
-    "duration": "03:07:44",
+    "duration": "02:59:46",
     "brief": "gnz",
     "createTime": "2025-07-07 17:12:30",
-    "updateTime": "2025-07-07 17:18:33",
+    "updateTime": "2025-07-07 21:36:12",
     "liveBroadcastSeats": [
       {
         "name": "GNZ48",
         "liveBroadcastSeatAddressList": [
           {
-            "address": "http://ucdn.letinvr.com/gnzlive/2025-7yue/8k/250705Gsacm.MP4"
+            "address": "http://ucdn.letinvr.com/gnzlive/2025-7yue/8k/250705Zsacm.MP4"
           },
           {
-            "address": "http://ucdn.letinvr.com/gnzlive/2025-7yue/4-2k/250705Gsacm4k.mp4"
+            "address": "http://ucdn.letinvr.com/gnzlive/2025-7yue/4-2k/250705Zsacm4k.mp4"
           },
           {
-            "address": "http://ucdn.letinvr.com/gnzlive/2025-7yue/4-2k/250705Gsacm2k.mp4"
+            "address": "http://ucdn.letinvr.com/gnzlive/2025-7yue/4-2k/250705Zsacm2k.mp4"
           }
         ]
       }
