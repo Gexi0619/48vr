@@ -3663,6 +3663,33 @@
     ]
   },
   {
+    "id": 26213,
+    "cnName": "250704 Team NIII 《没有我的世界（uN_v3rse）》",
+    "date": "20250704",
+    "contentNumber": "20555056",
+    "firstLetter": "gnz",
+    "duration": "03:10:41",
+    "brief": "gnz",
+    "createTime": "2025-07-07 17:13:34",
+    "updateTime": "2025-07-07 17:18:16",
+    "liveBroadcastSeats": [
+      {
+        "name": "GNZ48",
+        "liveBroadcastSeatAddressList": [
+          {
+            "address": "http://ucdn.letinvr.com/gnzlive/2025-7yue/8k/250704Nscam.MP4"
+          },
+          {
+            "address": "http://ucdn.letinvr.com/gnzlive/2025-7yue/4-2k/250704Nscam4k.mp4"
+          },
+          {
+            "address": "http://ucdn.letinvr.com/gnzlive/2025-7yue/4-2k/250704Nscam2k.mp4"
+          }
+        ]
+      }
+    ]
+  },
+  {
     "id": 26131,
     "cnName": "250522 CKG48 TEAM K《K的2次方》巡演·广州站",
     "date": "20250522",
@@ -6998,6 +7025,33 @@
           },
           {
             "address": "http://ucdn.letinvr.com/snhlive/2025-5yue/2k-4k/250522HIIrScam2k.mp4"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 26216,
+    "cnName": "250706 Team NIII 《没有我的世界（uN_v3rse）》",
+    "date": "20250706",
+    "contentNumber": "21137231",
+    "firstLetter": "gnz",
+    "duration": "02:55:15",
+    "brief": "gnz",
+    "createTime": "2025-07-07 17:19:38",
+    "updateTime": "2025-07-07 17:19:38",
+    "liveBroadcastSeats": [
+      {
+        "name": "GNZ48",
+        "liveBroadcastSeatAddressList": [
+          {
+            "address": "http://ucdn.letinvr.com/gnzlive/2025-7yue/8k/250706Nscam.MP4"
+          },
+          {
+            "address": "http://ucdn.letinvr.com/gnzlive/2025-7yue/4-2k/250706Nscam4k.mp4"
+          },
+          {
+            "address": "http://ucdn.letinvr.com/gnzlive/2025-7yue/4-2k/250706Nsca2k.mp4"
           }
         ]
       }
@@ -14120,6 +14174,33 @@
           },
           {
             "address": "http://ucdn.letinvr.com/snhlive/2024-8yue/2k-4k/240828SIIrScam2k.mp4"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 26215,
+    "cnName": "250705 Team Z 《斗宿之诀》",
+    "date": "20250705",
+    "contentNumber": "22223211",
+    "firstLetter": "gnz",
+    "duration": "02:59:44",
+    "brief": "gnz",
+    "createTime": "2025-07-07 17:17:54",
+    "updateTime": "2025-07-07 17:17:54",
+    "liveBroadcastSeats": [
+      {
+        "name": "GNZ48",
+        "liveBroadcastSeatAddressList": [
+          {
+            "address": "http://ucdn.letinvr.com/gnzlive/2025-7yue/8k/250705Zsacm.MP4"
+          },
+          {
+            "address": "http://ucdn.letinvr.com/gnzlive/2025-7yue/4-2k/250705Zsacm4k.mp4"
+          },
+          {
+            "address": "http://ucdn.letinvr.com/gnzlive/2025-7yue/4-2k/250705Zsacm2k.mp4"
           }
         ]
       }
@@ -54525,6 +54606,33 @@
           },
           {
             "address": "http://ucdn.letinvr.com/gnzlive/2023-7yue/4k-2k/220715ZScam2k.mp4"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 26214,
+    "cnName": "250705 Team G《瑶光之迹》",
+    "date": "20250705",
+    "contentNumber": "28422135",
+    "firstLetter": "gnz",
+    "duration": "03:07:44",
+    "brief": "gnz",
+    "createTime": "2025-07-07 17:12:30",
+    "updateTime": "2025-07-07 17:18:33",
+    "liveBroadcastSeats": [
+      {
+        "name": "GNZ48",
+        "liveBroadcastSeatAddressList": [
+          {
+            "address": "http://ucdn.letinvr.com/gnzlive/2025-7yue/8k/250705Gsacm.MP4"
+          },
+          {
+            "address": "http://ucdn.letinvr.com/gnzlive/2025-7yue/4-2k/250705Gsacm4k.mp4"
+          },
+          {
+            "address": "http://ucdn.letinvr.com/gnzlive/2025-7yue/4-2k/250705Gsacm2k.mp4"
           }
         ]
       }
