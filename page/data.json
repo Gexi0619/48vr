@@ -5464,6 +5464,33 @@
     ]
   },
   {
+    "id": 26217,
+    "cnName": "250706 Team G《瑶光之迹》",
+    "date": "20250706",
+    "contentNumber": "20852058",
+    "firstLetter": "gnz",
+    "duration": "02:19:39",
+    "brief": "gnz",
+    "createTime": "2025-07-08 14:24:21",
+    "updateTime": "2025-07-08 14:24:21",
+    "liveBroadcastSeats": [
+      {
+        "name": "GNZ48",
+        "liveBroadcastSeatAddressList": [
+          {
+            "address": "http://ucdn.letinvr.com/gnzlive/2025-7yue/8k/250706Gscam.MP4"
+          },
+          {
+            "address": "http://ucdn.letinvr.com/gnzlive/2025-7yue/4-2k/250706Gscam4k.mp4"
+          },
+          {
+            "address": "http://ucdn.letinvr.com/gnzlive/2025-7yue/4-2k/250706Gscam2k.mp4"
+          }
+        ]
+      }
+    ]
+  },
+  {
     "id": 23867,
     "cnName": "230917 NII队《应许之地》三机位",
     "date": "20230917",
@@ -23658,14 +23685,14 @@
   },
   {
     "id": 26211,
-    "cnName": "250703 X队《Fire X》公演 三机位 抢先版",
+    "cnName": "250703 X队《Fire X》公演 三机位",
     "date": "20250703",
     "contentNumber": "23682035",
     "firstLetter": "X",
     "duration": "02:47:00",
     "brief": "SNH",
-    "createTime": "2025-07-04 20:33:12",
-    "updateTime": "2025-07-04 20:33:12",
+    "createTime": "2025-07-04 19:39:47",
+    "updateTime": "2025-07-08 14:43:45",
     "liveBroadcastSeats": [
       {
         "name": "中-MID",
@@ -31858,14 +31885,14 @@
   },
   {
     "id": 26212,
-    "cnName": "250704 HII队《赫兹共振》公演 三机位 抢先版",
+    "cnName": "250704 HII队《赫兹共振》公演 三机位",
     "date": "20250704",
     "contentNumber": "25046137",
     "firstLetter": "H",
     "duration": "03:26:24",
     "brief": "HII",
-    "createTime": "2025-07-05 23:28:35",
-    "updateTime": "2025-07-05 23:28:35",
+    "createTime": "2025-07-05 23:22:02",
+    "updateTime": "2025-07-08 14:44:04",
     "liveBroadcastSeats": [
       {
         "name": "中-MID",
@@ -40204,14 +40231,14 @@
   },
   {
     "id": 26209,
-    "cnName": "250702 SNH48《头号新闻》新人公演 三机位 抢先版",
+    "cnName": "250702 SNH48《头号新闻》新人公演 三机位",
     "date": "20250702",
     "contentNumber": "26407100",
     "firstLetter": "snh",
     "duration": "02:51:34",
     "brief": "《头号新闻》",
-    "createTime": "2025-07-03 12:19:31",
-    "updateTime": "2025-07-03 12:19:31",
+    "createTime": "2025-07-03 12:15:14",
+    "updateTime": "2025-07-08 14:43:26",
     "liveBroadcastSeats": [
       {
         "name": "中-MID",
