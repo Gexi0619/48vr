@@ -20788,14 +20788,14 @@
   },
   {
     "id": 26219,
-    "cnName": "250705 NII队 柏欣妤《人生并不会完蛋》生日公演 三机位 抢先版",
+    "cnName": "250705 NII队 柏欣妤《人生并不会完蛋》生日公演 三机位",
     "date": "20250705",
     "contentNumber": "23236047",
     "firstLetter": "snh",
     "duration": "04:16:21",
     "brief": "应许之地",
     "createTime": "2025-07-06 14:30:48",
-    "updateTime": "2025-07-08 20:50:43",
+    "updateTime": "2025-07-09 10:55:47",
     "liveBroadcastSeats": [
       {
         "name": "中-MID",
@@ -20829,13 +20829,13 @@
         "name": "右-RIGHT",
         "liveBroadcastSeatAddressList": [
           {
+            "address": "http://ucdn.letinvr.com/snhlive/2025-7yue/2k-4k/250705NIIrScam2k.mp4"
+          },
+          {
             "address": "http://ucdn.letinvr.com/snhlive/2025-7yue/8k/250705NIIrScam.MP4"
           },
           {
             "address": "http://ucdn.letinvr.com/snhlive/2025-7yue/2k-4k/250705NIIrScam4k.mp4"
-          },
-          {
-            "address": "http://ucdn.letinvr.com/snhlive/2025-7yue/2k-4k/250705NIIrScam2k.mp4"
           }
         ]
       }
@@ -35160,14 +35160,14 @@
   },
   {
     "id": 26221,
-    "cnName": "250706 HII队《赫兹共振》公演 三机位 抢先版",
+    "cnName": "250706 HII队《赫兹共振》公演 三机位",
     "date": "20250706",
     "contentNumber": "25593530",
     "firstLetter": "H",
     "duration": "03:59:38",
     "brief": "HII",
-    "createTime": "2025-07-08 20:55:58",
-    "updateTime": "2025-07-08 20:55:58",
+    "createTime": "2025-07-06 14:32:10",
+    "updateTime": "2025-07-09 10:54:10",
     "liveBroadcastSeats": [
       {
         "name": "中-MID",
@@ -35176,10 +35176,10 @@
             "address": "http://ucdn.letinvr.com/snhlive/2025-7yue/8k/250706HIImScam.MP4"
           },
           {
-            "address": ""
+            "address": "http://ucdn.letinvr.com/snhlive/2025-7yue/2k-4k/250706HIImScam4k.mp4"
           },
           {
-            "address": ""
+            "address": "http://ucdn.letinvr.com/snhlive/2025-7yue/2k-4k/250706HIImScam2k.mp4"
           }
         ]
       },
@@ -35190,7 +35190,7 @@
             "address": "http://ucdn.letinvr.com/snhlive/2025-7yue/8k/250706HIIlScam.MP4"
           },
           {
-            "address": ""
+            "address": "http://ucdn.letinvr.com/snhlive/2025-7yue/2k-4k/250706HIIlScam4k.mp4"
           },
           {
             "address": ""
@@ -35746,14 +35746,14 @@
   },
   {
     "id": 26220,
-    "cnName": "250706 X队《Fire X》公演 三机位 抢先版",
+    "cnName": "250706 X队《Fire X》公演 三机位",
     "date": "20250706",
     "contentNumber": "25657395",
     "firstLetter": "X",
     "duration": "03:58:00",
     "brief": "SNH",
-    "createTime": "2025-07-08 20:53:19",
-    "updateTime": "2025-07-08 20:53:19",
+    "createTime": "2025-07-06 14:31:50",
+    "updateTime": "2025-07-09 10:54:37",
     "liveBroadcastSeats": [
       {
         "name": "中-MID",
