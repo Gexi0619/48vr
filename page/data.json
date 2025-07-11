@@ -3118,6 +3118,33 @@
     ]
   },
   {
+    "id": 26222,
+    "cnName": "250703 偶像研究计划G组《剧场女神》",
+    "date": "20250703",
+    "contentNumber": "20425681",
+    "firstLetter": "gnz",
+    "duration": "01:31:06",
+    "brief": "gnz",
+    "createTime": "2025-07-11 16:30:59",
+    "updateTime": "2025-07-11 16:30:59",
+    "liveBroadcastSeats": [
+      {
+        "name": "GNZ48",
+        "liveBroadcastSeatAddressList": [
+          {
+            "address": "http://ucdn.letinvr.com/gnzlive/2025-7yue/8k/250703GNZ30.mp4"
+          },
+          {
+            "address": "http://ucdn.letinvr.com/gnzlive/2025-7yue/4-2k/250703GNZ304k.mp4"
+          },
+          {
+            "address": "http://ucdn.letinvr.com/gnzlive/2025-7yue/4-2k/250703GNZ302k.mp4"
+          }
+        ]
+      }
+    ]
+  },
+  {
     "id": 23788,
     "cnName": "230825 启程《TEAM G · 第20场》",
     "date": "20230825",
@@ -23870,6 +23897,61 @@
           },
           {
             "address": "http://ucdn.letinvr.com/gnzlive/2022-7yue/0717Z2k.mp4"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 26223,
+    "cnName": "250710 NIII队 《没有我的世界（uN_v3rse）》上海巡演",
+    "date": "20250710",
+    "contentNumber": "23721473",
+    "firstLetter": "gnz",
+    "duration": "03:30:09",
+    "brief": "gnz",
+    "createTime": "2025-07-11 21:20:38",
+    "updateTime": "2025-07-11 21:20:38",
+    "liveBroadcastSeats": [
+      {
+        "name": "中机位",
+        "liveBroadcastSeatAddressList": [
+          {
+            "address": "http://ucdn.letinvr.com/snhlive/2025-7yue/8k/250710NIIImScam.MP4"
+          },
+          {
+            "address": "http://ucdn.letinvr.com/snhlive/2025-7yue/2k-4k/250710NIIImScam4k.mp4"
+          },
+          {
+            "address": "http://ucdn.letinvr.com/snhlive/2025-7yue/2k-4k/250710NIIImScam2k.mp4"
+          }
+        ]
+      },
+      {
+        "name": "左机位",
+        "liveBroadcastSeatAddressList": [
+          {
+            "address": "http://ucdn.letinvr.com/snhlive/2025-7yue/8k/250710NIIIlScam.MP4"
+          },
+          {
+            "address": "http://ucdn.letinvr.com/snhlive/2025-7yue/2k-4k/250710NIIIlScam4k.mp4"
+          },
+          {
+            "address": "http://ucdn.letinvr.com/snhlive/2025-7yue/2k-4k/250710NIIIlScam2k.mp4"
+          }
+        ]
+      },
+      {
+        "name": "右机位",
+        "liveBroadcastSeatAddressList": [
+          {
+            "address": "http://ucdn.letinvr.com/snhlive/2025-7yue/8k/250710NIIIrScam30.mp4"
+          },
+          {
+            "address": "http://ucdn.letinvr.com/snhlive/2025-7yue/2k-4k/250710NIIIrScam304k.mp4"
+          },
+          {
+            "address": "http://ucdn.letinvr.com/snhlive/2025-7yue/2k-4k/250710NIIIrScam302k.mp4"
           }
         ]
       }
