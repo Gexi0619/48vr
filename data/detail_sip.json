@@ -7689,6 +7689,33 @@
     ]
   },
   {
+    "id": 26224,
+    "cnName": "250711 G队《瑶光之迹》 内容有缺失",
+    "date": "20250711",
+    "contentNumber": "21207323",
+    "firstLetter": "gnz",
+    "duration": "02:06:11",
+    "brief": "gnz",
+    "createTime": "2025-07-12 16:17:30",
+    "updateTime": "2025-07-12 16:17:30",
+    "liveBroadcastSeats": [
+      {
+        "name": "GNZ48",
+        "liveBroadcastSeatAddressList": [
+          {
+            "address": "http://ucdn.letinvr.com/gnzlive/2025-7yue/8k/250711G30.mp4"
+          },
+          {
+            "address": "http://ucdn.letinvr.com/gnzlive/2025-7yue/4-2k/250711G304k.mp4"
+          },
+          {
+            "address": "http://ucdn.letinvr.com/gnzlive/2025-7yue/4-2k/250711G302k.mp4"
+          }
+        ]
+      }
+    ]
+  },
+  {
     "id": 25050,
     "cnName": "240601《女 子》曾艾佳主题生日公演",
     "date": "20240601",
