@@ -43144,6 +43144,33 @@
     ]
   },
   {
+    "id": 26225,
+    "cnName": "250713《亿万光年》曾艾佳毕业公演",
+    "date": "20250713",
+    "contentNumber": "26797158",
+    "firstLetter": "gnz",
+    "duration": "03:24:43",
+    "brief": "gnz",
+    "createTime": "2025-07-13 15:47:51",
+    "updateTime": "2025-07-13 15:47:51",
+    "liveBroadcastSeats": [
+      {
+        "name": "GNZ48",
+        "liveBroadcastSeatAddressList": [
+          {
+            "address": "http://ucdn.letinvr.com/gnzlive/2025-7yue/8k/250712ZENGAIJIA.MP4"
+          },
+          {
+            "address": "http://ucdn.letinvr.com/gnzlive/2025-7yue/4-2k/250712ZENGAIJIA4k.mp4"
+          },
+          {
+            "address": "http://ucdn.letinvr.com/gnzlive/2025-7yue/4-2k/250712ZENGAIJIA2k.mp4"
+          }
+        ]
+      }
+    ]
+  },
+  {
     "id": 22227,
     "cnName": "221030 《他们所不知道的TEAM NIII·天秤座&天蝎座生日快乐》",
     "date": "20221030",
