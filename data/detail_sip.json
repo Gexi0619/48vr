@@ -34351,6 +34351,33 @@
     ]
   },
   {
+    "id": 26226,
+    "cnName": "250713《豪歌2025》闪耀公演赛——内容有缺失",
+    "date": "20250713",
+    "contentNumber": "25475412",
+    "firstLetter": "gnz",
+    "duration": "04:04:56",
+    "brief": "gnz",
+    "createTime": "2025-07-14 18:05:13",
+    "updateTime": "2025-07-14 18:05:13",
+    "liveBroadcastSeats": [
+      {
+        "name": "GNZ48",
+        "liveBroadcastSeatAddressList": [
+          {
+            "address": "http://ucdn.letinvr.com/gnzlive/2025-7yue/8k/250713HaoGe.MP4"
+          },
+          {
+            "address": "http://ucdn.letinvr.com/gnzlive/2025-7yue/4-2k/250713HaoGe4k.mp4"
+          },
+          {
+            "address": "http://ucdn.letinvr.com/gnzlive/2025-7yue/4-2k/250713HaoGe2k.mp4"
+          }
+        ]
+      }
+    ]
+  },
+  {
     "id": 23934,
     "cnName": "231004《终极任务》B版公演 最佳拍档第三季半决赛",
     "date": "20231004",
