@@ -3431,6 +3431,61 @@
     ]
   },
   {
+    "id": 26232,
+    "cnName": "250712 NII队 胡晓慧《褒美》生日公演 三机位 抢先版",
+    "date": "20250712",
+    "contentNumber": "20494548",
+    "firstLetter": "snh",
+    "duration": "04:37:05",
+    "brief": "应许之地",
+    "createTime": "2025-07-15 21:24:23",
+    "updateTime": "2025-07-15 21:24:23",
+    "liveBroadcastSeats": [
+      {
+        "name": "中-MID",
+        "liveBroadcastSeatAddressList": [
+          {
+            "address": "http://ucdn.letinvr.com/snhlive/2025-7yue/8k/250712NIImScam.MP4"
+          },
+          {
+            "address": "http://ucdn.letinvr.com/snhlive/2025-7yue/2k-4k/250712NIImScam4k.mp4"
+          },
+          {
+            "address": ""
+          }
+        ]
+      },
+      {
+        "name": "左-LEFT",
+        "liveBroadcastSeatAddressList": [
+          {
+            "address": "http://ucdn.letinvr.com/snhlive/2025-7yue/8k/250712NIIlScam.MP4"
+          },
+          {
+            "address": "http://ucdn.letinvr.com/snhlive/2025-7yue/2k-4k/250712NIIlScam4k.mp4"
+          },
+          {
+            "address": "http://ucdn.letinvr.com/snhlive/2025-7yue/2k-4k/250712NIIlScam2k.mp4"
+          }
+        ]
+      },
+      {
+        "name": "右-RIGHT",
+        "liveBroadcastSeatAddressList": [
+          {
+            "address": "http://ucdn.letinvr.com/snhlive/2025-7yue/8k/250712NIIrScam.MP4"
+          },
+          {
+            "address": ""
+          },
+          {
+            "address": ""
+          }
+        ]
+      }
+    ]
+  },
+  {
     "id": 22483,
     "cnName": "230205《他们所不知道的金曲》",
     "date": "20230205",
@@ -7628,6 +7683,61 @@
           },
           {
             "address": "http://ucdn.letinvr.com/snhlive/4K/2023%E5%B9%B43%E6%9C%88/230324NIIrScam2k.mp4"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 26229,
+    "cnName": "250713 SII队 刘增艳《GAN·算法偏见》生日公演 三机位 抢先版",
+    "date": "20250713",
+    "contentNumber": "21195407",
+    "firstLetter": "S",
+    "duration": "04:56:11",
+    "brief": "SII队《幻境》",
+    "createTime": "2025-07-15 21:19:55",
+    "updateTime": "2025-07-15 21:19:55",
+    "liveBroadcastSeats": [
+      {
+        "name": "中-MID",
+        "liveBroadcastSeatAddressList": [
+          {
+            "address": "http://ucdn.letinvr.com/snhlive/2025-7yue/8k/250713SIImScam.MP4"
+          },
+          {
+            "address": ""
+          },
+          {
+            "address": ""
+          }
+        ]
+      },
+      {
+        "name": "左机位",
+        "liveBroadcastSeatAddressList": [
+          {
+            "address": "http://ucdn.letinvr.com/snhlive/2025-7yue/8k/250713SIIlScam.MP4"
+          },
+          {
+            "address": ""
+          },
+          {
+            "address": ""
+          }
+        ]
+      },
+      {
+        "name": "右-RIGHT",
+        "liveBroadcastSeatAddressList": [
+          {
+            "address": "http://ucdn.letinvr.com/snhlive/2025-7yue/8k/250713SIIrScam.MP4"
+          },
+          {
+            "address": ""
+          },
+          {
+            "address": ""
           }
         ]
       }
@@ -21279,6 +21389,61 @@
     ]
   },
   {
+    "id": 26228,
+    "cnName": "250711 NII队 《应许之地》B版公演 三机位 抢先版",
+    "date": "20250711",
+    "contentNumber": "23290147",
+    "firstLetter": "snh",
+    "duration": "04:16:21",
+    "brief": "应许之地",
+    "createTime": "2025-07-15 21:07:17",
+    "updateTime": "2025-07-15 21:07:17",
+    "liveBroadcastSeats": [
+      {
+        "name": "中-MID",
+        "liveBroadcastSeatAddressList": [
+          {
+            "address": "http://ucdn.letinvr.com/snhlive/2025-7yue/8k/250711NIImScam.MP4"
+          },
+          {
+            "address": "http://ucdn.letinvr.com/snhlive/2025-7yue/2k-4k/250711NIImScam4k.mp4"
+          },
+          {
+            "address": "http://ucdn.letinvr.com/snhlive/2025-7yue/2k-4k/250711NIImScam2k.mp4"
+          }
+        ]
+      },
+      {
+        "name": "左-LEFT",
+        "liveBroadcastSeatAddressList": [
+          {
+            "address": "http://ucdn.letinvr.com/snhlive/2025-7yue/8k/250711NIIlScam.MP4"
+          },
+          {
+            "address": "http://ucdn.letinvr.com/snhlive/2025-7yue/2k-4k/250711NIIlScam4k.mp4"
+          },
+          {
+            "address": "http://ucdn.letinvr.com/snhlive/2025-7yue/2k-4k/250711NIIlScam2k.mp4"
+          }
+        ]
+      },
+      {
+        "name": "右-RIGHT",
+        "liveBroadcastSeatAddressList": [
+          {
+            "address": "http://ucdn.letinvr.com/snhlive/2025-7yue/8k/250711NIIrScam.MP4"
+          },
+          {
+            "address": "http://ucdn.letinvr.com/snhlive/2025-7yue/2k-4k/250711NIIrScam4k.mp4"
+          },
+          {
+            "address": "http://ucdn.letinvr.com/snhlive/2025-7yue/2k-4k/250711NIIrScam2k.mp4"
+          }
+        ]
+      }
+    ]
+  },
+  {
     "id": 24947,
     "cnName": "240427 NIII《千秋乐 ·第60场》",
     "date": "20240427",
@@ -25151,6 +25316,61 @@
           },
           {
             "address": "http://ucdn.letinvr.com/gnzlive/2024-3yue/4k-2k/240310Zscam2K.mp4"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 26231,
+    "cnName": "250712 SII队 《幻镜》C版 由淼生日公演 三机位 抢先版",
+    "date": "20250712",
+    "contentNumber": "23935713",
+    "firstLetter": "S",
+    "duration": "04:07:52",
+    "brief": "SII队《幻境》",
+    "createTime": "2025-07-15 21:23:40",
+    "updateTime": "2025-07-15 21:23:40",
+    "liveBroadcastSeats": [
+      {
+        "name": "中-MID",
+        "liveBroadcastSeatAddressList": [
+          {
+            "address": "http://ucdn.letinvr.com/snhlive/2025-7yue/8k/250712SIImScam30.mp4"
+          },
+          {
+            "address": "http://ucdn.letinvr.com/snhlive/2025-7yue/2k-4k/250712SIImScam304k.mp4"
+          },
+          {
+            "address": "http://ucdn.letinvr.com/snhlive/2025-7yue/2k-4k/250712SIImScam302k.mp4"
+          }
+        ]
+      },
+      {
+        "name": "左机位",
+        "liveBroadcastSeatAddressList": [
+          {
+            "address": "http://ucdn.letinvr.com/snhlive/2025-7yue/8k/250712SIIlScam30.mp4"
+          },
+          {
+            "address": "http://ucdn.letinvr.com/snhlive/2025-7yue/2k-4k/250712SIIlScam304k.mp4"
+          },
+          {
+            "address": ""
+          }
+        ]
+      },
+      {
+        "name": "右-RIGHT",
+        "liveBroadcastSeatAddressList": [
+          {
+            "address": "http://ucdn.letinvr.com/snhlive/2025-7yue/8k/250712SIIrScam30.mp4"
+          },
+          {
+            "address": "http://ucdn.letinvr.com/snhlive/2025-7yue/2k-4k/250712SIIrScam304k.mp4"
+          },
+          {
+            "address": ""
           }
         ]
       }
@@ -43274,6 +43494,61 @@
           },
           {
             "address": "http://ucdn.letinvr.com/snhlive/2024-4yue/2k-4k/240406HIIrScam302k.mp4"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 26230,
+    "cnName": "250713 NII队 《应许之地》卢天惠生日公演 三机位 抢先版",
+    "date": "20250713",
+    "contentNumber": "26814615",
+    "firstLetter": "snh",
+    "duration": "03:53:27",
+    "brief": "应许之地",
+    "createTime": "2025-07-15 21:21:28",
+    "updateTime": "2025-07-15 21:21:28",
+    "liveBroadcastSeats": [
+      {
+        "name": "中-MID",
+        "liveBroadcastSeatAddressList": [
+          {
+            "address": "http://ucdn.letinvr.com/snhlive/2025-7yue/8k/250713NIImScam.MP4"
+          },
+          {
+            "address": ""
+          },
+          {
+            "address": ""
+          }
+        ]
+      },
+      {
+        "name": "左-LEFT",
+        "liveBroadcastSeatAddressList": [
+          {
+            "address": "http://ucdn.letinvr.com/snhlive/2025-7yue/8k/250713NIIlScam.MP4"
+          },
+          {
+            "address": "http://ucdn.letinvr.com/snhlive/2025-7yue/2k-4k/250713NIIlScam4k.mp4"
+          },
+          {
+            "address": ""
+          }
+        ]
+      },
+      {
+        "name": "右-RIGHT",
+        "liveBroadcastSeatAddressList": [
+          {
+            "address": "http://ucdn.letinvr.com/snhlive/2025-7yue/8k/250713NIIrScam.MP4"
+          },
+          {
+            "address": ""
+          },
+          {
+            "address": ""
           }
         ]
       }
