@@ -3432,14 +3432,14 @@
   },
   {
     "id": 26232,
-    "cnName": "250712 NII队 胡晓慧《褒美》生日公演 三机位 抢先版",
+    "cnName": "250712 NII队 胡晓慧《褒美》生日公演 三机位",
     "date": "20250712",
     "contentNumber": "20494548",
     "firstLetter": "snh",
     "duration": "04:37:05",
     "brief": "应许之地",
-    "createTime": "2025-07-15 21:24:23",
-    "updateTime": "2025-07-15 21:24:23",
+    "createTime": "2025-07-15 20:46:59",
+    "updateTime": "2025-07-16 10:26:04",
     "liveBroadcastSeats": [
       {
         "name": "中-MID",
@@ -3451,7 +3451,7 @@
             "address": "http://ucdn.letinvr.com/snhlive/2025-7yue/2k-4k/250712NIImScam4k.mp4"
           },
           {
-            "address": ""
+            "address": "http://ucdn.letinvr.com/snhlive/2025-7yue/2k-4k/250712NIImScam2k.mp4"
           }
         ]
       },
@@ -3476,10 +3476,10 @@
             "address": "http://ucdn.letinvr.com/snhlive/2025-7yue/8k/250712NIIrScam.MP4"
           },
           {
-            "address": ""
+            "address": "http://ucdn.letinvr.com/snhlive/2025-7yue/2k-4k/250712NIIrScam4k.mp4"
           },
           {
-            "address": ""
+            "address": "http://ucdn.letinvr.com/snhlive/2025-7yue/2k-4k/250712NIIrScam2k.mp4"
           }
         ]
       }
@@ -13251,6 +13251,33 @@
     ]
   },
   {
+    "id": 26227,
+    "cnName": "250713 Team Z 《斗宿之诀》",
+    "date": "20250713",
+    "contentNumber": "21976760",
+    "firstLetter": "gnz",
+    "duration": "03:27:58",
+    "brief": "gnz",
+    "createTime": "2025-07-15 16:30:03",
+    "updateTime": "2025-07-15 16:30:03",
+    "liveBroadcastSeats": [
+      {
+        "name": "GNZ48",
+        "liveBroadcastSeatAddressList": [
+          {
+            "address": "http://ucdn.letinvr.com/gnzlive/2025-7yue/8k/250713Zscam.MP4"
+          },
+          {
+            "address": "http://ucdn.letinvr.com/gnzlive/2025-7yue/4-2k/250713Zscam4k.mp4"
+          },
+          {
+            "address": "http://ucdn.letinvr.com/gnzlive/2025-7yue/4-2k/250713Zscam2k.mp4"
+          }
+        ]
+      }
+    ]
+  },
+  {
     "id": 24859,
     "cnName": "240323《 TEAM G 第53场》",
     "date": "20240323",
@@ -21390,14 +21417,14 @@
   },
   {
     "id": 26228,
-    "cnName": "250711 NII队 《应许之地》B版公演 三机位 抢先版",
+    "cnName": "250711 NII队 《应许之地》B版公演 三机位",
     "date": "20250711",
     "contentNumber": "23290147",
     "firstLetter": "snh",
     "duration": "04:16:21",
     "brief": "应许之地",
-    "createTime": "2025-07-15 21:07:17",
-    "updateTime": "2025-07-15 21:07:17",
+    "createTime": "2025-07-15 20:45:38",
+    "updateTime": "2025-07-16 10:23:51",
     "liveBroadcastSeats": [
       {
         "name": "中-MID",
@@ -25323,14 +25350,14 @@
   },
   {
     "id": 26231,
-    "cnName": "250712 SII队 《幻镜》C版 由淼生日公演 三机位 抢先版",
+    "cnName": "250712 SII队 《幻镜》C版 由淼生日公演 三机位",
     "date": "20250712",
     "contentNumber": "23935713",
     "firstLetter": "S",
     "duration": "04:07:52",
     "brief": "SII队《幻境》",
-    "createTime": "2025-07-15 21:23:40",
-    "updateTime": "2025-07-15 21:23:40",
+    "createTime": "2025-07-15 20:47:24",
+    "updateTime": "2025-07-16 10:25:13",
     "liveBroadcastSeats": [
       {
         "name": "中-MID",
@@ -25356,7 +25383,7 @@
             "address": "http://ucdn.letinvr.com/snhlive/2025-7yue/2k-4k/250712SIIlScam304k.mp4"
           },
           {
-            "address": ""
+            "address": "http://ucdn.letinvr.com/snhlive/2025-7yue/2k-4k/250712SIIlScam302k.mp4"
           }
         ]
       },
@@ -25370,7 +25397,7 @@
             "address": "http://ucdn.letinvr.com/snhlive/2025-7yue/2k-4k/250712SIIrScam304k.mp4"
           },
           {
-            "address": ""
+            "address": "http://ucdn.letinvr.com/snhlive/2025-7yue/2k-4k/250712SIIrScam302k.mp4"
           }
         ]
       }
@@ -43501,14 +43528,14 @@
   },
   {
     "id": 26230,
-    "cnName": "250713 NII队 《应许之地》卢天惠生日公演 三机位 抢先版",
+    "cnName": "250713 NII队 《应许之地》卢天惠生日公演 三机位",
     "date": "20250713",
     "contentNumber": "26814615",
     "firstLetter": "snh",
     "duration": "03:53:27",
     "brief": "应许之地",
-    "createTime": "2025-07-15 21:21:28",
-    "updateTime": "2025-07-15 21:21:28",
+    "createTime": "2025-07-15 20:48:20",
+    "updateTime": "2025-07-16 10:27:31",
     "liveBroadcastSeats": [
       {
         "name": "中-MID",
@@ -43517,10 +43544,10 @@
             "address": "http://ucdn.letinvr.com/snhlive/2025-7yue/8k/250713NIImScam.MP4"
           },
           {
-            "address": ""
+            "address": "http://ucdn.letinvr.com/snhlive/2025-7yue/2k-4k/250713NIImScam4k.mp4"
           },
           {
-            "address": ""
+            "address": "http://ucdn.letinvr.com/snhlive/2025-7yue/2k-4k/250713NIImScam2k.mp4"
           }
         ]
       },
@@ -43534,7 +43561,7 @@
             "address": "http://ucdn.letinvr.com/snhlive/2025-7yue/2k-4k/250713NIIlScam4k.mp4"
           },
           {
-            "address": ""
+            "address": "http://ucdn.letinvr.com/snhlive/2025-7yue/2k-4k/250713NIIlScam2k.mp4"
           }
         ]
       },
@@ -43545,10 +43572,10 @@
             "address": "http://ucdn.letinvr.com/snhlive/2025-7yue/8k/250713NIIrScam.MP4"
           },
           {
-            "address": ""
+            "address": "http://ucdn.letinvr.com/snhlive/2025-7yue/2k-4k/250713NIIrScam4k.mp4"
           },
           {
-            "address": ""
+            "address": "http://ucdn.letinvr.com/snhlive/2025-7yue/2k-4k/250713NIIrScam2k.mp4"
           }
         ]
       }
