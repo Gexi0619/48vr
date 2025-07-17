@@ -7690,14 +7690,14 @@
   },
   {
     "id": 26229,
-    "cnName": "250713 SII队 刘增艳《GAN·算法偏见》生日公演 三机位 抢先版",
+    "cnName": "250713 SII队 刘增艳《GAN·算法偏见》生日公演 三机位",
     "date": "20250713",
     "contentNumber": "21195407",
     "firstLetter": "S",
     "duration": "04:56:11",
     "brief": "SII队《幻境》",
-    "createTime": "2025-07-15 21:19:55",
-    "updateTime": "2025-07-15 21:19:55",
+    "createTime": "2025-07-15 20:48:31",
+    "updateTime": "2025-07-17 09:35:41",
     "liveBroadcastSeats": [
       {
         "name": "中-MID",
@@ -7706,10 +7706,10 @@
             "address": "http://ucdn.letinvr.com/snhlive/2025-7yue/8k/250713SIImScam.MP4"
           },
           {
-            "address": ""
+            "address": "http://ucdn.letinvr.com/snhlive/2025-7yue/2k-4k/250713SIImScam4k.mp4"
           },
           {
-            "address": ""
+            "address": "http://ucdn.letinvr.com/snhlive/2025-7yue/2k-4k/250713SIImScam2k.mp4"
           }
         ]
       },
@@ -7720,10 +7720,10 @@
             "address": "http://ucdn.letinvr.com/snhlive/2025-7yue/8k/250713SIIlScam.MP4"
           },
           {
-            "address": ""
+            "address": "http://ucdn.letinvr.com/snhlive/2025-7yue/2k-4k/250713SIIlScam4k.mp4"
           },
           {
-            "address": ""
+            "address": "http://ucdn.letinvr.com/snhlive/2025-7yue/2k-4k/250713SIIlScam2k.mp4"
           }
         ]
       },
@@ -7737,7 +7737,7 @@
             "address": ""
           },
           {
-            "address": ""
+            "address": "http://ucdn.letinvr.com/snhlive/2025-7yue/2k-4k/250713SIIrScam2k.mp4"
           }
         ]
       }
