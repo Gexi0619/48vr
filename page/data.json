@@ -6689,6 +6689,61 @@
     ]
   },
   {
+    "id": 26233,
+    "cnName": "250717 NII队 《应许之地》谢珊珊生日公演 三机位 抢先版",
+    "date": "20250717",
+    "contentNumber": "21036163",
+    "firstLetter": "snh",
+    "duration": "03:09:04",
+    "brief": "应许之地",
+    "createTime": "2025-07-18 15:02:14",
+    "updateTime": "2025-07-18 15:02:14",
+    "liveBroadcastSeats": [
+      {
+        "name": "中-MID",
+        "liveBroadcastSeatAddressList": [
+          {
+            "address": "http://ucdn.letinvr.com/snhlive/2025-7yue/8k/250717NIImScam.MP4"
+          },
+          {
+            "address": "http://ucdn.letinvr.com/snhlive/2025-7yue/2k-4k/250717NIImScam4k.mp4"
+          },
+          {
+            "address": "http://ucdn.letinvr.com/snhlive/2025-7yue/2k-4k/250717NIImScam2k.mp4"
+          }
+        ]
+      },
+      {
+        "name": "左-LEFT",
+        "liveBroadcastSeatAddressList": [
+          {
+            "address": "http://ucdn.letinvr.com/snhlive/2025-7yue/8k/250717NIIlScam.MP4"
+          },
+          {
+            "address": "http://ucdn.letinvr.com/snhlive/2025-7yue/2k-4k/250717NIIlScam4k.mp4"
+          },
+          {
+            "address": "http://ucdn.letinvr.com/snhlive/2025-7yue/2k-4k/250717NIIlScam2k.mp4"
+          }
+        ]
+      },
+      {
+        "name": "右-RIGHT",
+        "liveBroadcastSeatAddressList": [
+          {
+            "address": "http://ucdn.letinvr.com/snhlive/2025-7yue/8k/250717NIIrScam.MP4"
+          },
+          {
+            "address": "http://ucdn.letinvr.com/snhlive/2025-7yue/2k-4k/250717NIIrScam4k.mp4"
+          },
+          {
+            "address": "http://ucdn.letinvr.com/snhlive/2025-7yue/2k-4k/250717NIIrScam2k.mp4"
+          }
+        ]
+      }
+    ]
+  },
+  {
     "id": 23667,
     "cnName": "230727 CKG《以爱之名》广州巡演第三场",
     "date": "20230727",
