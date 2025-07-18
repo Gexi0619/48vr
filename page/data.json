@@ -65790,6 +65790,33 @@
     ]
   },
   {
+    "id": 26234,
+    "cnName": "250717 偶像研究计划G组《剧场女神》",
+    "date": "20250717",
+    "contentNumber": "29920634",
+    "firstLetter": "gnz",
+    "duration": "02:21:44",
+    "brief": "gnz",
+    "createTime": "2025-07-18 19:29:56",
+    "updateTime": "2025-07-18 19:29:56",
+    "liveBroadcastSeats": [
+      {
+        "name": "GNZ48",
+        "liveBroadcastSeatAddressList": [
+          {
+            "address": "http://ucdn.letinvr.com/gnzlive/2025-7yue/8k/250717GNZ.MP4"
+          },
+          {
+            "address": "http://ucdn.letinvr.com/gnzlive/2025-7yue/4-2k/250717GNZ4k.mp4"
+          },
+          {
+            "address": "http://ucdn.letinvr.com/gnzlive/2025-7yue/4-2k/250717GNZ2k.mp4"
+          }
+        ]
+      }
+    ]
+  },
+  {
     "id": 23310,
     "cnName": "230502《启程：TEAM G·第五场》",
     "date": "20230502",
