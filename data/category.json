@@ -66,7 +66,7 @@
             "columnPosterPathThree": "",
             "child": [],
             "cornerInfo": null,
-            "pointCount": 1
+            "pointCount": 0
           },
           {
             "id": 9725,
@@ -1292,64 +1292,14 @@
             "child": [],
             "cornerInfo": null,
             "pointCount": 0
-          },
-          {
-            "id": 9454,
-            "name": "SNH48TeamSII队",
-            "columnTag": "20220822094527",
-            "columnType": 2,
-            "columnName": "SNH48TeamSII队",
-            "columnId": 2266,
-            "display": 1,
-            "status": 1,
-            "parent": 2233,
-            "filmId": 123518,
-            "posterPath": "/DATA/filmCenter/2022-08-22/1661133037402.jpg",
-            "remark": "",
-            "previewUrl": "",
-            "referer": "",
-            "reserveOne": "",
-            "reserveTwo": "",
-            "reserveThree": "",
-            "brief": "",
-            "columnPosterPathTwo": "",
-            "columnPosterPathThree": "",
-            "child": [],
-            "cornerInfo": null,
-            "pointCount": 0
-          },
-          {
-            "id": 9451,
-            "name": "最佳拍档",
-            "columnTag": "20220629095320",
-            "columnType": 2,
-            "columnName": "最佳拍档",
-            "columnId": 2254,
-            "display": 1,
-            "status": 1,
-            "parent": 2233,
-            "filmId": 123518,
-            "posterPath": "/DATA/filmCenter/2022-06-29/1656467767978.png",
-            "remark": "",
-            "previewUrl": "",
-            "referer": "",
-            "reserveOne": "",
-            "reserveTwo": "",
-            "reserveThree": "",
-            "brief": "",
-            "columnPosterPathTwo": "",
-            "columnPosterPathThree": "",
-            "child": [],
-            "cornerInfo": null,
-            "pointCount": 0
           }
         ],
         "cornerInfo": null,
-        "pointCount": 1
+        "pointCount": 0
       }
     ],
     "cornerInfo": null,
-    "pointCount": 2
+    "pointCount": 0
   },
   {
     "id": 9604,
@@ -1699,7 +1649,7 @@
         "columnPosterPathThree": "",
         "child": [],
         "cornerInfo": null,
-        "pointCount": 1
+        "pointCount": 0
       },
       {
         "id": 9549,
@@ -1904,7 +1854,7 @@
       }
     ],
     "cornerInfo": null,
-    "pointCount": 1
+    "pointCount": 0
   },
   {
     "id": 9098,
@@ -1976,11 +1926,11 @@
         "columnPosterPathThree": "",
         "child": [],
         "cornerInfo": null,
-        "pointCount": 1
+        "pointCount": 0
       }
     ],
     "cornerInfo": null,
-    "pointCount": 1
+    "pointCount": 0
   },
   {
     "id": 9438,
