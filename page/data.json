@@ -6690,14 +6690,14 @@
   },
   {
     "id": 26233,
-    "cnName": "250717 NII队 《应许之地》谢珊珊生日公演 三机位 抢先版",
+    "cnName": "250717 NII队 《应许之地》谢珊珊生日公演 三机位",
     "date": "20250717",
     "contentNumber": "21036163",
     "firstLetter": "snh",
     "duration": "03:09:04",
     "brief": "应许之地",
-    "createTime": "2025-07-18 15:02:14",
-    "updateTime": "2025-07-18 15:02:14",
+    "createTime": "2025-07-18 09:15:27",
+    "updateTime": "2025-07-20 14:14:02",
     "liveBroadcastSeats": [
       {
         "name": "中-MID",
@@ -38858,6 +38858,27 @@
           },
           {
             "address": "http://ucdn.letinvr.com/gnzlive/2024-12yue/4k-2k/241231KuaNian2k.mp4"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 26237,
+    "cnName": "250719 TEAM G《瑶光之迹》 抢先版",
+    "date": "20250719",
+    "contentNumber": "26122669",
+    "firstLetter": "gnz",
+    "duration": "02:51:14",
+    "brief": "gnz",
+    "createTime": "2025-07-20 14:09:27",
+    "updateTime": "2025-07-20 15:30:09",
+    "liveBroadcastSeats": [
+      {
+        "name": "GNZ48",
+        "liveBroadcastSeatAddressList": [
+          {
+            "address": "http://ucdn.letinvr.com/gnzlive/2025-7yue/8k/250719G.MP4"
           }
         ]
       }
