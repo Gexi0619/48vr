@@ -8323,6 +8323,27 @@
     ]
   },
   {
+    "id": 26267,
+    "cnName": "250809 Team Z《斗宿之诀》2.0公演",
+    "date": "20250809",
+    "contentNumber": "22041680",
+    "firstLetter": "gnz",
+    "duration": "03:01:34",
+    "brief": "gnz",
+    "createTime": "2025-08-10 13:54:38",
+    "updateTime": "2025-08-10 13:54:38",
+    "liveBroadcastSeats": [
+      {
+        "name": "GNZ48",
+        "liveBroadcastSeatAddressList": [
+          {
+            "address": "http://ucdn.letinvr.com/gnzlive/2025-8yue/8k/250809Zscam.MP4"
+          }
+        ]
+      }
+    ]
+  },
+  {
     "id": 26082,
     "cnName": "250425 NII队 《应许之地》B版公演 三机位",
     "date": "20250425",

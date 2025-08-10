@@ -44,6 +44,56 @@
         "columnPosterPathThree": "",
         "child": [
           {
+            "id": 9727,
+            "name": "25-8月SNH48",
+            "columnTag": "20250810135528",
+            "columnType": 2,
+            "columnName": "25-8月SNH48",
+            "columnId": 2494,
+            "display": 1,
+            "status": 1,
+            "parent": 2233,
+            "filmId": 123518,
+            "posterPath": "/DATA/filmCenter/2025-08-10/1754805349750.jpeg",
+            "remark": "",
+            "previewUrl": "",
+            "referer": "",
+            "reserveOne": "",
+            "reserveTwo": "",
+            "reserveThree": "",
+            "brief": "",
+            "columnPosterPathTwo": "",
+            "columnPosterPathThree": "",
+            "child": [],
+            "cornerInfo": null,
+            "pointCount": 0
+          },
+          {
+            "id": 9728,
+            "name": "25-8月GNZ48",
+            "columnTag": "20250810135607",
+            "columnType": 2,
+            "columnName": "25-8月GNZ48",
+            "columnId": 2495,
+            "display": 1,
+            "status": 1,
+            "parent": 2233,
+            "filmId": 123518,
+            "posterPath": "/DATA/filmCenter/2025-08-10/1754805391028.jpg",
+            "remark": "",
+            "previewUrl": "",
+            "referer": "",
+            "reserveOne": "",
+            "reserveTwo": "",
+            "reserveThree": "",
+            "brief": "",
+            "columnPosterPathTwo": "",
+            "columnPosterPathThree": "",
+            "child": [],
+            "cornerInfo": null,
+            "pointCount": 1
+          },
+          {
             "id": 9725,
             "name": "25-7月SNH48",
             "columnTag": "20250703100249",
@@ -395,11 +445,11 @@
           }
         ],
         "cornerInfo": null,
-        "pointCount": 0
+        "pointCount": 1
       }
     ],
     "cornerInfo": null,
-    "pointCount": 0
+    "pointCount": 1
   },
   {
     "id": 9604,
