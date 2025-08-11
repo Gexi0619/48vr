@@ -20733,6 +20733,27 @@
     ]
   },
   {
+    "id": 26268,
+    "cnName": "250809 Team G《瑶光之迹》2.0公演",
+    "date": "20250809",
+    "contentNumber": "25522613",
+    "firstLetter": "gnz",
+    "duration": "02:29:15",
+    "brief": "gnz",
+    "createTime": "2025-08-11 14:25:32",
+    "updateTime": "2025-08-11 14:28:25",
+    "liveBroadcastSeats": [
+      {
+        "name": "GNZ48",
+        "liveBroadcastSeatAddressList": [
+          {
+            "address": "http://ucdn.letinvr.com/gnzlive/2025-8yue/8k/250809Gscam30.mp4"
+          }
+        ]
+      }
+    ]
+  },
+  {
     "id": 25608,
     "cnName": "240922 X队《交X点》公演 三机位",
     "date": "20240922",
