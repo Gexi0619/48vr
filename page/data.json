@@ -19593,6 +19593,27 @@
     ]
   },
   {
+    "id": 26269,
+    "cnName": "250810 偶像研究计划G组《剧场女神》",
+    "date": "20250810",
+    "contentNumber": "25092977",
+    "firstLetter": "gnz",
+    "duration": "02:24:36",
+    "brief": "gnz",
+    "createTime": "2025-08-12 10:37:57",
+    "updateTime": "2025-08-12 10:37:57",
+    "liveBroadcastSeats": [
+      {
+        "name": "GNZ48",
+        "liveBroadcastSeatAddressList": [
+          {
+            "address": "http://ucdn.letinvr.com/gnzlive/2025-8yue/8k/250810Gnz.MP4"
+          }
+        ]
+      }
+    ]
+  },
+  {
     "id": 24815,
     "cnName": "240303《TEAM NIII·第49场》",
     "date": "20240303",
