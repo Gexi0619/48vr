@@ -7602,6 +7602,27 @@
     ]
   },
   {
+    "id": 26275,
+    "cnName": "250816 Team SII《INTO THE LIGHT》公演",
+    "date": "20250816",
+    "contentNumber": "21886546",
+    "firstLetter": "S",
+    "duration": "03:34:42",
+    "brief": "SII队《幻境》",
+    "createTime": "2025-08-17 14:54:09",
+    "updateTime": "2025-08-17 14:54:09",
+    "liveBroadcastSeats": [
+      {
+        "name": "中-MID",
+        "liveBroadcastSeatAddressList": [
+          {
+            "address": "http://ucdn.letinvr.com/snhlive/2025-8yue/8k/250816S.MP4"
+          }
+        ]
+      }
+    ]
+  },
+  {
     "id": 24027,
     "cnName": "231112 SNH48《命运的X号》新生公演 三机位",
     "date": "20231112",
@@ -13057,6 +13078,27 @@
           },
           {
             "address": "http://ucdn.letinvr.com/gnzlive/2025-5yue/4k-2k/250518Zscam2k.mp4"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 26272,
+    "cnName": "250816 Team Z《斗宿之诀》2.0公演",
+    "date": "20250816",
+    "contentNumber": "23312309",
+    "firstLetter": "gnz",
+    "duration": "02:51:12",
+    "brief": "gnz",
+    "createTime": "2025-08-17 14:41:47",
+    "updateTime": "2025-08-17 14:42:57",
+    "liveBroadcastSeats": [
+      {
+        "name": "GNZ48",
+        "liveBroadcastSeatAddressList": [
+          {
+            "address": "http://ucdn.letinvr.com/gnzlive/2025-8yue/8k/250816Z.MP4"
           }
         ]
       }
@@ -20097,6 +20139,27 @@
     ]
   },
   {
+    "id": 26270,
+    "cnName": "250815 Team G《瑶光之迹》2.0公演",
+    "date": "20250815",
+    "contentNumber": "25307792",
+    "firstLetter": "gnz",
+    "duration": "02:23:49",
+    "brief": "gnz",
+    "createTime": "2025-08-17 14:40:39",
+    "updateTime": "2025-08-17 14:40:39",
+    "liveBroadcastSeats": [
+      {
+        "name": "GNZ48",
+        "liveBroadcastSeatAddressList": [
+          {
+            "address": "http://ucdn.letinvr.com/gnzlive/2025-8yue/8k/250815GNZ.MP4"
+          }
+        ]
+      }
+    ]
+  },
+  {
     "id": 25866,
     "cnName": "250223 HII队《阿尔法之芯》公演 三机位",
     "date": "20250223",
@@ -23735,6 +23798,27 @@
         "liveBroadcastSeatAddressList": [
           {
             "address": "http://ucdn.letinvr.com/snhlive/8K/2323-11yue/231122SNH48rScam.MP4"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 26271,
+    "cnName": "250816 Team G《瑶光之迹》2.0公演",
+    "date": "20250816",
+    "contentNumber": "26281110",
+    "firstLetter": "gnz",
+    "duration": "02:42:21",
+    "brief": "gnz",
+    "createTime": "2025-08-17 14:41:42",
+    "updateTime": "2025-08-17 14:41:42",
+    "liveBroadcastSeats": [
+      {
+        "name": "GNZ48",
+        "liveBroadcastSeatAddressList": [
+          {
+            "address": "http://ucdn.letinvr.com/gnzlive/2025-8yue/8k/250816G30new.mp4"
           }
         ]
       }
@@ -28336,6 +28420,27 @@
           },
           {
             "address": "http://ucdn.letinvr.com/gnzlive/2024-5yue/4-2k/240525Gscam2k.mp4"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 26274,
+    "cnName": "250816 Team X《Fire X》公演",
+    "date": "20250816",
+    "contentNumber": "27395509",
+    "firstLetter": "X",
+    "duration": "02:46:52",
+    "brief": "SNH",
+    "createTime": "2025-08-17 14:45:49",
+    "updateTime": "2025-08-17 14:52:06",
+    "liveBroadcastSeats": [
+      {
+        "name": "中-MID",
+        "liveBroadcastSeatAddressList": [
+          {
+            "address": "http://ucdn.letinvr.com/snhlive/2025-8yue/8k/250816X.MP4"
           }
         ]
       }
