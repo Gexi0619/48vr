@@ -40001,6 +40001,27 @@
     ]
   },
   {
+    "id": 26273,
+    "cnName": "250815 Team HII《赫兹共振》公演",
+    "date": "20250815",
+    "contentNumber": "29927142",
+    "firstLetter": "H",
+    "duration": "03:06:32",
+    "brief": "HII",
+    "createTime": "2025-08-17 14:45:26",
+    "updateTime": "2025-08-17 14:51:56",
+    "liveBroadcastSeats": [
+      {
+        "name": "中-MID",
+        "liveBroadcastSeatAddressList": [
+          {
+            "address": "http://ucdn.letinvr.com/snhlive/2025-8yue/8k/250815H.MP4"
+          }
+        ]
+      }
+    ]
+  },
+  {
     "id": 25514,
     "cnName": "2400907 Team G《瑶光之迹》",
     "date": "20240090",
