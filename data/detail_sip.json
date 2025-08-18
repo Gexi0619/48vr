@@ -16541,6 +16541,27 @@
     ]
   },
   {
+    "id": 26276,
+    "cnName": "250817 Team Z《斗宿之诀》2.0公演",
+    "date": "20250817",
+    "contentNumber": "24283682",
+    "firstLetter": "gnz",
+    "duration": "02:51:46",
+    "brief": "gnz",
+    "createTime": "2025-08-18 15:56:57",
+    "updateTime": "2025-08-18 15:56:57",
+    "liveBroadcastSeats": [
+      {
+        "name": "GNZ48",
+        "liveBroadcastSeatAddressList": [
+          {
+            "address": "http://ucdn.letinvr.com/gnzlive/2025-8yue/8k/250817Zscam.MP4"
+          }
+        ]
+      }
+    ]
+  },
+  {
     "id": 22443,
     "cnName": "230113  NIII队 《他们所不知道的TEAM NIII》",
     "date": "20230113",
@@ -18938,6 +18959,27 @@
           },
           {
             "address": "http://ucdn.letinvr.com/gnzlive/2025-4yue/4-2k/250426Nscam2k.mp4"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 26278,
+    "cnName": "250817 Team NII 《至少还有星光落在我眼底》张笑盈毕业公演",
+    "date": "20250817",
+    "contentNumber": "24869465",
+    "firstLetter": "snh",
+    "duration": "04:34:41",
+    "brief": "应许之地",
+    "createTime": "2025-08-18 15:59:20",
+    "updateTime": "2025-08-18 16:09:19",
+    "liveBroadcastSeats": [
+      {
+        "name": "中-MID",
+        "liveBroadcastSeatAddressList": [
+          {
+            "address": "http://ucdn.letinvr.com/snhlive/2025-8yue/8k/250817Nscam.MP4"
           }
         ]
       }
