@@ -18096,6 +18096,35 @@
     ]
   },
   {
+    "id": 26292,
+    "cnName": "250821 Team HII《赫兹共振》公演",
+    "date": "20250821",
+    "contentNumber": "24642032",
+    "firstLetter": "H",
+    "duration": "02:56:45",
+    "brief": "HII",
+    "createTime": "2025-08-22 11:10:57",
+    "updateTime": "2025-08-22 11:10:57",
+    "liveBroadcastSeats": [
+      {
+        "name": "中-MID",
+        "liveBroadcastSeatAddressList": [
+          {
+            "address": "http://ucdn.letinvr.com/snhlive/2025-8yue/8k/250821Hmscam.MP4"
+          }
+        ]
+      },
+      {
+        "name": "左-LEFT",
+        "liveBroadcastSeatAddressList": [
+          {
+            "address": "http://ucdn.letinvr.com/snhlive/2025-8yue/8k/250821Hlscam.MP4"
+          }
+        ]
+      }
+    ]
+  },
+  {
     "id": 25767,
     "cnName": "241214 刘倩倩 “Redamancy”上海告别公演 右中机位",
     "date": "20241214",
@@ -33843,6 +33872,27 @@
           },
           {
             "address": "http://ucdn.letinvr.com/gnzlive/2023-12yue/4k-2k/231231XHscam2k.mp4"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 26291,
+    "cnName": "25021 偶像研究计划G组《剧场女神》",
+    "date": null,
+    "contentNumber": "28639291",
+    "firstLetter": "gnz",
+    "duration": "02:31:00",
+    "brief": "gnz",
+    "createTime": "2025-08-22 11:04:17",
+    "updateTime": "2025-08-22 11:04:17",
+    "liveBroadcastSeats": [
+      {
+        "name": "GNZ48",
+        "liveBroadcastSeatAddressList": [
+          {
+            "address": "http://ucdn.letinvr.com/gnzlive/2025-8yue/8k/250821GNZ.MP4"
           }
         ]
       }
