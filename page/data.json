@@ -12561,6 +12561,27 @@
     ]
   },
   {
+    "id": 26293,
+    "cnName": "250822 Team Z《斗宿之诀》2.0公演",
+    "date": "20250822",
+    "contentNumber": "23207026",
+    "firstLetter": "gnz",
+    "duration": "02:53:53",
+    "brief": "gnz",
+    "createTime": "2025-08-23 15:27:09",
+    "updateTime": "2025-08-23 15:27:09",
+    "liveBroadcastSeats": [
+      {
+        "name": "GNZ48",
+        "liveBroadcastSeatAddressList": [
+          {
+            "address": "http://ucdn.letinvr.com/gnzlive/2025-8yue/8k/250822Zscam.MP4"
+          }
+        ]
+      }
+    ]
+  },
+  {
     "id": 22416,
     "cnName": "230101 《All about 腿》",
     "date": "20230101",
@@ -33989,6 +34010,35 @@
           },
           {
             "address": "http://ucdn.letinvr.com/snhlive/2025-3yue/2k-4k/250307XrScam2k.mp4"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 26294,
+    "cnName": "250822 TEAM NII《应许之地》B版公演",
+    "date": "20250822",
+    "contentNumber": "28668097",
+    "firstLetter": "snh",
+    "duration": "02:58:23",
+    "brief": "应许之地",
+    "createTime": "2025-08-23 15:29:57",
+    "updateTime": "2025-08-23 15:29:57",
+    "liveBroadcastSeats": [
+      {
+        "name": "中-MID",
+        "liveBroadcastSeatAddressList": [
+          {
+            "address": "http://ucdn.letinvr.com/snhlive/2025-8yue/8k/250822Nmscam.MP4"
+          }
+        ]
+      },
+      {
+        "name": "左-LEFT",
+        "liveBroadcastSeatAddressList": [
+          {
+            "address": "http://ucdn.letinvr.com/snhlive/2025-8yue/8k/250822Nlscam.MP4"
           }
         ]
       }
