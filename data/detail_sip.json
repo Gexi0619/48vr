@@ -5642,6 +5642,27 @@
     ]
   },
   {
+    "id": 26277,
+    "cnName": "250817 Team SII《INTO THE LIGHT》公演",
+    "date": "20250817",
+    "contentNumber": "21418503",
+    "firstLetter": "S",
+    "duration": "03:19:08",
+    "brief": "SII队《幻境》",
+    "createTime": "2025-08-18 16:03:59",
+    "updateTime": "2025-08-18 16:09:18",
+    "liveBroadcastSeats": [
+      {
+        "name": "中-MID",
+        "liveBroadcastSeatAddressList": [
+          {
+            "address": "http://ucdn.letinvr.com/snhlive/2025-8yue/8k/250817Sscam.MP4"
+          }
+        ]
+      }
+    ]
+  },
+  {
     "id": 24025,
     "cnName": "231111 SNH48  星梦剧院偶像趣味运动会 三机位",
     "date": "20231111",
@@ -37420,6 +37441,27 @@
         "liveBroadcastSeatAddressList": [
           {
             "address": "http://ucdn.letinvr.com/18612341000/library/1078595887761/0303NIIISacm.MP4"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 26295,
+    "cnName": "250823 Team NIII《没有我的世界》季度MVP-刘力菲表演环节",
+    "date": "20250823",
+    "contentNumber": "29348042",
+    "firstLetter": "gnz",
+    "duration": "03:23:36",
+    "brief": "gnz",
+    "createTime": "2025-08-24 15:59:18",
+    "updateTime": "2025-08-24 15:59:18",
+    "liveBroadcastSeats": [
+      {
+        "name": "GNZ48",
+        "liveBroadcastSeatAddressList": [
+          {
+            "address": "http://ucdn.letinvr.com/gnzlive/2025-8yue/8k/250823Nscam.MP4"
           }
         ]
       }
