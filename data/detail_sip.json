@@ -10490,6 +10490,35 @@
     ]
   },
   {
+    "id": 26297,
+    "cnName": "250823 TEAM HII《青春不败》许杨玉琢年度剧场MVP公演",
+    "date": "20250823",
+    "contentNumber": "22654641",
+    "firstLetter": "H",
+    "duration": "03:38:26",
+    "brief": "HII",
+    "createTime": "2025-08-25 17:22:51",
+    "updateTime": "2025-08-25 17:22:51",
+    "liveBroadcastSeats": [
+      {
+        "name": "中-MID",
+        "liveBroadcastSeatAddressList": [
+          {
+            "address": "http://ucdn.letinvr.com/snhlive/2025-8yue/8k/250823Hmscam.MP4"
+          }
+        ]
+      },
+      {
+        "name": "左-LEFT",
+        "liveBroadcastSeatAddressList": [
+          {
+            "address": "http://ucdn.letinvr.com/snhlive/2025-8yue/8k/250823Hlscam.MP4"
+          }
+        ]
+      }
+    ]
+  },
+  {
     "id": 25129,
     "cnName": "240630 Tema G《瑶光之迹》",
     "date": "20240630",
@@ -25374,6 +25403,30 @@
           },
           {
             "address": "http://ucdn.letinvr.com/snhlive/2025-1yue/2k-4k/250120SNH48rScam2k.mp4"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 26296,
+    "cnName": "250823 Team G《瑶光之迹》2.0公演",
+    "date": "20250823",
+    "contentNumber": "26605458",
+    "firstLetter": "gnz",
+    "duration": "02:55:05",
+    "brief": "gnz",
+    "createTime": "2025-08-25 16:47:00",
+    "updateTime": "2025-08-25 16:47:00",
+    "liveBroadcastSeats": [
+      {
+        "name": "GNZ48",
+        "liveBroadcastSeatAddressList": [
+          {
+            "address": "http://ucdn.letinvr.com/gnzlive/2025-8yue/8k/250823Gscam.MP4"
+          },
+          {
+            "address": "http://"
           }
         ]
       }
