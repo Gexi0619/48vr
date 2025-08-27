@@ -24955,14 +24955,14 @@
     "firstLetter": "gnz",
     "duration": "02:59:45",
     "brief": "gnz",
-    "createTime": "2025-08-26 13:50:15",
-    "updateTime": "2025-08-26 13:50:15",
+    "createTime": "2025-08-26 13:49:12",
+    "updateTime": "2025-08-27 13:25:33",
     "liveBroadcastSeats": [
       {
         "name": "GNZ48",
         "liveBroadcastSeatAddressList": [
           {
-            "address": "http://ucdn.letinvr.com/gnzlive/2025-8yue/8k/250823Nscam.MP4"
+            "address": "http://ucdn.letinvr.com/gnzlive/2025-8yue/8k/250824Nscam.MP4"
           }
         ]
       }
