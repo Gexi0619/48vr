@@ -23980,14 +23980,20 @@
     "firstLetter": "gnz",
     "duration": "02:59:20",
     "brief": "gnz",
-    "createTime": "2025-08-26 07:30:47",
-    "updateTime": "2025-08-26 07:30:47",
+    "createTime": "2025-08-26 07:29:11",
+    "updateTime": "2025-08-27 09:30:42",
     "liveBroadcastSeats": [
       {
         "name": "GNZ48",
         "liveBroadcastSeatAddressList": [
           {
             "address": "http://ucdn.letinvr.com/gnzlive/2025-8yue/8k/250824Zscam.MP4"
+          },
+          {
+            "address": "http://"
+          },
+          {
+            "address": "http://"
           }
         ]
       }
@@ -25522,17 +25528,14 @@
     "firstLetter": "gnz",
     "duration": "02:55:05",
     "brief": "gnz",
-    "createTime": "2025-08-25 16:47:00",
-    "updateTime": "2025-08-25 16:47:00",
+    "createTime": "2025-08-24 15:59:34",
+    "updateTime": "2025-08-27 10:02:01",
     "liveBroadcastSeats": [
       {
         "name": "GNZ48",
         "liveBroadcastSeatAddressList": [
           {
             "address": "http://ucdn.letinvr.com/gnzlive/2025-8yue/8k/250823Gscam.MP4"
-          },
-          {
-            "address": "http://"
           }
         ]
       }
@@ -31807,14 +31810,17 @@
     "firstLetter": "S",
     "duration": "02:56:33",
     "brief": "SII队《幻境》",
-    "createTime": "2025-08-26 17:34:21",
-    "updateTime": "2025-08-26 17:34:21",
+    "createTime": "2025-08-26 13:52:30",
+    "updateTime": "2025-08-27 09:30:04",
     "liveBroadcastSeats": [
       {
         "name": "中-上部分",
         "liveBroadcastSeatAddressList": [
           {
             "address": "http://ucdn.letinvr.com/snhlive/2025-8yue/8k/250823Smscam1.mp4"
+          },
+          {
+            "address": "http://"
           }
         ]
       },
@@ -31823,6 +31829,9 @@
         "liveBroadcastSeatAddressList": [
           {
             "address": "http://ucdn.letinvr.com/snhlive/2025-8yue/8k/250823Smscam2.mp4"
+          },
+          {
+            "address": "http://"
           }
         ]
       },
@@ -31831,6 +31840,9 @@
         "liveBroadcastSeatAddressList": [
           {
             "address": "http://ucdn.letinvr.com/snhlive/2025-8yue/8k/250823Slscam1.mp4"
+          },
+          {
+            "address": "http://"
           }
         ]
       },
@@ -31839,6 +31851,9 @@
         "liveBroadcastSeatAddressList": [
           {
             "address": "http://ucdn.letinvr.com/snhlive/2025-8yue/8k/250823Slscam2.mp4"
+          },
+          {
+            "address": "http://"
           }
         ]
       }
