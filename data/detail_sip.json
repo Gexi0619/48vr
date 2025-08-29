@@ -1174,6 +1174,27 @@
     ]
   },
   {
+    "id": 26306,
+    "cnName": "25028 偶像研究计划G组《剧场女神》",
+    "date": null,
+    "contentNumber": "20321563",
+    "firstLetter": "gnz",
+    "duration": "02:24:54",
+    "brief": "gnz",
+    "createTime": "2025-08-29 15:06:21",
+    "updateTime": "2025-08-29 15:06:21",
+    "liveBroadcastSeats": [
+      {
+        "name": "GNZ48",
+        "liveBroadcastSeatAddressList": [
+          {
+            "address": "http://ucdn.letinvr.com/gnzlive/2025-8yue/8k/250828Gscam30.mp4"
+          }
+        ]
+      }
+    ]
+  },
+  {
     "id": 25724,
     "cnName": "241122 X队《交X点》公演 三机位",
     "date": "20241122",
@@ -5416,6 +5437,35 @@
           },
           {
             "address": "http://ucdn.letinvr.com/snhlive/2025-1yue/2k-4k/250105SIIrScam2k.mp4"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 26304,
+    "cnName": "250828 SNH48《头号新闻》公演",
+    "date": "20250828",
+    "contentNumber": "21329037",
+    "firstLetter": "snh",
+    "duration": "03:09:56",
+    "brief": "《头号新闻》",
+    "createTime": "2025-08-29 15:01:23",
+    "updateTime": "2025-08-29 15:01:23",
+    "liveBroadcastSeats": [
+      {
+        "name": "中-MID",
+        "liveBroadcastSeatAddressList": [
+          {
+            "address": "http://ucdn.letinvr.com/snhlive/2025-8yue/8k/250827SNHscam.MP4"
+          }
+        ]
+      },
+      {
+        "name": "左-LEFT",
+        "liveBroadcastSeatAddressList": [
+          {
+            "address": "http://ucdn.letinvr.com/snhlive/2025-8yue/8k/250827SNHscam.MP4"
           }
         ]
       }
@@ -29923,6 +29973,35 @@
         "liveBroadcastSeatAddressList": [
           {
             "address": "http://ucdn.letinvr.com/snhlive/8K/2023-7yue/230713NIIrScam.MP4"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 26305,
+    "cnName": "250828 Team SII《INTO THE LIGHT》公演",
+    "date": "20250828",
+    "contentNumber": "27640923",
+    "firstLetter": "S",
+    "duration": "03:04:51",
+    "brief": "SII队《幻境》",
+    "createTime": "2025-08-29 15:03:41",
+    "updateTime": "2025-08-29 15:03:41",
+    "liveBroadcastSeats": [
+      {
+        "name": "中-MID",
+        "liveBroadcastSeatAddressList": [
+          {
+            "address": "http://ucdn.letinvr.com/snhlive/2025-8yue/8k/250828Smscam.MP4"
+          }
+        ]
+      },
+      {
+        "name": "左-LEFT",
+        "liveBroadcastSeatAddressList": [
+          {
+            "address": "http://ucdn.letinvr.com/snhlive/2025-8yue/8k/2508278Slscam.MP4"
           }
         ]
       }
