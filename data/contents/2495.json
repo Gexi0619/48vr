@@ -34,7 +34,7 @@
     "liveEnd": "",
     "child": [],
     "programInfo": [],
-    "redPointStatus": 1,
+    "redPointStatus": 0,
     "alias": "",
     "nameLocation": "",
     "nameStatus": 0,
@@ -43,7 +43,7 @@
     "isLike": 0,
     "isLikeCount": 0,
     "isCollect": 0,
-    "collectCount": 0,
+    "collectCount": 1,
     "virtualHuman": null,
     "scene": null
   },

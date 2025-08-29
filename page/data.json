@@ -5444,14 +5444,14 @@
   },
   {
     "id": 26304,
-    "cnName": "250828 SNH48《头号新闻》公演",
-    "date": "20250828",
+    "cnName": "250827 SNH48《头号新闻》公演",
+    "date": "20250827",
     "contentNumber": "21329037",
     "firstLetter": "snh",
     "duration": "03:09:56",
     "brief": "《头号新闻》",
-    "createTime": "2025-08-29 15:01:23",
-    "updateTime": "2025-08-29 15:01:23",
+    "createTime": "2025-08-29 14:59:41",
+    "updateTime": "2025-08-29 22:29:22",
     "liveBroadcastSeats": [
       {
         "name": "中-MID",
@@ -5465,7 +5465,7 @@
         "name": "左-LEFT",
         "liveBroadcastSeatAddressList": [
           {
-            "address": "http://ucdn.letinvr.com/snhlive/2025-8yue/8k/250827SNHscam.MP4"
+            "address": "http://ucdn.letinvr.com/snhlive/2025-8yue/8k/250827SNHlscam.MP4"
           }
         ]
       }
@@ -29986,8 +29986,8 @@
     "firstLetter": "S",
     "duration": "03:04:51",
     "brief": "SII队《幻境》",
-    "createTime": "2025-08-29 15:03:41",
-    "updateTime": "2025-08-29 15:03:41",
+    "createTime": "2025-08-29 15:01:45",
+    "updateTime": "2025-08-29 22:25:18",
     "liveBroadcastSeats": [
       {
         "name": "中-MID",
@@ -30001,7 +30001,7 @@
         "name": "左-LEFT",
         "liveBroadcastSeatAddressList": [
           {
-            "address": "http://ucdn.letinvr.com/snhlive/2025-8yue/8k/2508278Slscam.MP4"
+            "address": "http://ucdn.letinvr.com/snhlive/2025-8yue/8k/250828Slscam.MP4"
           }
         ]
       }
