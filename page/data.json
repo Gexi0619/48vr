@@ -8801,6 +8801,27 @@
     ]
   },
   {
+    "id": 26307,
+    "cnName": "250829 Team NIII《没有我的世界》公演",
+    "date": "20250829",
+    "contentNumber": "22173452",
+    "firstLetter": "gnz",
+    "duration": "03:00:01",
+    "brief": "gnz",
+    "createTime": "2025-08-30 19:44:26",
+    "updateTime": "2025-08-30 19:44:26",
+    "liveBroadcastSeats": [
+      {
+        "name": "GNZ48",
+        "liveBroadcastSeatAddressList": [
+          {
+            "address": "http://ucdn.letinvr.com/gnzlive/2025-8yue/8k/250829N.MP4"
+          }
+        ]
+      }
+    ]
+  },
+  {
     "id": 24912,
     "cnName": "240417 SNH48《命运的X号》新生公演 三机位",
     "date": "20240417",
@@ -19338,6 +19359,35 @@
         "liveBroadcastSeatAddressList": [
           {
             "address": "http://ucdn.letinvr.com/snhlive/8K/2023-7yue/230716SIIrScam30.mp4"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 26308,
+    "cnName": "250829 Team X《Fire X》公演",
+    "date": "20250829",
+    "contentNumber": "24934139",
+    "firstLetter": "X",
+    "duration": "02:53:04",
+    "brief": "SNH",
+    "createTime": "2025-08-30 19:45:59",
+    "updateTime": "2025-08-30 19:45:59",
+    "liveBroadcastSeats": [
+      {
+        "name": "中-MID",
+        "liveBroadcastSeatAddressList": [
+          {
+            "address": "http://ucdn.letinvr.com/snhlive/2025-8yue/8k/250829Xm.MP4"
+          }
+        ]
+      },
+      {
+        "name": "左-LEFT",
+        "liveBroadcastSeatAddressList": [
+          {
+            "address": "http://ucdn.letinvr.com/snhlive/2025-8yue/8k/250829Xl.MP4"
           }
         ]
       }
