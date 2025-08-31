@@ -20799,6 +20799,35 @@
     ]
   },
   {
+    "id": 26310,
+    "cnName": "250830 TEAM NII《应许之地》B版公演",
+    "date": "20250830",
+    "contentNumber": "25457599",
+    "firstLetter": "snh",
+    "duration": "02:56:43",
+    "brief": "应许之地",
+    "createTime": "2025-08-31 21:36:27",
+    "updateTime": "2025-08-31 21:36:27",
+    "liveBroadcastSeats": [
+      {
+        "name": "中-MID",
+        "liveBroadcastSeatAddressList": [
+          {
+            "address": "http://ucdn.letinvr.com/snhlive/2025-8yue/8k/250830Nm.MP4"
+          }
+        ]
+      },
+      {
+        "name": "左-LEFT",
+        "liveBroadcastSeatAddressList": [
+          {
+            "address": "http://ucdn.letinvr.com/snhlive/2025-8yue/8k/250830Nl.MP4"
+          }
+        ]
+      }
+    ]
+  },
+  {
     "id": 25905,
     "cnName": "250323Team NIII《天枢之弈》",
     "date": "20250323",
@@ -21979,6 +22008,27 @@
           },
           {
             "address": "http://ucdn.letinvr.com/snhlive/2025-4yue/2k-4k/250412HIIrScam2k.mp4"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 26309,
+    "cnName": "250830 Team Z《斗宿之诀》2.0公演",
+    "date": "20250830",
+    "contentNumber": "25679224",
+    "firstLetter": "gnz",
+    "duration": "02:55:46",
+    "brief": "gnz",
+    "createTime": "2025-08-31 21:34:48",
+    "updateTime": "2025-08-31 21:34:48",
+    "liveBroadcastSeats": [
+      {
+        "name": "GNZ48",
+        "liveBroadcastSeatAddressList": [
+          {
+            "address": "http://ucdn.letinvr.com/gnzlive/2025-8yue/8k/250830Z.MP4"
           }
         ]
       }
