@@ -4787,6 +4787,27 @@
     ]
   },
   {
+    "id": 26313,
+    "cnName": "250831 Team G《瑶光之迹》2.0公演",
+    "date": "20250831",
+    "contentNumber": "21194114",
+    "firstLetter": "gnz",
+    "duration": "02:43:50",
+    "brief": "gnz",
+    "createTime": "2025-09-01 21:14:08",
+    "updateTime": "2025-09-01 21:14:08",
+    "liveBroadcastSeats": [
+      {
+        "name": "GNZ48",
+        "liveBroadcastSeatAddressList": [
+          {
+            "address": "http://ucdn.letinvr.com/gnzlive/2025-8yue/8k/250831G.MP4"
+          }
+        ]
+      }
+    ]
+  },
+  {
     "id": 26229,
     "cnName": "250713 SII队 刘增艳《GAN·算法偏见》生日公演 三机位",
     "date": "20250713",
@@ -6755,6 +6776,27 @@
           },
           {
             "address": "http://ucdn.letinvr.com/gnzlive/2024-4yue/4-2k/240414Nscam2k.mp4"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 26312,
+    "cnName": "250830 Team G《瑶光之迹》2.0公演",
+    "date": "20250830",
+    "contentNumber": "21682983",
+    "firstLetter": "gnz",
+    "duration": "03:22:30",
+    "brief": "gnz",
+    "createTime": "2025-09-01 21:08:18",
+    "updateTime": "2025-09-01 21:08:18",
+    "liveBroadcastSeats": [
+      {
+        "name": "GNZ48",
+        "liveBroadcastSeatAddressList": [
+          {
+            "address": "http://ucdn.letinvr.com/gnzlive/2025-8yue/8k/250830G.MP4"
           }
         ]
       }
@@ -20181,6 +20223,35 @@
     ]
   },
   {
+    "id": 26314,
+    "cnName": "250831 Team SII《INTO THE LIGHT》公演",
+    "date": "20250831",
+    "contentNumber": "25181680",
+    "firstLetter": "S",
+    "duration": "03:16:03",
+    "brief": "SII队《幻境》",
+    "createTime": "2025-09-01 21:17:11",
+    "updateTime": "2025-09-01 21:17:11",
+    "liveBroadcastSeats": [
+      {
+        "name": "中-MID",
+        "liveBroadcastSeatAddressList": [
+          {
+            "address": "http://ucdn.letinvr.com/snhlive/2025-8yue/8k/250831Sm.MP4"
+          }
+        ]
+      },
+      {
+        "name": "左-LEFT",
+        "liveBroadcastSeatAddressList": [
+          {
+            "address": "http://ucdn.letinvr.com/snhlive/2025-8yue/8k/250831Sl.MP4"
+          }
+        ]
+      }
+    ]
+  },
+  {
     "id": 24075,
     "cnName": "231202 NII队《应许之地》剧场公演 三机位",
     "date": "20231202",
@@ -32686,6 +32757,35 @@
         "liveBroadcastSeatAddressList": [
           {
             "address": "http://ucdn.letinvr.com/snhlive/8K/2323-11yue/231101SNH48lScam.MP4"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 26311,
+    "cnName": "250830 Team HII《赫兹共振》公演",
+    "date": "20250830",
+    "contentNumber": "28215471",
+    "firstLetter": "H",
+    "duration": "02:57:50",
+    "brief": "HII",
+    "createTime": "2025-09-01 21:05:22",
+    "updateTime": "2025-09-01 21:05:22",
+    "liveBroadcastSeats": [
+      {
+        "name": "中-MID",
+        "liveBroadcastSeatAddressList": [
+          {
+            "address": "http://ucdn.letinvr.com/snhlive/2025-8yue/8k/250830Hm.MP4"
+          }
+        ]
+      },
+      {
+        "name": "左-LEFT",
+        "liveBroadcastSeatAddressList": [
+          {
+            "address": "http://ucdn.letinvr.com/snhlive/2025-8yue/8k/250830Hl.MP4"
           }
         ]
       }
