@@ -8327,6 +8327,35 @@
     ]
   },
   {
+    "id": 26316,
+    "cnName": "250831 Team X《Fire X》公演",
+    "date": "20250831",
+    "contentNumber": "21981040",
+    "firstLetter": "X",
+    "duration": "02:53:04",
+    "brief": "SNH",
+    "createTime": "2025-09-02 11:37:30",
+    "updateTime": "2025-09-02 11:37:30",
+    "liveBroadcastSeats": [
+      {
+        "name": "中-MID",
+        "liveBroadcastSeatAddressList": [
+          {
+            "address": "http://ucdn.letinvr.com/snhlive/2025-8yue/8k/250831Xm.MP4"
+          }
+        ]
+      },
+      {
+        "name": "左-LEFT",
+        "liveBroadcastSeatAddressList": [
+          {
+            "address": "http://ucdn.letinvr.com/snhlive/2025-8yue/8k/250831Xl.MP4"
+          }
+        ]
+      }
+    ]
+  },
+  {
     "id": 24859,
     "cnName": "240323《 TEAM G 第53场》",
     "date": "20240323",
@@ -12552,6 +12581,27 @@
         "liveBroadcastSeatAddressList": [
           {
             "address": "http://ucdn.letinvr.com/gnzlive/2023-12yue/8k/231217Nscam.MP4"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 26315,
+    "cnName": "250831 Team NIII《没有我的世界》公演",
+    "date": "20250831",
+    "contentNumber": "23100102",
+    "firstLetter": "gnz",
+    "duration": "03:06:02",
+    "brief": "gnz",
+    "createTime": "2025-09-02 11:36:43",
+    "updateTime": "2025-09-02 11:36:43",
+    "liveBroadcastSeats": [
+      {
+        "name": "GNZ48",
+        "liveBroadcastSeatAddressList": [
+          {
+            "address": "http://ucdn.letinvr.com/gnzlive/2025-8yue/8k/250831N.MP4"
           }
         ]
       }
