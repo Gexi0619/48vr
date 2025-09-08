@@ -284,6 +284,27 @@
     ]
   },
   {
+    "id": 26322,
+    "cnName": "250906 Team NIII《没有我的世界》公演",
+    "date": "20250906",
+    "contentNumber": "20089291",
+    "firstLetter": "gnz",
+    "duration": "03:03:18",
+    "brief": "gnz",
+    "createTime": "2025-09-08 13:46:35",
+    "updateTime": "2025-09-08 13:46:35",
+    "liveBroadcastSeats": [
+      {
+        "name": "GNZ48",
+        "liveBroadcastSeatAddressList": [
+          {
+            "address": "http://ucdn.letinvr.com/gnzlive/2025-9yue/250906N.MP4"
+          }
+        ]
+      }
+    ]
+  },
+  {
     "id": 25743,
     "cnName": "241130 SII队《幻境》B版公演 三机位",
     "date": "20241130",
@@ -27255,6 +27276,27 @@
     ]
   },
   {
+    "id": 26323,
+    "cnName": "250907 Team G《瑶光之迹》2.0",
+    "date": "20250907",
+    "contentNumber": "26891315",
+    "firstLetter": "gnz",
+    "duration": "02:45:26",
+    "brief": "gnz",
+    "createTime": "2025-09-08 13:49:25",
+    "updateTime": "2025-09-08 13:49:25",
+    "liveBroadcastSeats": [
+      {
+        "name": "GNZ48",
+        "liveBroadcastSeatAddressList": [
+          {
+            "address": "http://ucdn.letinvr.com/gnzlive/2025-9yue/250907G.MP4"
+          }
+        ]
+      }
+    ]
+  },
+  {
     "id": 26121,
     "cnName": "250517 Team Z 《斗宿之诀》",
     "date": "20250517",
@@ -38661,6 +38703,35 @@
     ]
   },
   {
+    "id": 26320,
+    "cnName": "250906 SNH48 专场生日公演（第一场）",
+    "date": "20250906",
+    "contentNumber": "29528808",
+    "firstLetter": "snh",
+    "duration": "04:22:12",
+    "brief": "《头号新闻》",
+    "createTime": "2025-09-07 22:28:35",
+    "updateTime": "2025-09-08 13:41:46",
+    "liveBroadcastSeats": [
+      {
+        "name": "中-MID",
+        "liveBroadcastSeatAddressList": [
+          {
+            "address": "http://ucdn.letinvr.com/snhlive/2025-9yue/250906SRm.MP4"
+          }
+        ]
+      },
+      {
+        "name": "左-LEFT",
+        "liveBroadcastSeatAddressList": [
+          {
+            "address": "http://ucdn.letinvr.com/snhlive/2025-9yue/250906SRl.MP4"
+          }
+        ]
+      }
+    ]
+  },
+  {
     "id": 26106,
     "cnName": "250505 X队《Fire X》焕新公演 三机位",
     "date": "20250505",
@@ -40798,6 +40869,27 @@
         "liveBroadcastSeatAddressList": [
           {
             "address": "http://ucdn.letinvr.com/snhlive/2025-8yue/8k/250815H.MP4"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 26321,
+    "cnName": "250906 Team Z《斗宿之诀》2.0",
+    "date": "20250906",
+    "contentNumber": "29934951",
+    "firstLetter": "gnz",
+    "duration": "02:55:43",
+    "brief": "gnz",
+    "createTime": "2025-09-08 13:45:41",
+    "updateTime": "2025-09-08 13:45:41",
+    "liveBroadcastSeats": [
+      {
+        "name": "GNZ48",
+        "liveBroadcastSeatAddressList": [
+          {
+            "address": "http://ucdn.letinvr.com/gnzlive/2025-9yue/250906Z.MP4"
           }
         ]
       }
