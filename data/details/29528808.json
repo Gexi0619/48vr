@@ -28,7 +28,7 @@
   "broadcast2Address": "",
   "brief": "《头号新闻》",
   "createTime": "2025-09-07 22:28:35",
-  "updateTime": "2025-09-08 13:41:46",
+  "updateTime": "2025-09-11 10:47:51",
   "related": -1,
   "vodId": "",
   "mediaId": "",
@@ -46,18 +46,18 @@
   "reserveThree": "",
   "liveBroadcastSeats": [
     {
-      "id": 26002,
+      "id": 26012,
       "videoId": "29528808",
       "liveId": "29528808",
       "seatId": "20103531668",
       "name": "中-MID",
       "sort": 0,
-      "createTime": "2025-09-08 13:41:46",
-      "updateTime": "2025-09-08 13:41:46",
+      "createTime": "2025-09-11 10:47:51",
+      "updateTime": "2025-09-11 10:47:51",
       "remark": "",
       "liveBroadcastSeatAddressList": [
         {
-          "id": 62470,
+          "id": 62480,
           "seatId": "20103531668",
           "addressId": "2s8047744015",
           "fileFormat": 3,
@@ -67,38 +67,8 @@
           "productId": -1,
           "address": "http://ucdn.letinvr.com/snhlive/2025-9yue/250906SRm.MP4",
           "sort": 0,
-          "createTime": "2025-09-08 13:41:46",
-          "updateTime": "2025-09-08 13:41:46",
-          "remark": "",
-          "productInfo": [],
-          "videoId": ""
-        }
-      ]
-    },
-    {
-      "id": 26003,
-      "videoId": "29528808",
-      "liveId": "29528808",
-      "seatId": "24566515308",
-      "name": "左-LEFT",
-      "sort": 1,
-      "createTime": "2025-09-08 13:41:46",
-      "updateTime": "2025-09-08 13:41:46",
-      "remark": "",
-      "liveBroadcastSeatAddressList": [
-        {
-          "id": 62471,
-          "seatId": "24566515308",
-          "addressId": "2s5653985605",
-          "fileFormat": 3,
-          "vrFormat": 7,
-          "videoDistinguish": 4,
-          "videoRate": 2,
-          "productId": -1,
-          "address": "http://ucdn.letinvr.com/snhlive/2025-9yue/250906SRl.MP4",
-          "sort": 0,
-          "createTime": "2025-09-08 13:41:46",
-          "updateTime": "2025-09-08 13:41:46",
+          "createTime": "2025-09-11 10:47:51",
+          "updateTime": "2025-09-11 10:47:51",
           "remark": "",
           "productInfo": [],
           "videoId": ""

@@ -38761,21 +38761,13 @@
     "duration": "04:22:12",
     "brief": "《头号新闻》",
     "createTime": "2025-09-07 22:28:35",
-    "updateTime": "2025-09-08 13:41:46",
+    "updateTime": "2025-09-11 10:47:51",
     "liveBroadcastSeats": [
       {
         "name": "中-MID",
         "liveBroadcastSeatAddressList": [
           {
             "address": "http://ucdn.letinvr.com/snhlive/2025-9yue/250906SRm.MP4"
-          }
-        ]
-      },
-      {
-        "name": "左-LEFT",
-        "liveBroadcastSeatAddressList": [
-          {
-            "address": "http://ucdn.letinvr.com/snhlive/2025-9yue/250906SRl.MP4"
           }
         ]
       }
