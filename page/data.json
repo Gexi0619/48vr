@@ -229,6 +229,35 @@
     ]
   },
   {
+    "id": 26326,
+    "cnName": "250911 SNH48《头号新闻》公演",
+    "date": "20250911",
+    "contentNumber": "20065571",
+    "firstLetter": "snh",
+    "duration": "02:31:42",
+    "brief": "《头号新闻》",
+    "createTime": "2025-09-12 10:21:47",
+    "updateTime": "2025-09-12 10:21:47",
+    "liveBroadcastSeats": [
+      {
+        "name": "中-MID",
+        "liveBroadcastSeatAddressList": [
+          {
+            "address": "http://ucdn.letinvr.com/snhlive/2025-9yue/250911SNHm.MP4"
+          }
+        ]
+      },
+      {
+        "name": "左-LEFT",
+        "liveBroadcastSeatAddressList": [
+          {
+            "address": "http://ucdn.letinvr.com/snhlive/2025-9yue/250911SNHl.MP4"
+          }
+        ]
+      }
+    ]
+  },
+  {
     "id": 24156,
     "cnName": "231223 HII队《终极任务》B版公演 许杨玉琢“Eliwa Mistletoe”生日公演 三机位",
     "date": "20231223",
