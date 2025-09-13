@@ -13791,6 +13791,35 @@
     ]
   },
   {
+    "id": 26328,
+    "cnName": "250912 Team HII《赫兹共振》公演",
+    "date": "20250912",
+    "contentNumber": "23424743",
+    "firstLetter": "H",
+    "duration": "02:56:44",
+    "brief": "HII",
+    "createTime": "2025-09-13 10:26:44",
+    "updateTime": "2025-09-13 10:26:44",
+    "liveBroadcastSeats": [
+      {
+        "name": "中-MID",
+        "liveBroadcastSeatAddressList": [
+          {
+            "address": "http://ucdn.letinvr.com/snhlive/2025-9yue/250912Hm.MP4"
+          }
+        ]
+      },
+      {
+        "name": "左-LEFT",
+        "liveBroadcastSeatAddressList": [
+          {
+            "address": "http://ucdn.letinvr.com/snhlive/2025-9yue/250912Hl.MP4"
+          }
+        ]
+      }
+    ]
+  },
+  {
     "id": 22423,
     "cnName": "230105 偶像研究计划（致每个不眠之夜）",
     "date": "20230105",
@@ -18237,6 +18266,27 @@
         "liveBroadcastSeatAddressList": [
           {
             "address": "http://ucdn.letinvr.com/gnzlive/2023-9yue/8k/230909NScam.MP4"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 26327,
+    "cnName": "250912 Team Z《斗宿之诀》2.0",
+    "date": "20250912",
+    "contentNumber": "24588639",
+    "firstLetter": "gnz",
+    "duration": "02:54:38",
+    "brief": "gnz",
+    "createTime": "2025-09-13 09:02:09",
+    "updateTime": "2025-09-13 09:02:09",
+    "liveBroadcastSeats": [
+      {
+        "name": "GNZ48",
+        "liveBroadcastSeatAddressList": [
+          {
+            "address": "http://ucdn.letinvr.com/gnzlive/2025-9yue/250912Z.MP4"
           }
         ]
       }
