@@ -18711,6 +18711,27 @@
     ]
   },
   {
+    "id": 26329,
+    "cnName": "250913 Team NIII《没有我的世界》公演",
+    "date": "20250913",
+    "contentNumber": "24700262",
+    "firstLetter": "gnz",
+    "duration": "02:54:34",
+    "brief": "gnz",
+    "createTime": "2025-09-14 20:55:16",
+    "updateTime": "2025-09-14 20:55:16",
+    "liveBroadcastSeats": [
+      {
+        "name": "GNZ48",
+        "liveBroadcastSeatAddressList": [
+          {
+            "address": "http://ucdn.letinvr.com/gnzlive/2025-9yue/250913N.MP4"
+          }
+        ]
+      }
+    ]
+  },
+  {
     "id": 26236,
     "cnName": "250718 X队《Fire X》公演 三机位 抢先版",
     "date": "20250718",
@@ -29738,6 +29759,35 @@
           },
           {
             "address": "http://ucdn.letinvr.com/snhlive/2024-11yue/2k-4k/241103HIIrScam2k.mp4"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 26330,
+    "cnName": "250913 Team HII《赫兹共振》张昕生日公演",
+    "date": "20250913",
+    "contentNumber": "27519428",
+    "firstLetter": "H",
+    "duration": "04:17:46",
+    "brief": "HII",
+    "createTime": "2025-09-14 20:56:36",
+    "updateTime": "2025-09-14 20:58:23",
+    "liveBroadcastSeats": [
+      {
+        "name": "中-MID",
+        "liveBroadcastSeatAddressList": [
+          {
+            "address": "http://ucdn.letinvr.com/snhlive/2025-9yue/250913Hm.MP4"
+          }
+        ]
+      },
+      {
+        "name": "左-LEFT",
+        "liveBroadcastSeatAddressList": [
+          {
+            "address": "http://ucdn.letinvr.com/snhlive/2025-9yue/250913Hl.MP4"
           }
         ]
       }
