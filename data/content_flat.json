@@ -51554,7 +51554,7 @@
     "isLike": 0,
     "isLikeCount": 0,
     "isCollect": 0,
-    "collectCount": 0,
+    "collectCount": 1,
     "virtualHuman": null,
     "scene": null
   },
@@ -52823,7 +52823,7 @@
     "isLike": 0,
     "isLikeCount": 0,
     "isCollect": 0,
-    "collectCount": 1,
+    "collectCount": 2,
     "virtualHuman": null,
     "scene": null
   }
