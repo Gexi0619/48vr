@@ -5570,6 +5570,35 @@
     ]
   },
   {
+    "id": 26333,
+    "cnName": "250813 Team X《Fire X》公演",
+    "date": "20250813",
+    "contentNumber": "21337295",
+    "firstLetter": "X",
+    "duration": "02:52:24",
+    "brief": "SNH",
+    "createTime": "2025-09-15 19:24:09",
+    "updateTime": "2025-09-15 19:24:09",
+    "liveBroadcastSeats": [
+      {
+        "name": "中-MID",
+        "liveBroadcastSeatAddressList": [
+          {
+            "address": "http://ucdn.letinvr.com/snhlive/2025-9yue/250913Xm.MP4"
+          }
+        ]
+      },
+      {
+        "name": "左-LEFT",
+        "liveBroadcastSeatAddressList": [
+          {
+            "address": "http://ucdn.letinvr.com/snhlive/2025-9yue/250913Xl.MP4"
+          }
+        ]
+      }
+    ]
+  },
+  {
     "id": 26175,
     "cnName": "250620 Team G《瑶光之迹》",
     "date": "20250620",
@@ -8427,6 +8456,27 @@
           },
           {
             "address": "http://ucdn.letinvr.com/gnzlive/2024-3yue/4k-2k/240323Gscam2k.mp4"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 26331,
+    "cnName": "250913 Team G《瑶光之迹》2.0",
+    "date": "20250913",
+    "contentNumber": "21994100",
+    "firstLetter": "gnz",
+    "duration": "02:57:32",
+    "brief": "gnz",
+    "createTime": "2025-09-15 19:20:30",
+    "updateTime": "2025-09-15 19:20:30",
+    "liveBroadcastSeats": [
+      {
+        "name": "GNZ48",
+        "liveBroadcastSeatAddressList": [
+          {
+            "address": "http://ucdn.letinvr.com/gnzlive/2025-9yue/250913G.MP4"
           }
         ]
       }
@@ -18273,14 +18323,14 @@
   },
   {
     "id": 26327,
-    "cnName": "250912 Team Z《斗宿之诀》2.0",
+    "cnName": "250912 Team Z《斗宿之诀》2.0抢先版",
     "date": "20250912",
     "contentNumber": "24588639",
     "firstLetter": "gnz",
     "duration": "02:54:38",
     "brief": "gnz",
-    "createTime": "2025-09-13 09:02:09",
-    "updateTime": "2025-09-13 09:02:09",
+    "createTime": "2025-09-13 09:00:53",
+    "updateTime": "2025-09-15 19:24:22",
     "liveBroadcastSeats": [
       {
         "name": "GNZ48",
@@ -29483,6 +29533,27 @@
           },
           {
             "address": "http://ucdn.letinvr.com/gnzlive/2024-5yue/4-2k/240525Nscam2k.mp4"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 26332,
+    "cnName": "250914 Team Z《斗宿之诀》2.0",
+    "date": "20250914",
+    "contentNumber": "27475709",
+    "firstLetter": "gnz",
+    "duration": "03:33:11",
+    "brief": "gnz",
+    "createTime": "2025-09-15 19:21:28",
+    "updateTime": "2025-09-15 19:21:28",
+    "liveBroadcastSeats": [
+      {
+        "name": "GNZ48",
+        "liveBroadcastSeatAddressList": [
+          {
+            "address": "http://ucdn.letinvr.com/gnzlive/2025-9yue/250914Z.MP4"
           }
         ]
       }
