@@ -16056,6 +16056,35 @@
     ]
   },
   {
+    "id": 26335,
+    "cnName": "250914 Team X《Fire X》公演",
+    "date": "20250914",
+    "contentNumber": "24014727",
+    "firstLetter": "X",
+    "duration": "03:19:47",
+    "brief": "SNH",
+    "createTime": "2025-09-16 09:56:02",
+    "updateTime": "2025-09-16 09:56:02",
+    "liveBroadcastSeats": [
+      {
+        "name": "中-MID",
+        "liveBroadcastSeatAddressList": [
+          {
+            "address": "http://ucdn.letinvr.com/snhlive/2025-9yue/250914Xm.MP4"
+          }
+        ]
+      },
+      {
+        "name": "左-LEFT",
+        "liveBroadcastSeatAddressList": [
+          {
+            "address": "http://ucdn.letinvr.com/snhlive/2025-9yue/250914Xl1.MP4"
+          }
+        ]
+      }
+    ]
+  },
+  {
     "id": 23861,
     "cnName": "230915 启程《Team NIII·第24场》",
     "date": "20230915",
@@ -18323,20 +18352,20 @@
   },
   {
     "id": 26327,
-    "cnName": "250912 Team Z《斗宿之诀》2.0抢先版",
+    "cnName": "250912 Team Z《斗宿之诀》2.0",
     "date": "20250912",
     "contentNumber": "24588639",
     "firstLetter": "gnz",
     "duration": "02:54:38",
     "brief": "gnz",
     "createTime": "2025-09-13 09:00:53",
-    "updateTime": "2025-09-15 19:24:22",
+    "updateTime": "2025-09-16 16:11:53",
     "liveBroadcastSeats": [
       {
         "name": "GNZ48",
         "liveBroadcastSeatAddressList": [
           {
-            "address": "http://ucdn.letinvr.com/gnzlive/2025-9yue/250912Z.MP4"
+            "address": "http://ucdn.letinvr.com/gnzlive/2025-9yue/250912Z30.mp4"
           }
         ]
       }
