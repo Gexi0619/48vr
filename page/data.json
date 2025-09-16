@@ -5571,14 +5571,14 @@
   },
   {
     "id": 26333,
-    "cnName": "250813 Team X《Fire X》公演",
-    "date": "20250813",
+    "cnName": "250913 Team X《Fire X》公演",
+    "date": "20250913",
     "contentNumber": "21337295",
     "firstLetter": "X",
     "duration": "02:52:24",
     "brief": "SNH",
-    "createTime": "2025-09-15 19:24:09",
-    "updateTime": "2025-09-15 19:24:09",
+    "createTime": "2025-09-15 19:23:07",
+    "updateTime": "2025-09-16 07:02:38",
     "liveBroadcastSeats": [
       {
         "name": "中-MID",
@@ -22150,6 +22150,35 @@
     ]
   },
   {
+    "id": 26336,
+    "cnName": "250914 Team SII《INTO THE LIGHT》赵天杨季度MVP公演",
+    "date": "20250914",
+    "contentNumber": "25624711",
+    "firstLetter": "S",
+    "duration": "04:13:45",
+    "brief": "SII队《幻境》",
+    "createTime": "2025-09-16 09:56:20",
+    "updateTime": "2025-09-16 09:58:48",
+    "liveBroadcastSeats": [
+      {
+        "name": "中-MID",
+        "liveBroadcastSeatAddressList": [
+          {
+            "address": "http://ucdn.letinvr.com/snhlive/2025-9yue/250914Sm.MP4"
+          }
+        ]
+      },
+      {
+        "name": "左-LEFT",
+        "liveBroadcastSeatAddressList": [
+          {
+            "address": "http://ucdn.letinvr.com/snhlive/2025-9yue/250914Sl.MP4"
+          }
+        ]
+      }
+    ]
+  },
+  {
     "id": 24805,
     "cnName": "240228 SNH48《命运的X号》新生公演 中机位",
     "date": "20240228",
@@ -25243,6 +25272,27 @@
           },
           {
             "address": "http://ucdn.letinvr.com/gnzlive/2024-10yue/4k-2k/241005Gyun302k.mp4"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 26334,
+    "cnName": "250914 Team NIII《没有我的世界》公演",
+    "date": "20250914",
+    "contentNumber": "26479449",
+    "firstLetter": "gnz",
+    "duration": "03:00:55",
+    "brief": "gnz",
+    "createTime": "2025-09-16 09:52:33",
+    "updateTime": "2025-09-16 09:52:33",
+    "liveBroadcastSeats": [
+      {
+        "name": "GNZ48",
+        "liveBroadcastSeatAddressList": [
+          {
+            "address": "http://ucdn.letinvr.com/gnzlive/2025-9yue/250914N.MP4"
           }
         ]
       }
