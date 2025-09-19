@@ -10253,14 +10253,14 @@
   },
   {
     "id": 26337,
-    "cnName": "250918 SNH48《头号新闻》公演",
-    "date": "20250918",
+    "cnName": "250917 SNH48《头号新闻》公演",
+    "date": "20250917",
     "contentNumber": "22555832",
     "firstLetter": "snh",
     "duration": "03:01:57",
     "brief": "《头号新闻》",
-    "createTime": "2025-09-18 17:32:46",
-    "updateTime": "2025-09-18 17:32:46",
+    "createTime": "2025-09-18 17:31:00",
+    "updateTime": "2025-09-19 12:45:11",
     "liveBroadcastSeats": [
       {
         "name": "中-MID",
@@ -32326,6 +32326,35 @@
         "liveBroadcastSeatAddressList": [
           {
             "address": "http://ucdn.letinvr.com/gnzlive/2023-12yue/8k/231210Nscam.MP4"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 26338,
+    "cnName": "250918 Team HII《赫兹共振》公演",
+    "date": "20250918",
+    "contentNumber": "28039626",
+    "firstLetter": "H",
+    "duration": "03:34:50",
+    "brief": "HII",
+    "createTime": "2025-09-19 12:44:11",
+    "updateTime": "2025-09-19 12:44:11",
+    "liveBroadcastSeats": [
+      {
+        "name": "中-MID",
+        "liveBroadcastSeatAddressList": [
+          {
+            "address": "http://ucdn.letinvr.com/snhlive/2025-9yue/250918Hm.MP4"
+          }
+        ]
+      },
+      {
+        "name": "左-LEFT",
+        "liveBroadcastSeatAddressList": [
+          {
+            "address": "http://ucdn.letinvr.com/snhlive/2025-9yue/250918Hl.MP4"
           }
         ]
       }
