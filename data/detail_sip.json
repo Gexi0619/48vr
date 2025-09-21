@@ -13920,6 +13920,27 @@
     ]
   },
   {
+    "id": 26339,
+    "cnName": "250919 Team G《瑶光之迹》2.0",
+    "date": "20250919",
+    "contentNumber": "23441900",
+    "firstLetter": "gnz",
+    "duration": "02:49:42",
+    "brief": "gnz",
+    "createTime": "2025-09-20 17:00:33",
+    "updateTime": "2025-09-20 17:00:33",
+    "liveBroadcastSeats": [
+      {
+        "name": "GNZ48",
+        "liveBroadcastSeatAddressList": [
+          {
+            "address": "http://ucdn.letinvr.com/gnzlive/2025-9yue/250919G.MP4"
+          }
+        ]
+      }
+    ]
+  },
+  {
     "id": 26079,
     "cnName": "250423 SNH48《头号新闻》新人公演 三机位",
     "date": "20250423",
@@ -26705,6 +26726,35 @@
     ]
   },
   {
+    "id": 26340,
+    "cnName": "250919 Team SII《INTO THE LIGHT》",
+    "date": "20250919",
+    "contentNumber": "26737660",
+    "firstLetter": "S",
+    "duration": "02:54:50",
+    "brief": "SII队《幻境》",
+    "createTime": "2025-09-21 14:08:01",
+    "updateTime": "2025-09-21 14:08:01",
+    "liveBroadcastSeats": [
+      {
+        "name": "中-MID",
+        "liveBroadcastSeatAddressList": [
+          {
+            "address": "http://ucdn.letinvr.com/snhlive/2025-9yue/250919Sm.MP4"
+          }
+        ]
+      },
+      {
+        "name": "左-LEFT",
+        "liveBroadcastSeatAddressList": [
+          {
+            "address": "http://ucdn.letinvr.com/snhlive/2025-9yue/250919Sl.MP4"
+          }
+        ]
+      }
+    ]
+  },
+  {
     "id": 25634,
     "cnName": "241004 Team NIII《天枢之弈》 24年第一季度MVP-卢静",
     "date": "20241004",
@@ -32337,10 +32387,10 @@
     "date": "20250918",
     "contentNumber": "28039626",
     "firstLetter": "H",
-    "duration": "03:34:50",
+    "duration": "02:34:50",
     "brief": "HII",
-    "createTime": "2025-09-19 12:44:11",
-    "updateTime": "2025-09-19 12:44:11",
+    "createTime": "2025-09-19 12:41:16",
+    "updateTime": "2025-09-21 16:29:56",
     "liveBroadcastSeats": [
       {
         "name": "中-MID",
