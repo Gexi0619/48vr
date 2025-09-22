@@ -7712,6 +7712,27 @@
     ]
   },
   {
+    "id": 26341,
+    "cnName": "250920 Team Z《斗宿之诀》2.0公演",
+    "date": "20250920",
+    "contentNumber": "21854054",
+    "firstLetter": "gnz",
+    "duration": "02:52:24",
+    "brief": "gnz",
+    "createTime": "2025-09-22 15:43:12",
+    "updateTime": "2025-09-22 15:43:12",
+    "liveBroadcastSeats": [
+      {
+        "name": "GNZ48",
+        "liveBroadcastSeatAddressList": [
+          {
+            "address": "http://ucdn.letinvr.com/gnzlive/2025-9yue/250920Z.MP4"
+          }
+        ]
+      }
+    ]
+  },
+  {
     "id": 25718,
     "cnName": "241117 Team Z《斗宿之诀》天蝎座&射手座生日公演",
     "date": "20241117",
@@ -8400,6 +8421,35 @@
           },
           {
             "address": "http://ucdn.letinvr.com/gnzlive/2025-7yue/4-2k/250713Zscam2k.mp4"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 26344,
+    "cnName": "250920 TEAM X《FIRE X》武博涵 禹佳蔚 杨宇馨 生日公演",
+    "date": "20250920",
+    "contentNumber": "21977912",
+    "firstLetter": "X",
+    "duration": "03:13:04",
+    "brief": "SNH",
+    "createTime": "2025-09-22 15:49:52",
+    "updateTime": "2025-09-22 15:58:34",
+    "liveBroadcastSeats": [
+      {
+        "name": "中-MID",
+        "liveBroadcastSeatAddressList": [
+          {
+            "address": "http://ucdn.letinvr.com/snhlive/2025-9yue/250920Xm.MP4"
+          }
+        ]
+      },
+      {
+        "name": "左-LEFT",
+        "liveBroadcastSeatAddressList": [
+          {
+            "address": "http://ucdn.letinvr.com/snhlive/2025-9yue/250920Xl.MP4"
           }
         ]
       }
@@ -18402,14 +18452,14 @@
   },
   {
     "id": 26327,
-    "cnName": "250912 Team Z《斗宿之诀》2.0",
+    "cnName": "250912 Team Z《斗宿之诀》2.0公演",
     "date": "20250912",
     "contentNumber": "24588639",
     "firstLetter": "gnz",
     "duration": "02:54:38",
     "brief": "gnz",
     "createTime": "2025-09-13 09:00:53",
-    "updateTime": "2025-09-16 16:11:53",
+    "updateTime": "2025-09-22 15:41:22",
     "liveBroadcastSeats": [
       {
         "name": "GNZ48",
@@ -20948,14 +20998,14 @@
   },
   {
     "id": 26325,
-    "cnName": "250907 Team Z《斗宿之诀》2.0",
+    "cnName": "250907 Team Z《斗宿之诀》2.0公演",
     "date": "20250907",
     "contentNumber": "25331133",
     "firstLetter": "gnz",
     "duration": "02:58:18",
     "brief": "gnz",
-    "createTime": "2025-09-09 10:37:52",
-    "updateTime": "2025-09-09 10:37:52",
+    "createTime": "2025-09-09 10:34:59",
+    "updateTime": "2025-09-22 15:41:27",
     "liveBroadcastSeats": [
       {
         "name": "GNZ48",
@@ -23603,6 +23653,35 @@
           },
           {
             "address": "http://ucdn.letinvr.com/gnzlive/2025-6yue/4k-2k/250615Nscam2k.mp4"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 26343,
+    "cnName": "250920 TEAM NII《应许之地》B版公演",
+    "date": "20250920",
+    "contentNumber": "26036884",
+    "firstLetter": "snh",
+    "duration": "03:03:16",
+    "brief": "应许之地",
+    "createTime": "2025-09-22 15:53:40",
+    "updateTime": "2025-09-22 15:53:40",
+    "liveBroadcastSeats": [
+      {
+        "name": "中-MID",
+        "liveBroadcastSeatAddressList": [
+          {
+            "address": "http://ucdn.letinvr.com/snhlive/2025-9yue/250920Nm.MP4"
+          }
+        ]
+      },
+      {
+        "name": "左-LEFT",
+        "liveBroadcastSeatAddressList": [
+          {
+            "address": "http://ucdn.letinvr.com/snhlive/2025-9yue/250920Nl.MP4"
           }
         ]
       }
@@ -29698,14 +29777,14 @@
   },
   {
     "id": 26332,
-    "cnName": "250914 Team Z《斗宿之诀》2.0",
+    "cnName": "250914 Team Z《斗宿之诀》2.0公演",
     "date": "20250914",
     "contentNumber": "27475709",
     "firstLetter": "gnz",
     "duration": "03:33:11",
     "brief": "gnz",
-    "createTime": "2025-09-15 19:21:28",
-    "updateTime": "2025-09-15 19:21:28",
+    "createTime": "2025-09-15 19:20:49",
+    "updateTime": "2025-09-22 15:41:18",
     "liveBroadcastSeats": [
       {
         "name": "GNZ48",
