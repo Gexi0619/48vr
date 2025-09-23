@@ -66,7 +66,7 @@
             "columnPosterPathThree": "",
             "child": [],
             "cornerInfo": null,
-            "pointCount": 0
+            "pointCount": 2
           },
           {
             "id": 9780,
@@ -91,7 +91,7 @@
             "columnPosterPathThree": "",
             "child": [],
             "cornerInfo": null,
-            "pointCount": 0
+            "pointCount": 2
           },
           {
             "id": 9727,
@@ -495,11 +495,11 @@
           }
         ],
         "cornerInfo": null,
-        "pointCount": 0
+        "pointCount": 4
       }
     ],
     "cornerInfo": null,
-    "pointCount": 0
+    "pointCount": 4
   },
   {
     "id": 9604,

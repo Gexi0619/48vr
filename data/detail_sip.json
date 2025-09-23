@@ -8168,6 +8168,35 @@
     ]
   },
   {
+    "id": 26347,
+    "cnName": "250921 Team HII《赫兹共振》公演抢先版",
+    "date": "20250921",
+    "contentNumber": "21934162",
+    "firstLetter": "H",
+    "duration": "02:38:35",
+    "brief": "HII",
+    "createTime": "2025-09-23 10:09:29",
+    "updateTime": "2025-09-23 10:11:59",
+    "liveBroadcastSeats": [
+      {
+        "name": "中-MID",
+        "liveBroadcastSeatAddressList": [
+          {
+            "address": "http://ucdn.letinvr.com/snhlive/2025-9yue/250921Hm.MP4"
+          }
+        ]
+      },
+      {
+        "name": "左-LEFT",
+        "liveBroadcastSeatAddressList": [
+          {
+            "address": ""
+          }
+        ]
+      }
+    ]
+  },
+  {
     "id": 25002,
     "cnName": "240529 X队《交X点》公演 三机位",
     "date": "20240529",
@@ -13971,14 +14000,14 @@
   },
   {
     "id": 26339,
-    "cnName": "250919 Team G《瑶光之迹》2.0",
+    "cnName": "250919 Team G《瑶光之迹》2.0公演",
     "date": "20250919",
     "contentNumber": "23441900",
     "firstLetter": "gnz",
     "duration": "02:49:42",
     "brief": "gnz",
-    "createTime": "2025-09-20 17:00:33",
-    "updateTime": "2025-09-20 17:00:33",
+    "createTime": "2025-09-20 16:51:14",
+    "updateTime": "2025-09-23 10:06:50",
     "liveBroadcastSeats": [
       {
         "name": "GNZ48",
@@ -33881,6 +33910,27 @@
     ]
   },
   {
+    "id": 26346,
+    "cnName": "250921 Team NIII《没有我的世界》公演抢先版",
+    "date": "20250921",
+    "contentNumber": "28322612",
+    "firstLetter": "gnz",
+    "duration": "02:58:00",
+    "brief": "gnz",
+    "createTime": "2025-09-23 10:07:14",
+    "updateTime": "2025-09-23 10:45:34",
+    "liveBroadcastSeats": [
+      {
+        "name": "GNZ48",
+        "liveBroadcastSeatAddressList": [
+          {
+            "address": "http://ucdn.letinvr.com/gnzlive/2025-9yue/250921N.MP4"
+          }
+        ]
+      }
+    ]
+  },
+  {
     "id": 25814,
     "cnName": "250110 Team Z《斗宿之诀》",
     "date": "20250110",
@@ -41027,6 +41077,35 @@
     ]
   },
   {
+    "id": 26348,
+    "cnName": "250920 TEAM X《FIRE X》公演",
+    "date": "20250920",
+    "contentNumber": "29819819",
+    "firstLetter": "X",
+    "duration": "02:51:06",
+    "brief": "SNH",
+    "createTime": "2025-09-23 10:13:11",
+    "updateTime": "2025-09-23 10:13:11",
+    "liveBroadcastSeats": [
+      {
+        "name": "中-MID",
+        "liveBroadcastSeatAddressList": [
+          {
+            "address": "http://ucdn.letinvr.com/snhlive/2025-9yue/250921Xm.MP4"
+          }
+        ]
+      },
+      {
+        "name": "左-LEFT",
+        "liveBroadcastSeatAddressList": [
+          {
+            "address": "http://ucdn.letinvr.com/snhlive/2025-9yue/250921Xl1.MP4"
+          }
+        ]
+      }
+    ]
+  },
+  {
     "id": 24968,
     "cnName": "240511 SNH48最佳拍档第二阶段第二场 剧场公演 三机位",
     "date": "20240511",
@@ -41247,6 +41326,27 @@
           },
           {
             "address": "http://ucdn.letinvr.com/gnzlive/2025-6yue/4k-2k/250619GNZ302k.mp4"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 26345,
+    "cnName": "250921 Team G《瑶光之迹》2.0公演",
+    "date": "20250921",
+    "contentNumber": "29909745",
+    "firstLetter": "gnz",
+    "duration": "02:51:30",
+    "brief": "gnz",
+    "createTime": "2025-09-23 10:06:38",
+    "updateTime": "2025-09-23 10:06:38",
+    "liveBroadcastSeats": [
+      {
+        "name": "GNZ48",
+        "liveBroadcastSeatAddressList": [
+          {
+            "address": "http://ucdn.letinvr.com/gnzlive/2025-9yue/250921G.MP4"
           }
         ]
       }
