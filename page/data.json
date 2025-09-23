@@ -15836,6 +15836,27 @@
     ]
   },
   {
+    "id": 26342,
+    "cnName": "250920 Team NIII《没有我的世界》内容残缺抢先版",
+    "date": "20250920",
+    "contentNumber": "23865806",
+    "firstLetter": "gnz",
+    "duration": "02:41:02",
+    "brief": "gnz",
+    "createTime": "2025-09-22 15:43:23",
+    "updateTime": "2025-09-23 15:18:50",
+    "liveBroadcastSeats": [
+      {
+        "name": "GNZ48",
+        "liveBroadcastSeatAddressList": [
+          {
+            "address": "http://ucdn.letinvr.com/gnzlive/2025-9yue/250920N2.MP4"
+          }
+        ]
+      }
+    ]
+  },
+  {
     "id": 25778,
     "cnName": "241221 《天枢之弈》 唐莉佳23年第三季度MVP",
     "date": "20241221",
