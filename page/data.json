@@ -33932,20 +33932,20 @@
   },
   {
     "id": 26346,
-    "cnName": "250921 Team NIII《没有我的世界》公演抢先版",
+    "cnName": "250921 Team NIII《没有我的世界》公演",
     "date": "20250921",
     "contentNumber": "28322612",
     "firstLetter": "gnz",
     "duration": "02:58:00",
     "brief": "gnz",
     "createTime": "2025-09-23 10:07:14",
-    "updateTime": "2025-09-23 10:45:34",
+    "updateTime": "2025-09-25 14:01:14",
     "liveBroadcastSeats": [
       {
         "name": "GNZ48",
         "liveBroadcastSeatAddressList": [
           {
-            "address": "http://ucdn.letinvr.com/gnzlive/2025-9yue/250921N.MP4"
+            "address": "http://ucdn.letinvr.com/gnzlive/2025-9yue/250921N30.mp4"
           }
         ]
       }

@@ -53,7 +53,7 @@
     "parentColumnId": 2501,
     "columnTag": "20250906193355",
     "contentNumber": "28322612",
-    "contentName": "250921 Team NIII《没有我的世界》公演抢先版",
+    "contentName": "250921 Team NIII《没有我的世界》公演",
     "contentEnName": "",
     "posterHomePath": "/DATA/mmsvideo/2025-06-01/1748756897907.jpg",
     "posterListPath": "/DATA/mmsvideo/2025-06-01/1748756901844.jpg",
@@ -91,7 +91,7 @@
     "isLike": 0,
     "isLikeCount": 0,
     "isCollect": 0,
-    "collectCount": 0,
+    "collectCount": 1,
     "virtualHuman": null,
     "scene": null
   },
