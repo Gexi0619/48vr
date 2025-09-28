@@ -10964,6 +10964,27 @@
     ]
   },
   {
+    "id": 26349,
+    "cnName": "250927 Team Z《斗宿之诀》2.0公演",
+    "date": "20250927",
+    "contentNumber": "22700533",
+    "firstLetter": "gnz",
+    "duration": "03:01:02",
+    "brief": "gnz",
+    "createTime": "2025-09-28 10:07:53",
+    "updateTime": "2025-09-28 10:07:53",
+    "liveBroadcastSeats": [
+      {
+        "name": "GNZ48",
+        "liveBroadcastSeatAddressList": [
+          {
+            "address": "http://ucdn.letinvr.com/gnzlive/2025-9yue/250927Z.MP4"
+          }
+        ]
+      }
+    ]
+  },
+  {
     "id": 25883,
     "cnName": "250313 HII队《阿尔法之芯》公演 三机位",
     "date": "20250313",
@@ -15837,20 +15858,20 @@
   },
   {
     "id": 26342,
-    "cnName": "250920 Team NIII《没有我的世界》内容残缺抢先版",
+    "cnName": "250920 Team NIII《没有我的世界》内容残缺",
     "date": "20250920",
     "contentNumber": "23865806",
     "firstLetter": "gnz",
     "duration": "02:41:02",
     "brief": "gnz",
     "createTime": "2025-09-22 15:43:23",
-    "updateTime": "2025-09-23 15:18:50",
+    "updateTime": "2025-09-28 10:06:37",
     "liveBroadcastSeats": [
       {
         "name": "GNZ48",
         "liveBroadcastSeatAddressList": [
           {
-            "address": "http://ucdn.letinvr.com/gnzlive/2025-9yue/250920N2.MP4"
+            "address": "http://ucdn.letinvr.com/gnzlive/2025-9yue/250920N30.mp4"
           }
         ]
       }
