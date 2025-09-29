@@ -40370,6 +40370,27 @@
     ]
   },
   {
+    "id": 26350,
+    "cnName": "250927 Team G《瑶光之迹》2.0公演",
+    "date": "20250927",
+    "contentNumber": "29689579",
+    "firstLetter": "gnz",
+    "duration": "02:47:14",
+    "brief": "gnz",
+    "createTime": "2025-09-29 09:58:00",
+    "updateTime": "2025-09-29 09:58:00",
+    "liveBroadcastSeats": [
+      {
+        "name": "GNZ48",
+        "liveBroadcastSeatAddressList": [
+          {
+            "address": "http://ucdn.letinvr.com/gnzlive/2025-9yue/250927G30.mp4"
+          }
+        ]
+      }
+    ]
+  },
+  {
     "id": 24047,
     "cnName": "231119启程《 TEAM Z · 第37场》",
     "date": "20231119",
