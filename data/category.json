@@ -44,6 +44,31 @@
         "columnPosterPathThree": "",
         "child": [
           {
+            "id": 9781,
+            "name": "25-10月GNZ48",
+            "columnTag": "20250924120649",
+            "columnType": 2,
+            "columnName": "25-10月GNZ48",
+            "columnId": 2502,
+            "display": 1,
+            "status": 1,
+            "parent": 2233,
+            "filmId": 123518,
+            "posterPath": "/DATA/filmCenter/2025-09-24/1758686880026.jpg",
+            "remark": "",
+            "previewUrl": "",
+            "referer": "",
+            "reserveOne": "",
+            "reserveTwo": "",
+            "reserveThree": "",
+            "brief": "",
+            "columnPosterPathTwo": "",
+            "columnPosterPathThree": "",
+            "child": [],
+            "cornerInfo": null,
+            "pointCount": 1
+          },
+          {
             "id": 9779,
             "name": "25-9月SNH48",
             "columnTag": "20250906193325",
@@ -495,11 +520,11 @@
           }
         ],
         "cornerInfo": null,
-        "pointCount": 0
+        "pointCount": 1
       }
     ],
     "cornerInfo": null,
-    "pointCount": 0
+    "pointCount": 1
   },
   {
     "id": 9604,

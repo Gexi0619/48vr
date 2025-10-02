@@ -27776,6 +27776,27 @@
     ]
   },
   {
+    "id": 26351,
+    "cnName": "251001 Team G 《Gogogo出发咯!》队伍周年庆特别公演",
+    "date": "20251001",
+    "contentNumber": "26902408",
+    "firstLetter": "gnz",
+    "duration": "03:14:38",
+    "brief": "gnz",
+    "createTime": "2025-10-02 23:27:59",
+    "updateTime": "2025-10-02 23:27:59",
+    "liveBroadcastSeats": [
+      {
+        "name": "GNZ48",
+        "liveBroadcastSeatAddressList": [
+          {
+            "address": "http://ucdn.letinvr.com/gnzlive/2025-10yue/8k/251001G.MP4"
+          }
+        ]
+      }
+    ]
+  },
+  {
     "id": 26121,
     "cnName": "250517 Team Z 《斗宿之诀》",
     "date": "20250517",
@@ -40377,8 +40398,8 @@
     "firstLetter": "gnz",
     "duration": "02:47:14",
     "brief": "gnz",
-    "createTime": "2025-09-29 09:58:00",
-    "updateTime": "2025-09-29 09:58:00",
+    "createTime": "2025-09-29 09:56:52",
+    "updateTime": "2025-10-02 22:58:40",
     "liveBroadcastSeats": [
       {
         "name": "GNZ48",
