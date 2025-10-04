@@ -13017,6 +13017,27 @@
     ]
   },
   {
+    "id": 26352,
+    "cnName": "251003 Team G《瑶光之迹》2.0公演",
+    "date": "20251003",
+    "contentNumber": "23181900",
+    "firstLetter": "gnz",
+    "duration": "02:44:46",
+    "brief": "gnz",
+    "createTime": "2025-10-04 12:22:23",
+    "updateTime": "2025-10-04 12:22:23",
+    "liveBroadcastSeats": [
+      {
+        "name": "GNZ48",
+        "liveBroadcastSeatAddressList": [
+          {
+            "address": "http://ucdn.letinvr.com/gnzlive/2025-10yue/8k/251003G.MP4"
+          }
+        ]
+      }
+    ]
+  },
+  {
     "id": 22593,
     "cnName": "230312 《他们所不知道的TEAM G》",
     "date": "20230312",
@@ -16584,6 +16605,27 @@
         "liveBroadcastSeatAddressList": [
           {
             "address": "http://ucdn.letinvr.com/snhlive/8K/2323-11yue/231103SIIlScam.MP4"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 26353,
+    "cnName": "251002 Team NIII 《万穗 万穗 万万穗!》队伍周年庆特别公演",
+    "date": "20251002",
+    "contentNumber": "24083134",
+    "firstLetter": "gnz",
+    "duration": "04:17:05",
+    "brief": "gnz",
+    "createTime": "2025-10-04 12:25:04",
+    "updateTime": "2025-10-04 12:25:04",
+    "liveBroadcastSeats": [
+      {
+        "name": "GNZ48",
+        "liveBroadcastSeatAddressList": [
+          {
+            "address": "http://ucdn.letinvr.com/gnzlive/2025-10yue/8k/251002N.MP4"
           }
         ]
       }
