@@ -28,7 +28,7 @@
   "broadcast2Address": "",
   "brief": "gnz",
   "createTime": "2025-09-29 09:56:52",
-  "updateTime": "2025-10-02 22:58:40",
+  "updateTime": "2025-10-04 08:28:11",
   "related": -1,
   "vodId": "",
   "mediaId": "",
@@ -46,18 +46,18 @@
   "reserveThree": "",
   "liveBroadcastSeats": [
     {
-      "id": 26083,
+      "id": 26085,
       "videoId": "29689579",
       "liveId": "29689579",
       "seatId": "29892603070",
       "name": "GNZ48",
       "sort": 0,
-      "createTime": "2025-10-02 22:58:40",
-      "updateTime": "2025-10-02 22:58:40",
+      "createTime": "2025-10-04 08:28:11",
+      "updateTime": "2025-10-04 08:28:11",
       "remark": "",
       "liveBroadcastSeatAddressList": [
         {
-          "id": 62551,
+          "id": 62553,
           "seatId": "29892603070",
           "addressId": "2s3763170852",
           "fileFormat": 3,
@@ -67,8 +67,8 @@
           "productId": -1,
           "address": "http://ucdn.letinvr.com/gnzlive/2025-9yue/250927G30.mp4",
           "sort": 0,
-          "createTime": "2025-10-02 22:58:40",
-          "updateTime": "2025-10-02 22:58:40",
+          "createTime": "2025-10-04 08:28:11",
+          "updateTime": "2025-10-04 08:28:11",
           "remark": "",
           "productInfo": [],
           "videoId": ""
