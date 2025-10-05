@@ -29627,6 +29627,27 @@
     ]
   },
   {
+    "id": 26355,
+    "cnName": "251004 Team Z《幸运柠》张幼柠毕业公演",
+    "date": "20251004",
+    "contentNumber": "27355952",
+    "firstLetter": "gnz",
+    "duration": "03:20:42",
+    "brief": "gnz",
+    "createTime": "2025-10-05 09:13:27",
+    "updateTime": "2025-10-05 09:13:27",
+    "liveBroadcastSeats": [
+      {
+        "name": "GNZ48",
+        "liveBroadcastSeatAddressList": [
+          {
+            "address": "http://ucdn.letinvr.com/gnzlive/2025-10yue/8k/251004Z.MP4"
+          }
+        ]
+      }
+    ]
+  },
+  {
     "id": 26274,
     "cnName": "250816 Team X《Fire X》公演",
     "date": "20250816",
