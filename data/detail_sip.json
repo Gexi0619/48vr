@@ -16982,6 +16982,27 @@
     ]
   },
   {
+    "id": 26356,
+    "cnName": "251004 Team G《瑶光之迹》2.0公演",
+    "date": "20251004",
+    "contentNumber": "24217406",
+    "firstLetter": "gnz",
+    "duration": "02:53:23",
+    "brief": "gnz",
+    "createTime": "2025-10-05 09:13:34",
+    "updateTime": "2025-10-05 09:13:34",
+    "liveBroadcastSeats": [
+      {
+        "name": "GNZ48",
+        "liveBroadcastSeatAddressList": [
+          {
+            "address": "http://ucdn.letinvr.com/gnzlive/2025-10yue/8k/251004G.MP4"
+          }
+        ]
+      }
+    ]
+  },
+  {
     "id": 25716,
     "cnName": "241117 SNH48 年度青春盛典新人TOP16巡演 三机位",
     "date": "20241117",
