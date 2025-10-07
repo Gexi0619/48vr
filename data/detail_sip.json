@@ -4608,6 +4608,27 @@
     ]
   },
   {
+    "id": 26357,
+    "cnName": "251005 Team G《瑶光之迹》2.0公演",
+    "date": "20251005",
+    "contentNumber": "21159989",
+    "firstLetter": "gnz",
+    "duration": "03:26:54",
+    "brief": "gnz",
+    "createTime": "2025-10-07 11:15:12",
+    "updateTime": "2025-10-07 11:15:12",
+    "liveBroadcastSeats": [
+      {
+        "name": "GNZ48",
+        "liveBroadcastSeatAddressList": [
+          {
+            "address": "http://ucdn.letinvr.com/gnzlive/2025-10yue/8k/251005G30.mp4"
+          }
+        ]
+      }
+    ]
+  },
+  {
     "id": 26158,
     "cnName": "250608《HIT SONG RETRO》主题公演·二场",
     "date": "20250608",
@@ -16989,8 +17010,8 @@
     "firstLetter": "gnz",
     "duration": "02:53:23",
     "brief": "gnz",
-    "createTime": "2025-10-05 09:13:34",
-    "updateTime": "2025-10-05 09:13:34",
+    "createTime": "2025-10-05 09:09:01",
+    "updateTime": "2025-10-07 11:09:14",
     "liveBroadcastSeats": [
       {
         "name": "GNZ48",
