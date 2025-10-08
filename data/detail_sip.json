@@ -20328,6 +20328,27 @@
     ]
   },
   {
+    "id": 26358,
+    "cnName": "251006 Team NIII《没有我的世界》陆靖婷生日公演",
+    "date": "20251006",
+    "contentNumber": "25047494",
+    "firstLetter": "gnz",
+    "duration": "03:31:41",
+    "brief": "gnz",
+    "createTime": "2025-10-08 15:01:51",
+    "updateTime": "2025-10-08 15:01:51",
+    "liveBroadcastSeats": [
+      {
+        "name": "GNZ48",
+        "liveBroadcastSeatAddressList": [
+          {
+            "address": "http://ucdn.letinvr.com/gnzlive/2025-10yue/8k/251006N.MP4"
+          }
+        ]
+      }
+    ]
+  },
+  {
     "id": 24841,
     "cnName": "240316《 TEAM G 第51场》",
     "date": "20240316",
