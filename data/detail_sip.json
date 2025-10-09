@@ -4609,14 +4609,14 @@
   },
   {
     "id": 26357,
-    "cnName": "251005 Team G《瑶光之迹》2.0公演抢先版",
+    "cnName": "251005 Team NIII《没有我的世界》项宇婧生日公演 10-06抢先版",
     "date": "20251005",
     "contentNumber": "21159989",
     "firstLetter": "gnz",
     "duration": "03:26:54",
     "brief": "gnz",
     "createTime": "2025-10-07 11:09:18",
-    "updateTime": "2025-10-07 18:26:54",
+    "updateTime": "2025-10-09 14:17:16",
     "liveBroadcastSeats": [
       {
         "name": "GNZ48",
@@ -10615,6 +10615,27 @@
           },
           {
             "address": "http://ucdn.letinvr.com/snhlive/2024-12yue/2k-4k/241225SNH48rScam2k.mp4"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 26359,
+    "cnName": "251007 Team Z《编号3271》队伍周年庆特别公演",
+    "date": "20251007",
+    "contentNumber": "22606058",
+    "firstLetter": "gnz",
+    "duration": "04:00:54",
+    "brief": "gnz",
+    "createTime": "2025-10-09 14:21:44",
+    "updateTime": "2025-10-09 14:21:44",
+    "liveBroadcastSeats": [
+      {
+        "name": "GNZ48",
+        "liveBroadcastSeatAddressList": [
+          {
+            "address": "http://ucdn.letinvr.com/gnzlive/2025-10yue/8k/251007Z3271.MP4"
           }
         ]
       }
