@@ -11473,6 +11473,27 @@
     ]
   },
   {
+    "id": 26360,
+    "cnName": "251008 《call爆你3007》全团联合公演",
+    "date": "20251008",
+    "contentNumber": "22772594",
+    "firstLetter": "gnz",
+    "duration": "03:19:51",
+    "brief": "gnz",
+    "createTime": "2025-10-10 11:28:46",
+    "updateTime": "2025-10-10 11:32:55",
+    "liveBroadcastSeats": [
+      {
+        "name": "GNZ48",
+        "liveBroadcastSeatAddressList": [
+          {
+            "address": "http://ucdn.letinvr.com/gnzlive/2025-10yue/8k/251008CALL%E7%88%86%E4%BD%A03007.MP4"
+          }
+        ]
+      }
+    ]
+  },
+  {
     "id": 26105,
     "cnName": "250505 HII队《阿尔法之芯》公演 三机位",
     "date": "20250505",
