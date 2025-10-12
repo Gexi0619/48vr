@@ -4616,7 +4616,7 @@
     "duration": "03:26:54",
     "brief": "gnz",
     "createTime": "2025-10-07 11:09:18",
-    "updateTime": "2025-10-10 14:26:12",
+    "updateTime": "2025-10-12 10:30:07",
     "liveBroadcastSeats": [
       {
         "name": "GNZ48",
@@ -21014,6 +21014,27 @@
           },
           {
             "address": "http://ucdn.letinvr.com/snhlive/2024-10yue/2k-4k/241027BEJ48rScam2k.mp4"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 26361,
+    "cnName": "251011  Team G《瑶光之迹》2.0公演",
+    "date": "20251011",
+    "contentNumber": "25221791",
+    "firstLetter": "gnz",
+    "duration": "02:53:35",
+    "brief": "gnz",
+    "createTime": "2025-10-12 10:32:59",
+    "updateTime": "2025-10-12 10:32:59",
+    "liveBroadcastSeats": [
+      {
+        "name": "GNZ48",
+        "liveBroadcastSeatAddressList": [
+          {
+            "address": "http://ucdn.letinvr.com/gnzlive/2025-10yue/8k/251011G.MP4"
           }
         ]
       }
