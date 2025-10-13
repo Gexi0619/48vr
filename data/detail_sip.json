@@ -25444,6 +25444,27 @@
     ]
   },
   {
+    "id": 26362,
+    "cnName": "251012 Team Z《斗宿之诀》2.0公演",
+    "date": "20251012",
+    "contentNumber": "26419607",
+    "firstLetter": "gnz",
+    "duration": "02:57:38",
+    "brief": "gnz",
+    "createTime": "2025-10-13 14:50:31",
+    "updateTime": "2025-10-13 14:50:31",
+    "liveBroadcastSeats": [
+      {
+        "name": "GNZ48",
+        "liveBroadcastSeatAddressList": [
+          {
+            "address": "http://ucdn.letinvr.com/gnzlive/2025-10yue/8k/251012N.MP4"
+          }
+        ]
+      }
+    ]
+  },
+  {
     "id": 25908,
     "cnName": "250327 偶像研究计划G组《剧场女神》",
     "date": "20250327",
