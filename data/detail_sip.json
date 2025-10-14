@@ -20156,6 +20156,27 @@
     ]
   },
   {
+    "id": 26363,
+    "cnName": "251012 Team NIII《没有我的世界》公演",
+    "date": "20251012",
+    "contentNumber": "24987005",
+    "firstLetter": "gnz",
+    "duration": "02:58:53",
+    "brief": "gnz",
+    "createTime": "2025-10-14 08:38:19",
+    "updateTime": "2025-10-14 11:03:06",
+    "liveBroadcastSeats": [
+      {
+        "name": "GNZ48",
+        "liveBroadcastSeatAddressList": [
+          {
+            "address": "http://ucdn.letinvr.com/gnzlive/2025-10yue/8k/251012Nnew.MP4"
+          }
+        ]
+      }
+    ]
+  },
+  {
     "id": 23666,
     "cnName": "230726 HII队《终极任务》B版公演 三机位",
     "date": "20230726",
