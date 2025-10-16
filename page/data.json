@@ -4609,20 +4609,20 @@
   },
   {
     "id": 26357,
-    "cnName": "251005 Team NIII《没有我的世界》项宇婧生日公演 抢先版",
+    "cnName": "251005 Team NIII《没有我的世界》项宇婧生日公演",
     "date": "20251005",
     "contentNumber": "21159989",
     "firstLetter": "gnz",
     "duration": "03:26:54",
     "brief": "gnz",
     "createTime": "2025-10-07 11:09:18",
-    "updateTime": "2025-10-12 10:30:07",
+    "updateTime": "2025-10-16 09:03:15",
     "liveBroadcastSeats": [
       {
         "name": "GNZ48",
         "liveBroadcastSeatAddressList": [
           {
-            "address": "http://ucdn.letinvr.com/gnzlive/2025-10yue/8k/251005G30.mp4"
+            "address": "http://ucdn.letinvr.com/gnzlive/2025-10yue/8k/251005G30new.mp4"
           }
         ]
       }
@@ -20398,8 +20398,8 @@
     "firstLetter": "gnz",
     "duration": "03:31:41",
     "brief": "gnz",
-    "createTime": "2025-10-08 15:01:51",
-    "updateTime": "2025-10-08 15:01:51",
+    "createTime": "2025-10-08 15:00:46",
+    "updateTime": "2025-10-16 09:03:13",
     "liveBroadcastSeats": [
       {
         "name": "GNZ48",
