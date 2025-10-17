@@ -41922,6 +41922,27 @@
     ]
   },
   {
+    "id": 26364,
+    "cnName": "251005 Team Z《斗宿之诀》2.0公演（残缺内容）",
+    "date": "20251005",
+    "contentNumber": "29956605",
+    "firstLetter": "gnz",
+    "duration": "01:54:21",
+    "brief": "gnz",
+    "createTime": "2025-10-17 09:18:14",
+    "updateTime": "2025-10-17 09:49:59",
+    "liveBroadcastSeats": [
+      {
+        "name": "GNZ48",
+        "liveBroadcastSeatAddressList": [
+          {
+            "address": "http://ucdn.letinvr.com/gnzlive/2025-10yue/8k/251005Z30.mp4"
+          }
+        ]
+      }
+    ]
+  },
+  {
     "id": 24844,
     "cnName": "240317《 TEAM G 第52场》",
     "date": "20240317",
