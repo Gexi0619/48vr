@@ -13900,6 +13900,27 @@
     ]
   },
   {
+    "id": 26365,
+    "cnName": "251017 Team Z《斗宿之诀》2.0公演",
+    "date": "20251017",
+    "contentNumber": "23365757",
+    "firstLetter": "gnz",
+    "duration": "02:52:14",
+    "brief": "gnz",
+    "createTime": "2025-10-18 13:41:34",
+    "updateTime": "2025-10-18 13:41:34",
+    "liveBroadcastSeats": [
+      {
+        "name": "GNZ48",
+        "liveBroadcastSeatAddressList": [
+          {
+            "address": "http://ucdn.letinvr.com/gnzlive/2025-10yue/8k/251017Z.MP4"
+          }
+        ]
+      }
+    ]
+  },
+  {
     "id": 25705,
     "cnName": "241107 HII队《阿尔法之芯》公演 三机位",
     "date": "20241107",
