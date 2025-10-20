@@ -2793,6 +2793,27 @@
     ]
   },
   {
+    "id": 26366,
+    "cnName": "251018  Team G《瑶光之迹》2.0公演",
+    "date": "20251018",
+    "contentNumber": "20633812",
+    "firstLetter": "gnz",
+    "duration": "02:39:24",
+    "brief": "gnz",
+    "createTime": "2025-10-20 11:04:33",
+    "updateTime": "2025-10-20 11:04:33",
+    "liveBroadcastSeats": [
+      {
+        "name": "GNZ48",
+        "liveBroadcastSeatAddressList": [
+          {
+            "address": "http://ucdn.letinvr.com/gnzlive/2025-10yue/8k/251018G.MP4"
+          }
+        ]
+      }
+    ]
+  },
+  {
     "id": 25753,
     "cnName": "241207 Team G《瑶光之迹》方琪生日公演",
     "date": "20241207",
@@ -3631,6 +3652,27 @@
           },
           {
             "address": "http://ucdn.letinvr.com/gnzlive/2024-10yue/4k-2k/241002Gscam2K.mp4"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 26367,
+    "cnName": "251018 Team NIII《没有我的世界》公演",
+    "date": "20251018",
+    "contentNumber": "20939417",
+    "firstLetter": "gnz",
+    "duration": "03:02:57",
+    "brief": "gnz",
+    "createTime": "2025-10-20 11:05:12",
+    "updateTime": "2025-10-20 11:05:12",
+    "liveBroadcastSeats": [
+      {
+        "name": "GNZ48",
+        "liveBroadcastSeatAddressList": [
+          {
+            "address": "http://ucdn.letinvr.com/gnzlive/2025-10yue/8k/251018N.MP4"
           }
         ]
       }
