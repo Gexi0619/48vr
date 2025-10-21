@@ -14790,6 +14790,27 @@
     ]
   },
   {
+    "id": 26369,
+    "cnName": "251019  Team G《瑶光之迹》2.0公演",
+    "date": "20251019",
+    "contentNumber": "23592883",
+    "firstLetter": "gnz",
+    "duration": "02:48:56",
+    "brief": "gnz",
+    "createTime": "2025-10-21 10:44:46",
+    "updateTime": "2025-10-21 10:44:46",
+    "liveBroadcastSeats": [
+      {
+        "name": "GNZ48",
+        "liveBroadcastSeatAddressList": [
+          {
+            "address": "http://ucdn.letinvr.com/gnzlive/2025-10yue/8k/251019G.MP4"
+          }
+        ]
+      }
+    ]
+  },
+  {
     "id": 25810,
     "cnName": "250108 SNH48《代号XII 2.0》公演 三机位",
     "date": "20250108",
@@ -25467,6 +25488,27 @@
           },
           {
             "address": "http://ucdn.letinvr.com/snhlive/2025-5yue/2k-4k/250525HIIrScam2k.mp4"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 26368,
+    "cnName": "251019 Team Z《斗宿之诀》2.0公演",
+    "date": "20251019",
+    "contentNumber": "26404605",
+    "firstLetter": "gnz",
+    "duration": "02:52:21",
+    "brief": "gnz",
+    "createTime": "2025-10-21 10:44:46",
+    "updateTime": "2025-10-21 10:44:46",
+    "liveBroadcastSeats": [
+      {
+        "name": "GNZ48",
+        "liveBroadcastSeatAddressList": [
+          {
+            "address": "http://ucdn.letinvr.com/gnzlive/2025-10yue/8k/251019Z.MP4"
           }
         ]
       }
