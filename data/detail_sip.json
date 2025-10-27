@@ -1657,6 +1657,27 @@
     ]
   },
   {
+    "id": 26370,
+    "cnName": "251025 Team NIII 《没有我的世界(uN_v3rse)》谢晓倩生日公演",
+    "date": "20251025",
+    "contentNumber": "20371001",
+    "firstLetter": "gnz",
+    "duration": "03:21:24",
+    "brief": "gnz",
+    "createTime": "2025-10-27 10:33:00",
+    "updateTime": "2025-10-27 10:36:32",
+    "liveBroadcastSeats": [
+      {
+        "name": "GNZ48",
+        "liveBroadcastSeatAddressList": [
+          {
+            "address": "http://ucdn.letinvr.com/gnzlive/2025-10yue/8k/251025N.MP4"
+          }
+        ]
+      }
+    ]
+  },
+  {
     "id": 23652,
     "cnName": "230723 X队「艾克斯的神迹」周年庆 三机位",
     "date": "20230723",
@@ -27815,6 +27836,27 @@
           },
           {
             "address": "http://ucdn.letinvr.com/gnzlive/2024-10yue/4k-2k/241020Gscam2k.mp4"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 26371,
+    "cnName": "251025 Team Z《斗宿之诀》2.0公演",
+    "date": "20251025",
+    "contentNumber": "26822987",
+    "firstLetter": "gnz",
+    "duration": "03:03:34",
+    "brief": "gnz",
+    "createTime": "2025-10-27 10:35:16",
+    "updateTime": "2025-10-27 10:36:31",
+    "liveBroadcastSeats": [
+      {
+        "name": "GNZ48",
+        "liveBroadcastSeatAddressList": [
+          {
+            "address": "http://ucdn.letinvr.com/gnzlive/2025-10yue/8k/251025Z.MP4"
           }
         ]
       }
