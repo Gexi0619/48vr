@@ -10863,6 +10863,27 @@
     ]
   },
   {
+    "id": 26372,
+    "cnName": "251026 Team NIII 《没有我的世界(uN_v3rse)》黄汝彤生日公演",
+    "date": "20251026",
+    "contentNumber": "22651419",
+    "firstLetter": "gnz",
+    "duration": "03:26:40",
+    "brief": "gnz",
+    "createTime": "2025-10-28 09:12:23",
+    "updateTime": "2025-10-28 09:14:08",
+    "liveBroadcastSeats": [
+      {
+        "name": "GNZ48",
+        "liveBroadcastSeatAddressList": [
+          {
+            "address": "http://ucdn.letinvr.com/gnzlive/2025-10yue/8k/251026N.MP4"
+          }
+        ]
+      }
+    ]
+  },
+  {
     "id": 26159,
     "cnName": "250608 SNH48《头号新闻》新人公演 三机位",
     "date": "20250608",
@@ -13792,6 +13813,27 @@
           },
           {
             "address": "http://ucdn.letinvr.com/gnzlive/2025-1yue/4k-2k/250119Gscam2k.mp4"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 26373,
+    "cnName": "251026 Team Z《斗宿之诀》2.0公演",
+    "date": "20251026",
+    "contentNumber": "23337781",
+    "firstLetter": "gnz",
+    "duration": "02:53:19",
+    "brief": "gnz",
+    "createTime": "2025-10-28 09:14:46",
+    "updateTime": "2025-10-28 09:14:46",
+    "liveBroadcastSeats": [
+      {
+        "name": "GNZ48",
+        "liveBroadcastSeatAddressList": [
+          {
+            "address": "http://ucdn.letinvr.com/gnzlive/2025-10yue/8k/251026Z.MP4"
           }
         ]
       }
