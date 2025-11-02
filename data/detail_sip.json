@@ -20388,6 +20388,27 @@
     ]
   },
   {
+    "id": 26378,
+    "cnName": "251101 Team NIII 《没有我的世界(uN_v3rse)》",
+    "date": "20251101",
+    "contentNumber": "24999053",
+    "firstLetter": "gnz",
+    "duration": "02:56:24",
+    "brief": "gnz",
+    "createTime": "2025-11-02 13:42:01",
+    "updateTime": "2025-11-02 13:42:01",
+    "liveBroadcastSeats": [
+      {
+        "name": "GNZ48",
+        "liveBroadcastSeatAddressList": [
+          {
+            "address": "http://ucdn.letinvr.com/gnzlive/2025-11yue/251101N.MP4"
+          }
+        ]
+      }
+    ]
+  },
+  {
     "id": 25624,
     "cnName": "241001 HII队《阿尔法之芯》张月铭生日公演 三机位",
     "date": "20241001",
@@ -34967,6 +34988,27 @@
         "liveBroadcastSeatAddressList": [
           {
             "address": "http://ucdn.letinvr.com/snhlive/8K/2023-7yue/230722SNH48rScam.MP4"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 26377,
+    "cnName": "251101 Team G《瑶光之迹》2.0公演",
+    "date": "20251101",
+    "contentNumber": "28458283",
+    "firstLetter": "gnz",
+    "duration": "02:59:07",
+    "brief": "gnz",
+    "createTime": "2025-11-02 13:41:09",
+    "updateTime": "2025-11-02 13:41:09",
+    "liveBroadcastSeats": [
+      {
+        "name": "GNZ48",
+        "liveBroadcastSeatAddressList": [
+          {
+            "address": "http://ucdn.letinvr.com/gnzlive/2025-11yue/251101G.MP4"
           }
         ]
       }
