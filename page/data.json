@@ -21230,6 +21230,27 @@
     ]
   },
   {
+    "id": 26379,
+    "cnName": "251102 Team NIII 《没有我的世界(uN_v3rse)》",
+    "date": "20251102",
+    "contentNumber": "25252210",
+    "firstLetter": "gnz",
+    "duration": "02:42:40",
+    "brief": "gnz",
+    "createTime": "2025-11-04 12:07:20",
+    "updateTime": "2025-11-04 12:07:20",
+    "liveBroadcastSeats": [
+      {
+        "name": "GNZ48",
+        "liveBroadcastSeatAddressList": [
+          {
+            "address": "http://ucdn.letinvr.com/gnzlive/2025-11yue/251102N.MP4"
+          }
+        ]
+      }
+    ]
+  },
+  {
     "id": 23530,
     "cnName": "230701 SII队 《幻镜》B版公演 三机位",
     "date": "20230701",
@@ -36002,6 +36023,27 @@
           },
           {
             "address": "http://ucdn.letinvr.com/gnzlive/2025-3yue/4-2K/250315Zscam302k.mp4"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 26380,
+    "cnName": "251102 Team G《瑶光之迹》2.0公演",
+    "date": "20251102",
+    "contentNumber": "28728292",
+    "firstLetter": "gnz",
+    "duration": "02:59:01",
+    "brief": "gnz",
+    "createTime": "2025-11-04 12:07:49",
+    "updateTime": "2025-11-04 12:07:49",
+    "liveBroadcastSeats": [
+      {
+        "name": "GNZ48",
+        "liveBroadcastSeatAddressList": [
+          {
+            "address": "http://ucdn.letinvr.com/gnzlive/2025-11yue/251102G.MP4"
           }
         ]
       }
