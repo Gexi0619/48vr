@@ -21719,6 +21719,27 @@
     ]
   },
   {
+    "id": 26381,
+    "cnName": "251107 Team G《瑶光之迹》2.0公演",
+    "date": "20251107",
+    "contentNumber": "25453259",
+    "firstLetter": "gnz",
+    "duration": "02:54:30",
+    "brief": "gnz",
+    "createTime": "2025-11-08 18:14:25",
+    "updateTime": "2025-11-08 19:05:53",
+    "liveBroadcastSeats": [
+      {
+        "name": "GNZ48",
+        "liveBroadcastSeatAddressList": [
+          {
+            "address": "http://ucdn.letinvr.com/gnzlive/2025-11yue/251107G.MP4"
+          }
+        ]
+      }
+    ]
+  },
+  {
     "id": 26310,
     "cnName": "250830 TEAM NII《应许之地》B版公演",
     "date": "20250830",
