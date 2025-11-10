@@ -36494,6 +36494,27 @@
     ]
   },
   {
+    "id": 26383,
+    "cnName": "251108 Team Z《斗宿之诀》2.0公演",
+    "date": "20251108",
+    "contentNumber": "28821440",
+    "firstLetter": "gnz",
+    "duration": "03:01:15",
+    "brief": "gnz",
+    "createTime": "2025-11-10 10:26:19",
+    "updateTime": "2025-11-10 10:26:19",
+    "liveBroadcastSeats": [
+      {
+        "name": "GNZ48",
+        "liveBroadcastSeatAddressList": [
+          {
+            "address": "http://ucdn.letinvr.com/gnzlive/2025-11yue/251108Z.MP4"
+          }
+        ]
+      }
+    ]
+  },
+  {
     "id": 26168,
     "cnName": "250615 CKG48 C 《重生计划》 上海巡演 三机位",
     "date": "20250615",
