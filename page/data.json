@@ -5785,6 +5785,27 @@
     ]
   },
   {
+    "id": 26384,
+    "cnName": "251109 Team NIII 《没有我的世界(uN_v3rse)》",
+    "date": "20251109",
+    "contentNumber": "21389387",
+    "firstLetter": "gnz",
+    "duration": "03:53:52",
+    "brief": "gnz",
+    "createTime": "2025-11-11 08:53:58",
+    "updateTime": "2025-11-11 08:53:58",
+    "liveBroadcastSeats": [
+      {
+        "name": "GNZ48",
+        "liveBroadcastSeatAddressList": [
+          {
+            "address": "http://ucdn.letinvr.com/gnzlive/2025-11yue/251109N.MP4"
+          }
+        ]
+      }
+    ]
+  },
+  {
     "id": 23940,
     "cnName": "231006 SII队《幻镜》段艺璇季度MVP表演 三机位",
     "date": "20231006",
@@ -18303,6 +18324,27 @@
           },
           {
             "address": "http://ucdn.letinvr.com/snhlive/2024-4yue/2k-4k/240420NIIlScam302k.mp4"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 26385,
+    "cnName": "251109 Team Z《斗宿之诀》2.0公演",
+    "date": "20251109",
+    "contentNumber": "24478687",
+    "firstLetter": "gnz",
+    "duration": "03:10:05",
+    "brief": "gnz",
+    "createTime": "2025-11-11 08:54:54",
+    "updateTime": "2025-11-11 08:54:54",
+    "liveBroadcastSeats": [
+      {
+        "name": "GNZ48",
+        "liveBroadcastSeatAddressList": [
+          {
+            "address": "http://ucdn.letinvr.com/gnzlive/2025-11yue/251109Z.MP4"
           }
         ]
       }
