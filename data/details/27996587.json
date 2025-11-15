@@ -23,12 +23,12 @@
   "copyrightEnd": "2032-06-30 00:00:00",
   "duration": "02:52:49",
   "videoType": 7,
-  "broadcast8Address": "http://ucdn.letinvr.com/gnzlive/2023-9yue/8k/8k-G2023-10-01%2022-06-19.mp4",
+  "broadcast8Address": "http://ucdn.letinvr.com/gnzlive/2025-11yue/251114G.MP4",
   "broadcast4Address": "",
   "broadcast2Address": "",
   "brief": "gnz",
-  "createTime": "2025-11-15 10:07:51",
-  "updateTime": "2025-11-15 10:07:51",
+  "createTime": "2025-11-15 10:06:39",
+  "updateTime": "2025-11-15 14:52:27",
   "related": -1,
   "vodId": "",
   "mediaId": "",
@@ -44,37 +44,6 @@
   "reserveOne": "",
   "reserveTwo": "",
   "reserveThree": "",
-  "liveBroadcastSeats": [
-    {
-      "id": 26137,
-      "videoId": "27996587",
-      "liveId": "27996587",
-      "seatId": "28710523982",
-      "name": "GNZ48",
-      "sort": 0,
-      "createTime": "2025-11-15 10:07:51",
-      "updateTime": "2025-11-15 10:07:51",
-      "remark": "",
-      "liveBroadcastSeatAddressList": [
-        {
-          "id": 62605,
-          "seatId": "28710523982",
-          "addressId": "2s2170058458",
-          "fileFormat": 3,
-          "vrFormat": 7,
-          "videoDistinguish": 4,
-          "videoRate": 2,
-          "productId": -1,
-          "address": "http://ucdn.letinvr.com/gnzlive/2025-11yue/251114G.MP4",
-          "sort": 0,
-          "createTime": "2025-11-15 10:07:51",
-          "updateTime": "2025-11-15 10:07:51",
-          "remark": "",
-          "productInfo": [],
-          "videoId": ""
-        }
-      ]
-    }
-  ],
+  "liveBroadcastSeats": [],
   "csvResultDTOList": []
 }

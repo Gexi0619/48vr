@@ -5792,18 +5792,9 @@
     "firstLetter": "gnz",
     "duration": "03:53:52",
     "brief": "gnz",
-    "createTime": "2025-11-11 08:53:58",
-    "updateTime": "2025-11-11 08:53:58",
-    "liveBroadcastSeats": [
-      {
-        "name": "GNZ48",
-        "liveBroadcastSeatAddressList": [
-          {
-            "address": "http://ucdn.letinvr.com/gnzlive/2025-11yue/251109N.MP4"
-          }
-        ]
-      }
-    ]
+    "createTime": "2025-11-11 08:52:51",
+    "updateTime": "2025-11-15 14:55:53",
+    "liveBroadcastSeats": []
   },
   {
     "id": 23940,
@@ -18337,18 +18328,9 @@
     "firstLetter": "gnz",
     "duration": "03:10:05",
     "brief": "gnz",
-    "createTime": "2025-11-11 08:54:54",
-    "updateTime": "2025-11-11 08:54:54",
-    "liveBroadcastSeats": [
-      {
-        "name": "GNZ48",
-        "liveBroadcastSeatAddressList": [
-          {
-            "address": "http://ucdn.letinvr.com/gnzlive/2025-11yue/251109Z.MP4"
-          }
-        ]
-      }
-    ]
+    "createTime": "2025-11-11 08:54:07",
+    "updateTime": "2025-11-15 14:55:39",
+    "liveBroadcastSeats": []
   },
   {
     "id": 25179,
@@ -20437,18 +20419,9 @@
     "firstLetter": "gnz",
     "duration": "02:56:24",
     "brief": "gnz",
-    "createTime": "2025-11-02 13:42:01",
-    "updateTime": "2025-11-02 13:42:01",
-    "liveBroadcastSeats": [
-      {
-        "name": "GNZ48",
-        "liveBroadcastSeatAddressList": [
-          {
-            "address": "http://ucdn.letinvr.com/gnzlive/2025-11yue/251101N.MP4"
-          }
-        ]
-      }
-    ]
+    "createTime": "2025-11-02 13:41:17",
+    "updateTime": "2025-11-15 14:57:20",
+    "liveBroadcastSeats": []
   },
   {
     "id": 25624,
@@ -21279,18 +21252,9 @@
     "firstLetter": "gnz",
     "duration": "02:42:40",
     "brief": "gnz",
-    "createTime": "2025-11-04 12:07:20",
-    "updateTime": "2025-11-04 12:07:20",
-    "liveBroadcastSeats": [
-      {
-        "name": "GNZ48",
-        "liveBroadcastSeatAddressList": [
-          {
-            "address": "http://ucdn.letinvr.com/gnzlive/2025-11yue/251102N.MP4"
-          }
-        ]
-      }
-    ]
+    "createTime": "2025-11-04 12:06:06",
+    "updateTime": "2025-11-15 14:57:09",
+    "liveBroadcastSeats": []
   },
   {
     "id": 23530,
@@ -21769,17 +21733,8 @@
     "duration": "02:54:30",
     "brief": "gnz",
     "createTime": "2025-11-08 18:14:25",
-    "updateTime": "2025-11-08 19:05:53",
-    "liveBroadcastSeats": [
-      {
-        "name": "GNZ48",
-        "liveBroadcastSeatAddressList": [
-          {
-            "address": "http://ucdn.letinvr.com/gnzlive/2025-11yue/251107G.MP4"
-          }
-        ]
-      }
-    ]
+    "updateTime": "2025-11-15 14:56:44",
+    "liveBroadcastSeats": []
   },
   {
     "id": 26310,
@@ -32825,18 +32780,9 @@
     "firstLetter": "gnz",
     "duration": "02:52:49",
     "brief": "gnz",
-    "createTime": "2025-11-15 10:07:51",
-    "updateTime": "2025-11-15 10:07:51",
-    "liveBroadcastSeats": [
-      {
-        "name": "GNZ48",
-        "liveBroadcastSeatAddressList": [
-          {
-            "address": "http://ucdn.letinvr.com/gnzlive/2025-11yue/251114G.MP4"
-          }
-        ]
-      }
-    ]
+    "createTime": "2025-11-15 10:06:39",
+    "updateTime": "2025-11-15 14:52:27",
+    "liveBroadcastSeats": []
   },
   {
     "id": 25850,
@@ -35106,18 +35052,9 @@
     "firstLetter": "gnz",
     "duration": "02:59:07",
     "brief": "gnz",
-    "createTime": "2025-11-02 13:41:09",
-    "updateTime": "2025-11-02 13:41:09",
-    "liveBroadcastSeats": [
-      {
-        "name": "GNZ48",
-        "liveBroadcastSeatAddressList": [
-          {
-            "address": "http://ucdn.letinvr.com/gnzlive/2025-11yue/251101G.MP4"
-          }
-        ]
-      }
-    ]
+    "createTime": "2025-11-02 13:39:51",
+    "updateTime": "2025-11-15 14:57:36",
+    "liveBroadcastSeats": []
   },
   {
     "id": 22541,
@@ -36120,18 +36057,9 @@
     "firstLetter": "gnz",
     "duration": "02:59:01",
     "brief": "gnz",
-    "createTime": "2025-11-04 12:07:49",
-    "updateTime": "2025-11-04 12:07:49",
-    "liveBroadcastSeats": [
-      {
-        "name": "GNZ48",
-        "liveBroadcastSeatAddressList": [
-          {
-            "address": "http://ucdn.letinvr.com/gnzlive/2025-11yue/251102G.MP4"
-          }
-        ]
-      }
-    ]
+    "createTime": "2025-11-04 12:07:23",
+    "updateTime": "2025-11-15 14:56:57",
+    "liveBroadcastSeats": []
   },
   {
     "id": 26324,
@@ -36564,18 +36492,9 @@
     "firstLetter": "gnz",
     "duration": "03:01:15",
     "brief": "gnz",
-    "createTime": "2025-11-10 10:26:19",
-    "updateTime": "2025-11-10 10:26:19",
-    "liveBroadcastSeats": [
-      {
-        "name": "GNZ48",
-        "liveBroadcastSeatAddressList": [
-          {
-            "address": "http://ucdn.letinvr.com/gnzlive/2025-11yue/251108Z.MP4"
-          }
-        ]
-      }
-    ]
+    "createTime": "2025-11-10 10:25:22",
+    "updateTime": "2025-11-15 14:56:06",
+    "liveBroadcastSeats": []
   },
   {
     "id": 26168,
@@ -42204,18 +42123,9 @@
     "firstLetter": "gnz",
     "duration": "03:33:07",
     "brief": "gnz",
-    "createTime": "2025-11-09 18:44:21",
-    "updateTime": "2025-11-09 18:44:21",
-    "liveBroadcastSeats": [
-      {
-        "name": "GNZ48",
-        "liveBroadcastSeatAddressList": [
-          {
-            "address": "http://ucdn.letinvr.com/gnzlive/2025-11yue/251108ZhangXin.MP4"
-          }
-        ]
-      }
-    ]
+    "createTime": "2025-11-09 17:47:49",
+    "updateTime": "2025-11-15 14:56:25",
+    "liveBroadcastSeats": []
   },
   {
     "id": 26321,
