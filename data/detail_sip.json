@@ -32818,6 +32818,27 @@
     ]
   },
   {
+    "id": 26386,
+    "cnName": "251114 Team G《瑶光之迹》2.0公演",
+    "date": "20251114",
+    "contentNumber": "27996587",
+    "firstLetter": "gnz",
+    "duration": "02:52:49",
+    "brief": "gnz",
+    "createTime": "2025-11-15 10:07:51",
+    "updateTime": "2025-11-15 10:07:51",
+    "liveBroadcastSeats": [
+      {
+        "name": "GNZ48",
+        "liveBroadcastSeatAddressList": [
+          {
+            "address": "http://ucdn.letinvr.com/gnzlive/2025-11yue/251114G.MP4"
+          }
+        ]
+      }
+    ]
+  },
+  {
     "id": 25850,
     "cnName": "250216 Team NIII《天枢之弈》",
     "date": "20250216",
