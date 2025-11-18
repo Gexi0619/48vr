@@ -22423,6 +22423,18 @@
     ]
   },
   {
+    "id": 26389,
+    "cnName": "251116 Team G《瑶光之迹》2.0公演",
+    "date": "20251116",
+    "contentNumber": "25564628",
+    "firstLetter": "gnz",
+    "duration": "02:52:33",
+    "brief": "gnz",
+    "createTime": "2025-11-18 08:56:40",
+    "updateTime": "2025-11-18 08:56:40",
+    "liveBroadcastSeats": []
+  },
+  {
     "id": 25309,
     "cnName": "240817 X队《交X点》公演 三机位",
     "date": "20240817",
@@ -36309,6 +36321,18 @@
         ]
       }
     ]
+  },
+  {
+    "id": 26390,
+    "cnName": "251116 Team Z《斗宿之诀》2.0公演",
+    "date": "20251116",
+    "contentNumber": "28785497",
+    "firstLetter": "gnz",
+    "duration": "03:10:22",
+    "brief": "gnz",
+    "createTime": "2025-11-18 08:57:13",
+    "updateTime": "2025-11-18 08:57:13",
+    "liveBroadcastSeats": []
   },
   {
     "id": 25639,
