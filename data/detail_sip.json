@@ -11007,6 +11007,18 @@
     ]
   },
   {
+    "id": 26393,
+    "cnName": "251123 Team NII《Nice to Meet You II》广州巡演",
+    "date": "20251123",
+    "contentNumber": "22658761",
+    "firstLetter": "snh",
+    "duration": "03:14:49",
+    "brief": "应许之地",
+    "createTime": "2025-11-24 20:24:05",
+    "updateTime": "2025-11-24 20:24:05",
+    "liveBroadcastSeats": []
+  },
+  {
     "id": 25129,
     "cnName": "240630 Tema G《瑶光之迹》",
     "date": "20240630",
@@ -15833,6 +15845,18 @@
         ]
       }
     ]
+  },
+  {
+    "id": 26391,
+    "cnName": "251121 Team Z《斗宿之诀》2.0公演",
+    "date": "20251121",
+    "contentNumber": "23823109",
+    "firstLetter": "gnz",
+    "duration": "02:56:05",
+    "brief": "gnz",
+    "createTime": "2025-11-22 16:20:37",
+    "updateTime": "2025-11-24 20:19:27",
+    "liveBroadcastSeats": []
   },
   {
     "id": 25144,
@@ -32964,6 +32988,18 @@
         ]
       }
     ]
+  },
+  {
+    "id": 26392,
+    "cnName": "251122 Team G《瑶光之迹》2.0公演",
+    "date": "20251122",
+    "contentNumber": "28028616",
+    "firstLetter": "gnz",
+    "duration": "03:23:11",
+    "brief": "gnz",
+    "createTime": "2025-11-24 20:20:53",
+    "updateTime": "2025-11-24 20:20:53",
+    "liveBroadcastSeats": []
   },
   {
     "id": 22448,
