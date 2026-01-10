@@ -191,7 +191,7 @@
             "columnPosterPathThree": "",
             "child": [],
             "cornerInfo": null,
-            "pointCount": 1
+            "pointCount": 0
           },
           {
             "id": 9725,
@@ -216,7 +216,7 @@
             "columnPosterPathThree": "",
             "child": [],
             "cornerInfo": null,
-            "pointCount": 1
+            "pointCount": 0
           },
           {
             "id": 9726,
@@ -241,7 +241,7 @@
             "columnPosterPathThree": "",
             "child": [],
             "cornerInfo": null,
-            "pointCount": 1
+            "pointCount": 0
           },
           {
             "id": 9723,
@@ -291,7 +291,7 @@
             "columnPosterPathThree": "",
             "child": [],
             "cornerInfo": null,
-            "pointCount": 1
+            "pointCount": 0
           },
           {
             "id": 9721,
@@ -316,7 +316,7 @@
             "columnPosterPathThree": "",
             "child": [],
             "cornerInfo": null,
-            "pointCount": 2
+            "pointCount": 0
           },
           {
             "id": 9722,
@@ -466,7 +466,7 @@
             "columnPosterPathThree": "",
             "child": [],
             "cornerInfo": null,
-            "pointCount": 3
+            "pointCount": 0
           },
           {
             "id": 9716,
@@ -545,11 +545,11 @@
           }
         ],
         "cornerInfo": null,
-        "pointCount": 9
+        "pointCount": 0
       }
     ],
     "cornerInfo": null,
-    "pointCount": 9
+    "pointCount": 0
   },
   {
     "id": 9604,
