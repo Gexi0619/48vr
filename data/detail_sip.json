@@ -21903,20 +21903,14 @@
     "firstLetter": "gnz",
     "duration": "04:04:56",
     "brief": "gnz",
-    "createTime": "2025-07-14 18:05:13",
-    "updateTime": "2025-07-14 18:05:13",
+    "createTime": "2025-07-14 18:02:19",
+    "updateTime": "2026-01-22 10:51:47",
     "liveBroadcastSeats": [
       {
         "name": "GNZ48",
         "liveBroadcastSeatAddressList": [
           {
             "address": "http://ucdn.letinvr.com/gnzlive/2025-7yue/8k/250713HaoGe.MP4"
-          },
-          {
-            "address": "http://ucdn.letinvr.com/gnzlive/2025-7yue/4-2k/250713HaoGe4k.mp4"
-          },
-          {
-            "address": "http://ucdn.letinvr.com/gnzlive/2025-7yue/4-2k/250713HaoGe2k.mp4"
           }
         ]
       }
